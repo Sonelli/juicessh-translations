@@ -1,8 +1,7 @@
 JuiceSSH Translations
 ======
 
-We want **your** help translating JuiceSSH to other languages. In return for your help we're offering **free upgrades to JuiceSSH Pro** for anybody that makes contribution via an accepted pull request. 
-
+We want **your** help translating JuiceSSH to other languages. In return for your help we're offering **free upgrades to JuiceSSH Pro** for anybody that makes contribution via an accepted pull request.
 
 To contribute either create a new translation:
 
