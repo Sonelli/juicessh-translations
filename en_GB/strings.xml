@@ -287,7 +287,7 @@
     <string name="homescreen_shortcut">Homescreen shortcut</string>
     <string name="homescreen_shortcut_created">Homescreen shortcut created</string>
     <string name="popup_keyboard_position">Popup keyboard position</string>
-    <string name="theme_slash_colors">Theme / Colors</string>
+    <string name="theme_slash_colors">Theme / Colours</string>
     <string name="tutorial">Tutorial</string>
     <string name="use_the_volume">Use the volume buttons on your device to adjust the font size on the fly.</string>
     <string name="popup_keyboard">Popup Keyboard</string>
@@ -361,7 +361,7 @@
     <string name="local_forward_description_short">localhost:%1$s to %2$s:%3$s</string>
     <string name="remote_forward_description_short">%1$s:%2$s to %3$s:%4$s</string>
     <string name="invalid_connection">Invalid Connection</string>
-    <string name="for_a_limited_time_only">For a limited time only get a lifetime JuiceSSH Pro license for just %s!\nOne license is valid across all your devices.</string>
+    <string name="for_a_limited_time_only">For a limited time only get a lifetime JuiceSSH Pro licence for just %s!\nOne licence is valid across all your devices.</string>
     <string name="special_offer">Special Offer</string>
     <string name="pick_one">(Pick one)</string>
     <string name="reconnect">Reconnect</string>
@@ -387,17 +387,17 @@
     <string name="host_key_rejected">Host key rejected</string>
     <string name="private_key">Private Key</string>
     <string name="about">About</string>
-    <string name="components_and_licenses">Components and licenses</string>
+    <string name="components_and_licenses">Components and licences</string>
     <string name="establishing_connection">Establishing connection</string>
     <string name="connect_via_only_supports_ssh_connections">\'Connect via\' only supports SSH connections</string>
     <string name="component_name">Component: %s</string>
     <string name="component_author">Author: %s</string>
     <string name="component_url">URL: %s</string>
     <string name="component_description">Description: %s</string>
-    <string name="license_name">License: %s</string>
-    <string name="view_license">View License</string>
-    <string name="could_not_load_license">Could not load license</string>
-    <string name="juicessh_uses_the_following_components">JuiceSSH uses the following open source components in accordance with their open source license requirements.</string>
+    <string name="license_name">Licence: %s</string>
+    <string name="view_license">View Licence</string>
+    <string name="could_not_load_license">Could not load licence</string>
+    <string name="juicessh_uses_the_following_components">JuiceSSH uses the following open source components in accordance with their open source licence requirements.</string>
     <string name="quick_connect">Quick Connect</string>
     <string name="please_enter_your_encryption_password_to_proceed">Please enter your encryption password to proceed.</string>
     <string name="error_occurred_while_trying_to_initiate_ssh_transport">An error occurred while trying to initiate SSHtransport</string>
@@ -465,7 +465,7 @@
     <string name="connection_group">Connection Group</string>
     <string name="team_members">Team Members</string>
     <string name="plugins_description">Plugins are extensions of JuiceSSH functionality written by the community using our plugin development SDK.\n\nAre you interested in creating a JuiceSSH plugin? Check out our SDK and documentation to see exactly what plugins can do, how they work and how easy plugin development can be.</string>
-    <string name="plugins_require_pro">Plugins require a JuiceSSH Pro license. You can still browse the plugin repository and get a feel for the plugins available, however you will need to upgrade if you want to use any of the plugins.</string>
+    <string name="plugins_require_pro">Plugins require a JuiceSSH Pro licence. You can still browse the plugin repository and get a feel for the plugins available, however you will need to upgrade if you want to use any of the plugins.</string>
     <string name="dont_show_this_message_again">Don\'t show this message again</string>
     <string name="invalid_address">Invalid address</string>
     <string name="custom">Custom</string>
@@ -519,7 +519,7 @@
     <string name="our_goal_has_always_been">Our goal has always been to create the best free SSH client on Android. To help support the ongoing development of JuiceSSH, we also offer an optional upgrade with some advanced features that shell-a-holics will appreciate.</string>
     <string name="free">Free</string>
     <string name="pro">Pro</string>
-    <string name="full_colour_terminal">Full color terminal / SSH client with xterm, ncurses and UTF-8 support</string>
+    <string name="full_colour_terminal">Full colour terminal / SSH client with xterm, ncurses and UTF-8 support</string>
     <string name="popup_keyboard_with_special_characters">Popup keyboard with special characters (Ctrl, alt, tab etc)</string>
     <string name="external_keyboard_support">External keyboard support (Bluetooth / USB-OTG)</string>
     <string name="official_mosh_support">Official Mosh support\nhttp://mosh.mit.edu</string>
@@ -536,7 +536,7 @@
     <string name="local_remote_and_dynamic_port_forwards">Local, remote and dynamic (SOCKS) port forwarding</string>
     <string name="store_commands_as_snippets">Store commands and scripts as \'Snippets\', ready to be quickly accessed and used within sessions</string>
     <string name="automatically_run_a_snippet">Automatically run a snippet when connecting to a host</string>
-    <string name="additional_terminal_color_schemes">Additional terminal color schemes including dark, light, molokai and solarized themes</string>
+    <string name="additional_terminal_color_schemes">Additional terminal colour schemes including dark, light, molokai and solarized themes</string>
     <string name="sync_all_of_your_connections">Synchronise all of your connections and settings between devices with CloudSync (AES-256 encrypted)</string>
     <string name="backup_all_of_your_connections">Automatically backup your connections and settings with CloudSync (AES-256 encrypted)</string>
     <string name="sync_groups_of_connections_teamshare">Synchronise groups of connections between teams of people with TeamShare (AES-256 encrypted)</string>
