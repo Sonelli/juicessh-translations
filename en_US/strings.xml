@@ -561,6 +561,17 @@
     <string name="security_lock_migrate_message">By popular demand, the security lock feature has now been updated to use a PIN instead of forcing you to type in an encryption passphrase.\n\nYou will be migrated to the new style the next time you enable the security lock feature in the JuiceSSH settings page.\n\nWould you like to go there now?</string>
     <string name="identity">Identity</string>
     <string name="warning">Warning</string>
+
     <string name="form_key_format">Key Format:</string>
+    <string name="above_terminal">Above Terminal</string>
+    <string name="below_terminal">Below Terminal</string>
+    <string name="hourly">hourly</string>
+    <string name="daily">daily</string>
+    <string name="weekly">weekly</string>
+    <string name="monthly">monthly</string>
+    <string name="alt_mode_default">Default</string>
+    <string name="alt_sends_esc">ALT sends ESC</string>
+    <string name="vibrate_device">Vibrate Device</string>
+    <string name="show_notification">Show Notification</string>
 
 </resources>
