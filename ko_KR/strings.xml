@@ -561,4 +561,16 @@
     <string name="security_lock_migrate_message">많은 요청으로 인해 보안 잠금 기능이 암호화 비밀번호를 입력해야만 했던 방식에서 PIN을 입력하는 방식으로 업데이트되었습니다.\n\n다음부터 설정 페이지에서 보안 잠금 기능을 활성화 시킬 경우 새로운 방식으로 변경되게 됩니다.\n\n지금 설정 페이지로 가보시겠습니까?</string>
     <string name="identity">계정 정보</string>
     <string name="warning">경고</string>
+	
+    <string name="form_key_format">키 형식:</string>
+    <string name="above_terminal">터미널 상단</string>
+    <string name="below_terminal">터미널 하단</string>
+    <string name="hourly">매시간</string>
+    <string name="daily">매일</string>
+    <string name="weekly">매주</string>
+    <string name="monthly">매달</string>
+    <string name="alt_mode_default">기본값</string>
+    <string name="alt_sends_esc">ALT가 ESC를 전송</string>
+    <string name="vibrate_device">기기 진동</string>
+    <string name="show_notification">알림 표시</string> 
 </resources>
