@@ -1,42 +1,42 @@
-Der umfassende Terminal-Client für Android mit Unterstützung für SSH, lokaler Shell, Mosh und Telnet.
+Der umfassende Terminal-Client fÃ¼r Android mit UnterstÃ¼tzung fÃ¼r SSH, lokaler Shell, Mosh und Telnet.
   
 Funktionen: 
 - Farbiger Terminal-/SSH-Client
 - Popup-Tastatur mit allen normalerweise schwer zu findenden Zeichen/Tasten
-- Lautstärkeregler wird verwendet, um einfach die Schriftgröße zu skalieren
-- Unterstützung für externe Tastaturen
-- Gesten für irssi, weechat, tmux und screen
+- LautstÃ¤rkeregler wird verwendet, um einfach die SchriftgrÃ¶ÃŸe zu skalieren
+- UnterstÃ¼tzung fÃ¼r externe Tastaturen
+- Gesten fÃ¼r irssi, weechat, tmux und screen
 - Community und Drittanbieter-Plugins
-- Offizielle Unterstützung für Mosh (http://mosh.mit.edu)
-- Telnet-Unterstützung
-- Unterstützung für lokales Android terminal
+- Offizielle UnterstÃ¼tzung fÃ¼r Mosh (http://mosh.mit.edu)
+- Telnet-UnterstÃ¼tzung
+- UnterstÃ¼tzung fÃ¼r lokales Android terminal
 - Verschiedene Terminal Themes: Dunkel, Hell, 80er Hacker, Molokai, Solarisiert Dunkel, Solarisiert Hell 
-   Für einen Überblick über solarisierte Farbschemata und warum diese wirklich gut sind: http://ethanschoonover.com/solarized
-- Ein Klick auf URLs öffnet diese im Browser
-- Kopieren und Einfügen innerhalb einer Session
+   FÃ¼r einen Ãœberblick Ã¼ber solarisierte Farbschemata und warum diese wirklich gut sind: http://ethanschoonover.com/solarized
+- Ein Klick auf URLs Ã¶ffnet diese im Browser
+- Kopieren und EinfÃ¼gen innerhalb einer Session
 - Speichern und Teilen von SSH Protokollen in Dropbox/Evernote/Email & SD Karte
-- UTF-8-Unterstützung
-- Verbindungen können bequem in Gruppen verwaltet werden
-- Mehrere SSH Verbindungen im Hintergrund möglich
-- Nahtlose Verbindungen über andere SSH-Verbindungen mit einem Klick
+- UTF-8-UnterstÃ¼tzung
+- Verbindungen kÃ¶nnen bequem in Gruppen verwaltet werden
+- Mehrere SSH Verbindungen im Hintergrund mÃ¶glich
+- Nahtlose Verbindungen Ã¼ber andere SSH-Verbindungen mit einem Klick
 - Direkter Zugriff auf die meist verwendeten Verbindungen beim App-Start
-- IPv6-Unterstützung
-- Unterstützung für Passwort & OpenSSH private Schlüssel (ECDSA, RSA and DSA)
-- RSA Schlüssel-Generator (unterstützt auch Verschlüsselung)
-- SSH Schlüssel-Agent Weiterleitung
-- Unterstützung für Zwei-Faktor-Authentifizierung (z.B. mit Google Authenticator)
-- Identitäten (Benutzer/Kennwörter/Schlüssel) werden getrennt von den Verbindungen verwaltet. Somit muss nicht bei jeder Verbindung bei einer Passwortänderung angepasst werden, sondern nur die Identität, welche mit den jeweiligen Verbindungen verknüpft ist.
+- IPv6-UnterstÃ¼tzung
+- UnterstÃ¼tzung fÃ¼r Passwort & OpenSSH private SchlÃ¼ssel (ECDSA, RSA and DSA)
+- RSA SchlÃ¼ssel-Generator (unterstÃ¼tzt auch VerschlÃ¼sselung)
+- SSH SchlÃ¼ssel-Agent Weiterleitung
+- UnterstÃ¼tzung fÃ¼r Zwei-Faktor-Authentifizierung (z.B. mit Google Authenticator)
+- IdentitÃ¤ten (Benutzer/KennwÃ¶rter/SchlÃ¼ssel) werden getrennt von den Verbindungen verwaltet. Somit muss nicht bei jeder Verbindung bei einer PasswortÃ¤nderung angepasst werden, sondern nur die IdentitÃ¤t, welche mit den jeweiligen Verbindungen verknÃ¼pft ist.
 - zlib-Komprimierung, um SSH-Sitzungen zu optimieren bei schlechten Verbindungen mit hohen Latenzen
 
 
 Pro Funktionen (optionaler In-App-Kauf):
-- Schnell und einfaches Port-Forwarding, welches über die App oder über das Widget aktiviert werden kann und wenn benötigt, einen Browser öffnen kann
+- Schnell und einfaches Port-Forwarding, welches Ã¼ber die App oder Ã¼ber das Widget aktiviert werden kann und wenn benÃ¶tigt, einen Browser Ã¶ffnen kann
 - Integration mit Amazon AWS/EC2, Synchronisation von Verbindungen und automatische Gruppierung von Servern basierend auf dessen Typ und Sicherheitsgruppe
-- Sichere Synchronisation sämtlicher Einstellungen über mehrere Geräte hinweg
-- Automatische AES-256-verschlüsselte Backups aller Verbindungen und Einstellungen
-- Ein schönes Widget für schnellen Zugriff zu den meist verwendeten Verbindungen oder einer definierten Gruppe (Android 3.0+)
-- Teamfähigkeit: Teilen Sie Ihre Verbindungsgruppen mit anderen Team-Mitgliedern und arbeiten gemeinsam damit.
-- Handliche Snipplet-Bibliothek für schnellen Zugriff auf Ihre oft genutzten Befehle
-- Sicherheitssperre, um JuiceSSH automatisch nach einer gewissen Zeit Inaktivität automatisch zu sperren
+- Sichere Synchronisation sÃ¤mtlicher Einstellungen Ã¼ber mehrere GerÃ¤te hinweg
+- Automatische AES-256-verschlÃ¼sselte Backups aller Verbindungen und Einstellungen
+- Ein schÃ¶nes Widget fÃ¼r schnellen Zugriff zu den meist verwendeten Verbindungen oder einer definierten Gruppe (Android 3.0+)
+- TeamfÃ¤higkeit: Teilen Sie Ihre Verbindungsgruppen mit anderen Team-Mitgliedern und arbeiten gemeinsam damit.
+- Handliche Snipplet-Bibliothek fÃ¼r schnellen Zugriff auf Ihre oft genutzten Befehle
+- Sicherheitssperre, um JuiceSSH automatisch nach einer gewissen Zeit InaktivitÃ¤t automatisch zu sperren
 
-Für einen genauen Überblick über die Applikationsberechtigungen und wie die jeweiligen in unserer Applikation verwendet werden schauen Sie bitte auf https://juicessh.com/permissions
+FÃ¼r einen genauen Ãœberblick Ã¼ber die Applikationsberechtigungen und wie die jeweiligen in unserer Applikation verwendet werden schauen Sie bitte auf https://juicessh.com/permissions
