@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-<!-- App Strings -->
+    <!-- App Strings -->
     <string name="app_name">JuiceSSH</string>
     <string name="app_package_name">com.sonelli.juicessh</string>
     <string name="app_website">https://juicessh.com</string>
@@ -286,11 +286,11 @@
     <string name="verifying_purchase">Verifierar köp…</string>
     <string name="homescreen_shortcut">Hemskärms genväg</string>
     <string name="homescreen_shortcut_created">Hemskärms genväg skapad</string>
-    <string name="pop-up_keyboard_position">Pop-up tangentbords position</string>
+    <string name="popup_keyboard_position">Pop-up tangentbords position</string>
     <string name="theme_slash_colors">Tema / Färger</string>
     <string name="tutorial">Handledning</string>
     <string name="use_the_volume">Använd volym knapparna för att justera teckenstorleken.</string>
-    <string name="pop-up_keyboard">Pop-up Tangentbord</string>
+    <string name="popup_keyboard">Pop-up Tangentbord</string>
     <string name="tap_the_terminal">Knacka på terminalen för att öppna pop-up tangentbordet med alla de tecken som är svåra att hitta (ctrl, pilar m.m). Svep åt höger för att aktivera/inaktivera autokompletteringen (användbar för IRC m.m).</string>
     <string name="copy_paste_share_save">Kopiera &amp; Klistra in / Spara Transkript / Göm Tangentbord</string>
     <string name="long_press_the_terminal">Håll terminalen nertryckt för kopiering och inklistring och för att dela eller spara sessions transkriptet.</string>
@@ -520,13 +520,13 @@
     <string name="free">Gratis</string>
     <string name="pro">Pro</string>
     <string name="full_colour_terminal">Full färg terminal / SSH klient med xterm, ncurses och UTF-8 stöd</string>
-    <string name="pop-up_keyboard_with_special_characters">Pop-up tangentbord med special tecken (Ctrl, alt, tab m.m.)</string>
+    <string name="popup_keyboard_with_special_characters">Pop-up tangentbord med special tecken (Ctrl, alt, tab m.m.)</string>
     <string name="external_keyboard_support">Externt tangentbords stöd (Bluetooth / USB-OTG)</string>
     <string name="official_mosh_support">Officiellt Mosh stöd\nhttp://mosh.mit.edu</string>
     <string name="telnet_and_local_android_terminal">Telnet och lokal Android terminal stöd</string>
     <string name="community_and_third_party_plugins">Community och tredjeparts tillägg</string>
     <string name="seemlessly_connect_via">Anslut sömnlöst via andra SSH anslutningar med bara ett klick</string>
-    <string name="save_share_session_transcripts">para / Dela SSH transkript till Dropbox/Evernote/Email & SD kort</string>
+    <string name="save_share_session_transcripts">para / Dela SSH transkript till Dropbox/Evernote/Email &amp; SD kort</string>
     <string name="aes_encrypted_database">AES-256 krypterad databas</string>
     <string name="rsa_key_authentication">RSA nyckel autentisering (inkl. agent vidarebefodran)</string>
     <string name="key_import_export_generation">Nyckel importering, exportering och generering</string>
@@ -561,4 +561,5 @@
     <string name="security_lock_migrate_message">På allmän begäran så har nu säkerhetslåset uppdaterats att använda en PIN istället för att be dig skriva in lösenordsfrasen.\n\nDu kommer att migreras till det nya sättet nästa gång du aktiverar säkerhetslåset i JuiceSSH inställningssida.\n\nVill du gå dit nu?</string>
     <string name="identity">Identitet</string>
     <string name="warning">Varning</string>
+    <string name="form_key_format">Nyckel typ:</string>
 </resources>
