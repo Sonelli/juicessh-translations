@@ -144,7 +144,7 @@
     <string name="add_connection">Ajouter une connexion</string>
     <string name="you_must_enter_a_username">Vous devez entrer un nom d\'utilisateur</string>
     <string name="back">Retour</string>
-    <string name="forward">Redirection</string>
+    <string name="forward">Suivant</string>
     <string name="confirm">Confirmer</string>
     <string name="purchase">Acheter</string>
     <string name="connected_once">Connecté une fois</string>
