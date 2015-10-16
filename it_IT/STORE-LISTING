@@ -1,0 +1,43 @@
+Il client terminale tutto in uno per Android: supporta connesioni SSH, shell locali, Mosh e Telnet.
+
+  
+Caratteristiche: 
+- Terminale / client ssh a colori!
+- Tastiera popup con tutti i caratteri che di solito è difficile trovare!
+- Cambia la dimensione del font usando i tasti del volume!
+- Supporto tastiere fisiche!
+- Supporto gesti irssi, weechat, tmux e screen!
+- Comunità attiva e plugin di terze parti!
+- Supporto ufficale di Mosh (http://mosh.mit.edu)!
+- Supporto di telnet!
+- Supporto di shell locali!
+- Tantissimi temi per terminale quali: Scuro, Chiaro, Hacker anni '80, Molokai, Solarizzato Scuro e Solarizzato chiaro!
+   Cliccate qui (http://ethanschoonover.com/solarized) per una descrizione dello schema di colori solarizzato e perché è così bello in un terminale.
+- Clicca sugli URL per aprirli in un browser!
+- Puoi copiare e incollare il testo durante le sessioni!
+- Salva e condividi le trascrizioni delle sessioni in dropbox/evernote, inviali via Email o salvali sulla scheda SD!
+- Supporto dei caratteri UTF-8!
+- Organizza facilmente le connessioni in gruppi!
+- Puoi tenere aperte tante sessioni in background!
+- Connettiti da altre sessioni SSH con un tocco!
+- Accesso immediato alle connessioni più usate all'apertura dell'app!
+- Supporto di IPv6!
+- È supportata l'autenticazione SSH tramite password o chiavi private ECDSA, RSA o DSA!
+- Generatore di chiavi RSA (con supporto per l'encriptazione)!
+- Forwarding di chiavi SSH agent!
+- È anche supportata l'autenticazione a due fattori (es. Google Authenticator)!
+- Le identità (nome utenti/password/chiavi) sono separate dalle connessioni. Invece di modificare tutte le connessioni quando cambi la tua password ti basterà modificare la corrispondente identità!
+- Compressione zlib per migliorare la qualità delle connessioni ad alta latenza!
+
+
+Caratteristiche Pro (Acquisto in-app opzionale):
+- Veloci e semplici forwarding di porte che possono essere aperti dall'applicazione o, se necessario, nel browser.
+- Integrazione con Amazon AWS / EC2, sincronizza connessioni e raggruppa automaticamente connessioni basandosi sulle classi e sui gruppi di sicurezza.
+- Sicronizza tutti i dati in sicurezza tra dispositivi.
+- Backup automatici encrittati con AES-256 di tutte le tue connessioni ed impostazioni.
+- Un bel widget per accedere rapidamente alle connesioni più usate o ad un gruppo (Android 3.0+)
+- Collaborazione di gruppo. Condividi i tuoi gruppi di connessioni con membri del tuo team e cominciate a lavorare insieme.
+- Comoda libreria snippet per accedere rapidamente ai comandi più usati.
+- Blocco di sicurezza per proteggere JuiceSSH dopo un periodo di inattività.
+
+Per un'accurata descrizione dei permessi di questa applicazione e di come ciascuno è usato nel nostro client SSH cliccate qui: https://juicessh.com/permissions
