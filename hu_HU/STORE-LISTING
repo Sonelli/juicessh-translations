@@ -1,0 +1,42 @@
+"Minden egyben" terminál kliens Androidra SSH, Helyi Shell, Mosh és Telnet támogatással.
+  
+Tulajdonságok
+- Teljes színes terminál / ssh kliens
+- Felugró billentyûzet az összes nehezen elérhetõ karakterrel és funkcióval
+- Gyors betûméret-változtatás a hangerõgombokkal
+- Külsõ billenytûzetek támogatása
+- irssi, weechat, tmux és screen gesztusok
+- Közösségi és külsõs pluginok
+- Hivatalos Mosh támogatás (http://mosh.mit.edu)
+- Telnet támogatás
+- Helyi Android terminál támogatás
+- Sötét, Világos, '80-as évek hacker, Molokai, Szolarizált Sötét és Szolarizált Világos terminál színsémák
+   A szolarizált színséma áttekintéséhez és megértéséhez keresd fel a http://ethanschoonover.com/solarized weboldalt!
+- Érintésre böngészõben megnyíló URL-ek
+- Másolás és beillesztés sessionokon belül
+- SSH sessionok átiratának mentése SD kártyára, vagy megosztása Dropbox/Evernote/Email -on keresztül
+- UTF-8 támogatás
+- Kapcsolatok csoportos rendezése
+- Több SSH session futtatása a háttérben
+- Gond nélküli csatlakozás más SSH kapcsolatokkal egy érintésre
+- Azonnali hozzáférés a leggyakoribb kapcsolatokhoz
+- IPv6 támogatás
+- Jelszó és OpenSSH private key (ECDSA, RSA és DSA) támogatás
+- RSA key generátor (titkosítással)
+- SSH key agent forwarding
+- Kétlépcsõs azonosítás támogatása (pl.: Google Authenticator)
+- Identitások (felhasználónevek/jelszavak/key-ek) és kapcsolatok külön tárolása: Egy jelszóváltás esetén nem kell minden kapcsolatot szerkeszteni - elég az identitást.
+- zlib tömörítés a nagy késleltetésû szerverekkel való kommunikáció gyorsításáért
+
+
+Pro Funkciók (opcionális in-app vásárlás):
+- Gyors és egyszerû port forwardok, amikhez automatikusan lehet csatlakozni az alkalmazással vagy widgettel, és szükség esetén bongészõben nyílnak meg
+- Amazon AWS / EC2 integráció, kapcsolatok szinkronizálása és automatikus szervercsoportosítás osztáty és biztonsági csoport alapján
+- Biztonságos szinkronizálás az eszközeid között
+- Automatikus AES-256 titkosítású biztonsági mentések
+- Gyönyörû widget a gyakran használt kapcsolatok gyors eléréséhez, vagy egy különleges csoporthoz (Android 3.0+)
+- Együttmûködés. Osszd meg egy csoportnyi kapcsolatodat a csapattársaiddal és kezdjetek együtt dolgozni.
+- Snippet könyvtár a gyakran használt parancsok eléréséhez
+- Biztonsági zár a JuiceSSH védelmére bizonyos idõ lejárta után
+
+Az alkalmazás engedélyeinek részletes áttekintéséhez, és az engedélyek SSH kliensben való használatának megtekintéséhez látogass el a https://juicessh.com/permissions weboldalra.
