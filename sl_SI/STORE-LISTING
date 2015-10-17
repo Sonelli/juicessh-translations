@@ -1,0 +1,42 @@
+Vse v enem uporabniški terminal, vključno z SSH, Local Shell, Mosh in Telnet podporo.
+  
+Lastnosti: 
+- Polno barvni terminal / ssh 
+- Dodatna tipkovnica z znaki, ki so ponavadi težje dostopni
+- Uporabi glasnostne tipke za povečavo teksta
+- Podpora za zunanje tipkovnice
+- Gesture za irssi, weechat, tmux in screen
+- Vtičniki iz skupnosti in ostali
+- Uradna Mosh podpora (http://mosh.mit.edu)
+- Telnet podpora
+- Podpora za lokalni terminal
+- Temna, Svetla, 80's hacker, Molokai, Ožarčena Temna in Ožarčena Svetla, so barvne teme terminala
+   Za podrobnejši opis Ožarčene barvne sheme in zakaj je odlična za uporabo na terminalu si poglejte tukaj http://ethanschoonover.com/solarized
+- Klik na URL, ga odpre v brskalniku
+- Kopiraj & prilepi znotraj sej
+- Shrani / Deli SSH transskripte v Dropbox/Evernote/E-Pošto & SD kartice 
+- UTF-8 znakovna podpora
+- Preprosta organizacija povezav v skupine
+- Imej več SSH sej, ki se izvajajo v ozadju
+- Preprosto se poveži skozi sotale SSH povezave v enem kliku
+- Takojšni dostop do povezav, ko odprete aplikacijo v največ uporabljeni načinu.
+- IPv6 podpora
+- Gesla & OpenSSH podpora privatnih ključev (ECDSA, RSA in DSA)
+- RSA ključ generator (podprta je tudi enkripcija)
+- SSH posredovalnik ključev
+- Podpora za dvo-koračno avtorizacijo (npr.: Google Authenticator)
+- Identitete(uporabniki/gesla/ključi) So abstrahirani iz povezav. Namesto, da spremenite vsako povezavo - samo posodobite identiteto in vsaka povezava, ki jo uporablja, bo posodobljena.
+- zlib kompresija za izboljšavo SSH sej v visoko zakasnitvenih povezavah
+
+
+Pro Lastnosti (na voljo za nakup v aplikaciji):
+- Hitri in lahki port-forwardingi, ki so lahko povezani skozi aplikacijo ali pripomočkom in so avtomatsko odprti v brskalniku, če je potrebno.
+- Integracija z Amazon AWS / EC2, sinhronizacija povezav in avtomatsko grupiranje strežnikov glede na njihov razred in varnostno skupino.
+- Varno shranite vse in sinhronizirajte med napravami
+- Avtomatsko AES-256 enkripcirane varnostne kopije vseh vaših povezav in nastavitev
+- Prelep pripomoček za vaše večkrat dostopane povezave ali specifične skupine (Android 3.0+).
+- Kolaboracija z ekipo. Delite vaše skupine povezav z člani ekipe in delajte skupaj.
+- Priročne bljižnice ta hiter dostop večkrat uporabljenih komand oz. ukazov
+- Varnostni zaklep za avtomatsko zaščito JuiceSSH po določenem času nedejavnosti
+
+Za podroben pregled te aplikacije in njenih dovoljenj in kako so uporabljene v klientu si poglejte na https://juicessh.com/permissions
