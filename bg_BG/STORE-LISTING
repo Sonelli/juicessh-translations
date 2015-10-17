@@ -1,4 +1,4 @@
-Всичко в едно терминален клиент за Android, включващ SSH, Local Shell, Mosh и Telnet клиент.
+Пълноценен терминален клиент за Android, включващ SSH, Local Shell, Mosh и Telnet клиент.
   
 Възможности: 
 - Цветен terminal / ssh клиент
@@ -6,12 +6,12 @@
 - Използвайте бутоните за звука за да промените размера на шрифта
 - Поддръжка на външна клавиатура
 - Gestures for irssi, weechat, tmux and screen
-- Community and third party plugins
+- Добавки от обшността и от трети лица
 - Официална Mosh поддръжка (http://mosh.mit.edu)
 - Telnet поддръжка
 - Поддръжка на локален Android терминал
 - Тъмна, Светла, 80-те хакер, Molokai, Solarized Dark и Solarized Light цветни теми на терминал
-   За подробности относно solarized цветни теми и защо са толкова добти за терминали отворете http://ethanschoonover.com/solarized
+   За подробности относно solarized цветни теми и защо са толкова добри за терминали отворете http://ethanschoonover.com/solarized
 - Кликнете върху адрес за да го отворите в браузър
 - Копиране и Поставяне в сесиите
 - Запазване / Споделяне на SSH преписи към Dropbox/Evernote/Email & SD карта 
