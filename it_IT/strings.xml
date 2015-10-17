@@ -32,7 +32,7 @@
     <string name="name">Nome:</string>
     <string name="add_team_member">Aggiungi un membro nel gruppo</string>
     <string name="invite_user">Invita nel gruppo</string>
-    <string name="enter_users_email_address_to_invite">Please enter the email address of the person you want to invite to this team:</string>
+    <string name="enter_users_email_address_to_invite">Perfavore immetti l'indirizzo mail della persona che vuoi invitare in questo gruppo:</string>
     <string name="you_must_enter_a_team_name">Devi inserire un nome del gruppo</string>
     <string name="not_set">Non impostato</string>
     <string name="password_colon">Password: </string>
@@ -42,9 +42,9 @@
     <string name="username_colon">Nome utente: </string>
     <string name="optional">(Facoltativo)</string>
     <string name="manage_password">Gestisci le password</string>
-    <string name="teams">Teams:</string>
-    <string name="add_team">Add Team</string>
-    <string name="only_connection_groups_can_be_shared">Only connection groups can be shared</string>
+    <string name="teams">Gruppi:</string>
+    <string name="add_team">Aggiungi Gruppo</string>
+    <string name="only_connection_groups_can_be_shared">Solamente le connessioni di gruppo possono essere condivise</string>
     <string name="teamshare">TeamShare</string>
     <string name="manage_identity">Manage identity</string>
     <string name="juicessh_teamshare_request">JuiceSSH: TeamShare Request</string>
