@@ -17,10 +17,10 @@
     <string name="you_must_select_an_identity">Трябва да изберете самоличност</string>
     <string name="you_must_enter_an_address">Трябва да въведете адрес</string>
     <string name="choose_an_identity">Изберете самоличност</string>
-    <string name="edit">Промяна</string>
-    <string name="share">Споделяне</string>
-    <string name="remove">Премахване</string>
-    <string name="delete">Изтриване</string>
+    <string name="edit">Редактирай</string>
+    <string name="share">Сподели</string>
+    <string name="remove">Премахни</string>
+    <string name="delete">Изтрий</string>
     <string name="no_identity">Без самоличност</string>
     <string name="update_connection">Обновяване на връзка</string>
     <string name="update_group">Обновяване на група</string>
@@ -34,7 +34,7 @@
     <string name="invite_user">Покани в отбор</string>
     <string name="enter_users_email_address_to_invite">Въведете email адреса на човека който искате да поканите в отбор:</string>
     <string name="you_must_enter_a_team_name">Трябва да въведете име на отбор</string>
-    <string name="not_set">Not set</string>
+    <string name="not_set">Не е зададен</string>
     <string name="password_colon">Парола: </string>
     <string name="private_key_colon">Частен ключ: </string>
     <string name="nickname_colon">Прякор: </string>
@@ -57,11 +57,11 @@
     <string name="used_by">Използва се от</string>
     <string name="connection">връзка</string>
     <string name="connections_lowercase">връзки</string>
-    <string name="not_used">Not used</string>
+    <string name="not_used">Не се използва</string>
     <string name="set_private_key">Добавяне на частен ключ</string>
-    <string name="import_">Добавяне</string>
-    <string name="paste">Поставяне</string>
-    <string name="clear">Изчистване</string>
+    <string name="import_">Добави</string>
+    <string name="paste">Постави</string>
+    <string name="clear">Изчисти</string>
     <string name="respond">Отговор</string>
     <string name="invited_you_to">Ви покани в</string>
     <string name="_new">Нов</string>
@@ -79,7 +79,7 @@
     <string name="decryption_of_your_backups_failed">Декодирането е неуспешно заради грешна парола</string>
     <string name="decyrption_of_items_for_team">Декодиране на предметите за отбора</string>
     <string name="failed_due_to_incorrect_password">неуспешно заради грешна парола на отбора</string>
-    <string name="bad_password">Лоша парола</string>
+    <string name="bad_password">Неправилна парола</string>
     <string name="file_path">Път към файл</string>
     <string name="smart_search">Умно търсене</string>
     <string name="enter_path_relative_to_sdcard">Въведете път (относителен към sdcard)</string>
@@ -191,7 +191,7 @@
     <string name="you_can_adjust_the_font">Можете да промените размера на шрифта по време на сесия с помощта на бутоните на звука</string>
     <string name="pro_users_only">Само за Pro потребители</string>
     <string name="utf8_support">UTF-8 поддръжка</string>
-    <string name="copy">Копиране</string>
+    <string name="copy">Копирай</string>
     <string name="make_a_selection">Направете избор</string>
     <string name="text_copied_to_clipboard">Текста е копиран</string>
     <string name="save_transcript">Запази препис</string>
