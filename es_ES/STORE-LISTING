@@ -1,0 +1,42 @@
+El cliente de terminal para Android incluye SSH, Terminal Local, Mosh y soporte Telnet.
+  
+Características: 
+- Terminal a color / Cliente ssh.
+- Teclado extendido con caracteres normalmente difíciles de encontrar.
+- Use las teclas volumen para cambiar rápidamente el tamaño de la letra.
+- Soporte de teclado externo (Bluetooth y vía OTG).
+- Gestos para irssi, weechat, tmux y screen.
+- Extensiones de la Community y terceros.
+- Soporte Oficial Mosh (http://mosh.mit.edu).
+- Soporte Telnet.
+- Soporte para Terminal Local en Android.
+- Temas Oscuro, Claro, Hacker de los 80s, Molokai, Solarizado Oscuro y Claro para el Terminal.
+  Para ver el resumen de colores solarizados y porqué son geniales para usar en el terminal mira en http://ethanschoonover.com/solarized.
+- Abre enlaces del terminal tocándolos.
+- Copiar y pegar entre sesiones.
+- Guarda / Comparte transcripciones SSH diréctamente en Dropbox/Evernote/Correo o tu tarjeta SD.
+- Soporte de codificación UTF-8.
+- Organiza fácilmente tus conexiones por grupo.
+- Mantén múltiples sesiones SSH corriendo en segundo plano.
+- Conéctate 'vía' SSH a otras conexiones con un toque.
+- Acceso inmediato a tus conexiones frecuentes al abrir la aplicación.
+- Soporte IPv6.
+- Soporte para contraseñas y claves privadas OpenSSH (ECDSA, RSA y DSA).
+- Generador de llaves RSA (Soporte de encriptación).
+- Agente de redirección de llaves SSH.
+- Soporte para autentificación de dos factores (ej: Autentificador de Google)
+- Identidades (usuarios/contraseñas/llaves) están abstraídas de las conexiones. En vez de actualizar cada una de las conexiones cuando cambias de contraseña; sólo actualiza la identidad y cualquier conexión asociada a ella usará los nuevos accesos.
+- Compresión ZLib para reducir la latencia de las sesiones SSH.
+
+
+Características Pro (opcional, se puede comprar desde la aplicación):
+- Redirección de puertos rápido y fácil. Pueden ser usados vía aplicación o navegador si es necesario.
+- Integración con Amazon AWS / EC2; sincroniza conexiones y agrupa automáticamente servidores basado en su clase o grupos de seguridad.
+- Mantiene todo sincronizado entre dispositivos de forma segura gracias a su encriptación AES-256.
+- Respaldos de todas sus conexiones y configuraciones encriptadas automáticamente con AES-256.
+- Un hermoso widget para acceso rápido tanto a sus conexiones frecuentes como a un grupo específico (Android 3.0+).
+- Colaboración de equipo. Comparta sus grupos de conexión con miembros del equipo y empiece a trabajar en conjunto.
+- Útil librería de macros para accesar rápidamente s sus comandos más usados.
+- Bloqueo de seguridad que protege automáticamente JuiceSSH después de un periodo de inactividad.
+
+Para conocer más sobre los permisos requeridos por la aplicación y cómo cada uno de estos es usado en nuestro cliente SSH por favor visite https://juicessh.com/permissions
