@@ -286,12 +286,12 @@
     <string name="verifying_purchase">驗證購買中…</string>
     <string name="homescreen_shortcut">主螢幕快捷方式</string>
     <string name="homescreen_shortcut_created">已創建主螢幕快捷方式</string>
-    <string name="popup_keyboard_position">彈出鍵盤未知</string>
+    <string name="popup_keyboard_position">彈出式鍵盤位置</string>
     <string name="theme_slash_colors">主題 / 顏色</string>
     <string name="tutorial">教學指南</string>
     <string name="use_the_volume">使用音量鍵調節字體大小</string>
-    <string name="popup_keyboard">彈出鍵盤</string>
-    <string name="tap_the_terminal">點擊終端以顯示彈出鍵盤，該鍵盤擁有所有常用而又難以找到的字符（比如 Ctrl, 方向鍵等）。向右滑動切換自動補全狀態（在 IRC 中比較有用）。</string>
+    <string name="popup_keyboard">彈出式鍵盤</string>
+    <string name="tap_the_terminal">點擊終端以顯示彈出式鍵盤，該鍵盤擁有所有常用而又難以找到的字符（比如 Ctrl, 方向鍵等）。向右滑動切換自動補全狀態（在 IRC 中比較有用）。</string>
     <string name="copy_paste_share_save">複製，貼上，儲存副本，隱藏鍵盤</string>
     <string name="long_press_the_terminal">在終端中長按便可以複製，貼上，分享或儲存會話副本。</string>
     <string name="ok_i_got_it">好的，知道了！</string>
@@ -520,7 +520,7 @@
     <string name="free">免費</string>
     <string name="pro">高級</string>
     <string name="full_colour_terminal">全色彩終端，並支持 xterm，ncurses，UTF-8 的 SSH 客戶端</string>
-    <string name="popup_keyboard_with_special_characters">特殊字符的彈出鍵盤（Ctrl，Alt，Tab 等等）</string>
+    <string name="popup_keyboard_with_special_characters">特殊字符的彈出式鍵盤（Ctrl，Alt，Tab 等等）</string>
     <string name="external_keyboard_support">支持外接鍵盤（藍牙 / USB-OTG)</string>
     <string name="official_mosh_support">正式的支持 mosh\nhttp://mosh.mit.edu</string>
     <string name="telnet_and_local_android_terminal">支持 Telnet 和 Android 本地 Shell</string>
@@ -549,7 +549,7 @@
     <string name="horizontal_swipe">水平滑動</string>
     <string name="keep_screen_on">保持螢幕恆亮</string>
     <string name="screen_on_warning">在會話結束或轉入後台之前保持螢幕恆亮。這會影響電池的續航時間。</string>
-    <string name="use_this_to_enter_text">這個文本框提供自動補全功能。\n左滑返回彈出鍵盤。</string>
+    <string name="use_this_to_enter_text">這個文本框提供自動補全功能。\n左滑返回彈出式鍵盤。</string>
     <string name="example_snippet"># Enter command or script to run\n# For example:\n\necho \'Hello world\';\nexit 0;\n</string>
     <string name="lock_juicessh_after">在 5 分鐘的不活動後鎖定應用</string>
     <string name="encryption_passphrase">加密密碼</string>
