@@ -280,7 +280,7 @@
     <string name="select_application_to_share_with">选择分享的应用：</string>
     <string name="no_capable_apps_found">未找到合适的应用</string>
     <string name="unlock_pro_version">解锁高级版功能</string>
-    <string name="unlock_pro_version_capitals">解锁高版级功能</string>
+    <string name="unlock_pro_version_capitals">解锁高级版功能</string>
     <string name="click_to_find_out_more">详细了解高级版功能</string>
     <string name="please_try_again_later">请稍后重试</string>
     <string name="verifying_purchase">正在验证购买…</string>
