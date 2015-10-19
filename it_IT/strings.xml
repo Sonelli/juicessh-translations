@@ -400,8 +400,8 @@
     <string name="quick_connect">Connessione rapida</string>
     <string name="please_enter_your_encryption_password_to_proceed">Perfavore,inserisci la tua chiave di criptato per poter procedere.</string>
     <string name="error_occurred_while_trying_to_initiate_ssh_transport">È stato riscontrato un errore mentre provavo ad inizializzare SSHtransport</string>
-    <string name="could_not_find_mosh_installation">Non posso generare un server Mosh nell\'host di destinazione. Il server mosh è installato nel percorso predefinito? You can manually override the location of mosh-server in the connection settings or globally in the Settings menu.</string>
-    <string name="could_not_detect_mosh_port_key">Could not auto-detect Mosh port/key</string>
+    <string name="could_not_find_mosh_installation">Non posso generare un server Mosh nell\'host di destinazione. Il server mosh è installato nel percorso predefinito? Puoi non tenere conto della posizione del mosh server nelle impostazioni di connessione o nel menu Impostazioni.</string>
+    <string name="could_not_detect_mosh_port_key">Non posso riconoscere automaticamente la porta/chiave del server Mosh</string>
     <string name="save_for_future_use">Save connection for future use</string>
     <string name="mosh_server_timed_out">Mosh server timed out</string>
     <string name="the_requested_locale_is_not_installed_on_the_host">The requested locale is not installed on the server. You can change the locale used by JuiceSSH in the Settings menu.</string>
