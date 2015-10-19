@@ -7,8 +7,8 @@
     <string name="app_website">https://juicessh.com</string>
     <string name="menu_settings">Impostazioni</string>
     <string name="welcome">Benvenuto</string>
-    <string name="menu_item_title">Menu Item Title</string>
-    <string name="menu_item_subtitle">Menu Item Subtitle (can be quite long)</string>
+    <string name="menu_item_title">Titolo Menù Nomi</string>
+    <string name="menu_item_subtitle">Sottotitolo Menù Nomi (può essere un pò lungo)</string>
     <string name="icon">Icona</string>
     <string name="juicessh">JuiceSSH</string>
     <string name="signin">Iscriviti...</string>
