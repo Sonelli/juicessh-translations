@@ -561,4 +561,18 @@
     <string name="security_lock_migrate_message">由于用户需求，安全锁的功能更新成使用 PIN 而不是强制使用加密密码。\n\n你将在下次开启安全锁功能时切换到新的方式。\n\n你现在就想切换吗？</string>
     <string name="identity">认证信息</string>
     <string name="warning">警告</string>
+    
+    <string name="form_key_format">密钥格式:</string>
+    <string name="above_terminal">终端上方</string>
+    <string name="below_terminal">终端下方</string>
+    <string name="hourly">每小时</string>
+    <string name="daily">每天</string>
+    <string name="weekly">每周</string>
+    <string name="monthly">每月</string>
+    <string name="alt_mode_default">默认</string>
+    <string name="alt_sends_esc">ALT 键发送 ESC</string>
+    <string name="vibrate_device">振动设备</string>
+    <string name="show_notification">显示通知</string> 
+
+
 </resources>
