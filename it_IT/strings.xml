@@ -358,7 +358,7 @@
     <string name="update_or_clear">Aggiorna / Pulisci</string>
     <string name="port_forwarding_is_part_of_our_pro">La funzione di port forwarding fa parte del pacchetto Pro.\nClicca sotto per una lista completa di tutte le funzioni incluse nel nostro pacchetto pro e come effettuare l\'aggiornamento.</string>
     <string name="local_forward_description_short">localhost:%1$s a %2$s:%3$s</string>
-    <string name="remote_forward_description_short">%1$s:%2$s to %3$s:%4$s</string>
+    <string name="remote_forward_description_short">%1$s:%2$s a %3$s:%4$s</string>
     <string name="invalid_connection">Connessione non valida</string>
     <string name="for_a_limited_time_only">Solamente per un tempo limitato,puoi ottenere un accesso a vita alla licenza di  JuiceSSH Pro a solo %s!\nUna licenza è valida per tutti i tuoi dispositivi.</string>
     <string name="special_offer">Offerta speciale</string>
