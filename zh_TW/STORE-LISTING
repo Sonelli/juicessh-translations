@@ -7,7 +7,7 @@
 - 支援使用外接鍵盤
 - 支援在 irssi，weechat，tmux 和 screen 中使用手勢
 - 社區和第三方開發的插件
-- 正式的支援 mosh (http://mosh.mit.edu)
+- mosh 官方支援 (http://mosh.mit.edu)
 - 支援 Telnet
 - 支援 Android 本地 Shell
 - 支援暗色系，亮色系，80's hacker，Monokai，Solarized 暗色 和 Solarized 暗色 等終端配色
