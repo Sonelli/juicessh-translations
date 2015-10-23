@@ -60,7 +60,7 @@
     <string name="not_used">사용되지 않음</string>
     <string name="set_private_key">개인 키 가져오기</string>
     <string name="import_">불러오기</string>
-    <string name="paste">붙혀넣기</string>
+    <string name="paste">붙여넣기</string>
     <string name="clear">지우기</string>
     <string name="respond">응답</string>
     <string name="invited_you_to">당신을 초대했습니다</string>
