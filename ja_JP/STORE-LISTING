@@ -1,0 +1,42 @@
+SSH, ローカルシェル, Mosh, Telnet をサポートした全部入りのAndroid用クライアント。
+
+機能:
+- フルカラーのターミナルや SSH クライアント
+- 通常、入力が困難な特殊文字のポップアップキーボード
+- ボリュームキーで即座にフォントサイズを変更
+- 外部キーボードのサポート
+- Gestures for irssi, weechat, tmux and screen
+- コミュニティやサードパーティーによるプラグイン
+- Mosh の公式サポート (http://mosh.mit.edu)
+- Telnet をサポート
+- Android のローカルターミナルをサポート
+- Dark, Light, 80's hacker, Molokai, Solarized Dark and Solarized Light terminal color themes
+   For an overview of solarized color scheme and why it rocks for terminal usage check out http://ethanschoonover.com/solarized
+- URL をクリックしてブラウザーで開く
+- セッション内でコピー＆ペースト
+- Save / Share SSH transcripts to Dropbox/Evernote/Email & SD card
+- UTF-8 文字セットをサポート
+- 接続をグループで簡単に管理
+- 複数のSSHセッションをバックグラウンドで接続したままに
+- Seamlessly connect 'via' other SSH connections with one click
+- Immediate access when you open the app to your frequently used connections
+- IPv6 をサポート
+- パスワードと OpenSSH のプライベートキーをサポート (ECDSA, RSA and DSA)
+- RSA key ジェネレーター (encryption supported)
+- SSH key agent forwarding
+- 二段階認証をサポート (例: Google Authenticator)
+- Identities (users/password/keys) are abstracted from connections. Instead of updating every connection when you change your password - just update the identity and any connections linked to it will use the new password/key.
+- zlib compression to improve SSH sessions on high latency connections
+
+
+プロ版の機能 (アプリ内購入オプション):
+- Quick and easy port forwards that can be connected to via the app or widget and can automatically open in a browser if required.
+- Integrate with Amazon AWS / EC2, synchronise connections and automatically group servers based on their class or security groups.
+- セキュリティを保って複数のデバイス間ですべてを同期
+- すべての接続と設定を AES-256 で暗号化して自動バックアップ
+- A beautiful widget for fast access to either your frequently used connections, or a specific group (Android 3.0+).
+- Team collaboration. Share your groups of connections with team members and start working together instead of separately.
+- Handy snippets library for quick access to your frequently used commands
+- Security lock to automatically protect JuiceSSH after a period of inactivity
+
+For a detailed overview of this applications permissions and how each one is used in our ssh client please see https://juicessh.com/permissions
