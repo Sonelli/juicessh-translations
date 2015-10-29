@@ -319,11 +319,11 @@
     <string name="pro_feature">ПРО-функции</string>
     <string name="widgets_are_pro_only">Виджеты являются частью нашего Pro Pack.\nНажмите здесь, чтобы узнать больше.</string>
     <string name="port_forwards">Проброшенные порты</string>
-    <string name="no_port_forwards">Пробросы портов отсутствуют</string>
-    <string name="you_do_not_have_any_port_forwards">У вас нет ни одного настроенного проброса порта</string>
+    <string name="no_port_forwards">Проброшенные порты отсутствуют</string>
+    <string name="you_do_not_have_any_port_forwards">У вас нет ни одного настроенного проброшенного порта</string>
     <string name="disconnect">Отключить</string>
     <string name="socks_forward_description">%s порт является динамическим (SOCKS)</string>
-    <string name="new_port_forward">Создать проброс порта</string>
+    <string name="new_port_forward">Создать проброшенный порт</string>
     <string name="update_port_forward">Обновить проброшенный порт</string>
     <string name="group_name_colon">Название группы:</string>
     <string name="mode_colon">Тип порта:</string>
@@ -339,7 +339,7 @@
     <string name="you_must_pick_a_connection">Необходимо выбрать подключение</string>
     <string name="you_must_enter_a_local_port">Необходимо ввести локальный порт</string>
     <string name="you_must_enter_a_remote_port">Необходимо ввести удаленный порт</string>
-    <string name="manage_port_forward">Управление проброской порта</string>
+    <string name="manage_port_forward">Управление проброшенным портом</string>
     <string name="alt">Alt</string>
     <string name="toggle_keyboard">Переключить клавиатуру</string>
     <string name="locked_out">Заблокировано</string>
@@ -419,7 +419,7 @@
     <string name="juicessh_connections_read_write">Изменить JuiceSSH подключения</string>
     <string name="juicessh_snippets_read_only">Список JuiceSSH сниппетов</string>
     <string name="juicessh_snippets_read_write">Изменить JuiceSSH сниппеты</string>
-    <string name="connection_or_forward_not_found">Не найдено ни одного подключения или проброса</string>
+    <string name="connection_or_forward_not_found">Не найдено ни одного подключения или проброшенного порта</string>
     <string name="snippet_not_found">Сниппет не найден</string>
     <string name="no_command_or_snippet">Не найдено ни одной команды или сниппета</string>
     <string name="plugins">Плагины</string>
