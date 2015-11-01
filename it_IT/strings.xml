@@ -216,7 +216,7 @@
     <string name="edit_snippet">Modifica Snippet</string>
     <string name="manage_snippets">Gestisci Snippets</string>
     <string name="no_snippets">Nessuno Snippet</string>
-    <string name="you_do_not_have_any_snippets">Attualmente non ci sono snippet.\nUtilizzare il pulsante qui sotto e premere a lungo in una sessione per iniziare a salvare.\n\nÈ possibile utilizzare gli snippet in qualsiasi momento durante una sessione di JuiceSSH premendo a lungo la finestra del terminale.</string>
+    <string name="you_do_not_have_any_snippets">Attualmente non ci sono snippet.\nUtilizzare il pulsante qui sotto o premere a lungo in una sessione per iniziare a salvare.\n\nÈ possibile utilizzare gli snippet in qualsiasi momento durante una sessione di JuiceSSH premendo a lungo la finestra del terminale.</string>
     <string name="loading_dot_dot_dot">Caricamento in corso…</string>
     <string name="just_fetching_and_organising_your_connections">soltanto acquisendo e organizzando le connessioni.</string>
     <string name="ec2_sync_profiles">Link Amazon EC2</string>
@@ -244,7 +244,7 @@
     <string name="mapping">Mappatura</string>
     <string name="sync_now">Sincronizza adesso</string>
     <string name="ec2_profile_disabled">Profilo EC2 disabilitato</string>
-    <string name="cant_modify_ec2_connection">Impossibile modificare direttamente una connessione EC2.\nModificare invece il mappatura EC2 genitrice.</string>
+    <string name="cant_modify_ec2_connection">Impossibile modificare direttamente una connessione EC2.\nModificare invece la mappatura EC2 genitrice.</string>
     <string name="cant_duplicate_ec2_connection">Impossibile duplicare una connessione EC2.</string>
     <string name="there_was_a_problem_deleting_this_item">Si è verificato un problema durante l'eliminazione di questo elemento. Esamineremo il problema a breve.</string>
     <string name="unrecognized_failure">Vi poniamo le nostre scuse. Si è verificato un errore sconosciuto\nRiprovare in un minuto.</string>
