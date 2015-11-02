@@ -116,7 +116,7 @@
     <string name="delete_team">刪除團隊</string>
     <string name="change_team_password">修改團隊密碼</string>
     <string name="no_invites">無邀請</string>
-    <string name="you_do_not_have_any_invites">這裡會顯示其他人對你的邀請。你也可以點擊新增按鈕創建屬於自己的團隊！\n\n只要你創建完成，你可以共享你的連接群組給團隊成員。在連接列表長按想要分享的連接群組即可。</string>
+    <string name="you_do_not_have_any_invites">這裡會顯示其他人對你的邀請。你也可以點擊新增按鈕創造屬於自己的團隊！\n\n只要你創造完成，你可以共享你的連接群組給團隊成員。在連接列表長按想要分享的連接群組即可。</string>
     <string name="no_members">無團隊成員</string>
     <string name="this_team_has_no_members">這個團隊沒有成員。\n點擊下面的按鈕邀請他人。\n</string>
     <string name="yes">是</string>
@@ -294,12 +294,12 @@
     <string name="tap_the_terminal">點擊終端以顯示彈出式鍵盤，該鍵盤擁有所有常用而又難以找到的字符（比如 Ctrl, 方向鍵等）。向右滑動切換自動補全狀態（在 IRC 中比較有用）。</string>
     <string name="copy_paste_share_save">複製，貼上，儲存副本，隱藏鍵盤</string>
     <string name="long_press_the_terminal">在終端中長按便可以複製，貼上，分享或儲存會話副本。</string>
-    <string name="ok_i_got_it">好的，知道了！</string>
+    <string name="ok_i_got_it">好，我懂了！</string>
     <string name="group_name">群組名稱</string>
     <string name="please_enter_a_name_for_this_group">請輸入群組名稱</string>
     <string name="invalid_group_name">無效群組名稱</string>
-    <string name="unknown_problem_making_group">創建群組時發生未知錯誤</string>
-    <string name="purchasing_is_disabled">購買功能已經在此設備停用。</string>
+    <string name="unknown_problem_making_group">創造群組時發生未知錯誤</string>
+    <string name="purchasing_is_disabled">購買功能已經在此裝置停用。</string>
     <string name="authentication_cancelled">認證被服務器取消</string>
     <string name="security_lock">安全鎖</string>
     <string name="please_enter_the_indicated_characters_of_your_encryption_password_to_proceed">請輸入加密密碼以繼續。</string>
@@ -400,7 +400,7 @@
     <string name="juicessh_uses_the_following_components">JuiceSSH 使用了以下開源組件，並符合其授權協議</string>
     <string name="quick_connect">快速連接</string>
     <string name="please_enter_your_encryption_password_to_proceed">請輸入你的加密密碼以繼續</string>
-    <string name="error_occurred_while_trying_to_initiate_ssh_transport">創建 SSH 副本失敗</string>
+    <string name="error_occurred_while_trying_to_initiate_ssh_transport">創造 SSH 副本失敗</string>
     <string name="could_not_find_mosh_installation">無法在目標主機上啟動 mosh 服務端。已經安裝了 mosh-server 並在預設 PATH 中嗎？你可以在連接設定中手動指定 mosh-server 的位置，或者在設定菜單中修改全局設定。</string>
     <string name="could_not_detect_mosh_port_key">無法自動檢測 mosh 連接埠和密鑰</string>
     <string name="save_for_future_use">儲存連接以供以後使用</string>
@@ -464,7 +464,7 @@
     <string name="port_forward">連接埠轉發</string>
     <string name="connection_group">連接群組</string>
     <string name="team_members">團隊成員</string>
-    <string name="plugins_description">插件用於擴展 JuiceSSH 的功能，是由社區使用我們的 SDK 開發。\n\n你對創建插件感興趣嗎？查閱我們的 SDK 和文檔來看看插件能做什麼，它是如何工作的，和開發插件是多麼的容易。</string>
+    <string name="plugins_description">插件用於擴展 JuiceSSH 的功能，是由社區使用我們的 SDK 開發。\n\n你對創造插件感興趣嗎？查閱我們的 SDK 和文檔來看看插件能做什麼，它是如何工作的，和開發插件是多麼的容易。</string>
     <string name="plugins_require_pro">插件需要 JuiceSSH 高級版。但你仍可以查看可用插件。不過如果你想用任何插件都需要先購買高級版。</string>
     <string name="dont_show_this_message_again">不再顯示</string>
     <string name="invalid_address">無效地址</string>
@@ -497,10 +497,10 @@
     <string name="failed_to_save_snippet">儲存程式碼片段失敗</string>
     <string name="no_private_keys_found">未找到私鑰。請確認你的私鑰是 OpenSSH 格式（而不是 Putty 的 PPK）。\n\n想瞭解更多請查看此處的常見問題：\n\nhttp://juicessh.com/keys</string>
     <string name="snippet_updated_successfully">片段更新成功</string>
-    <string name="snippet_created_successfully">片段創建成功</string>
+    <string name="snippet_created_successfully">片段創造成功</string>
     <string name="invalid_filename">無效文件名</string>
     <string name="no_private_key_selected">沒有選擇私鑰</string>
-    <string name="pro_users_can_public_key_snippet">JuiceSSH 高級版用戶可以自動創建一個程式碼片段，該程式碼可用於新增公鑰到服務器上的 ~/.ssh/authorized_keys 文件並設定正確的權限。</string>
+    <string name="pro_users_can_public_key_snippet">JuiceSSH 高級版用戶可以自動創造一個程式碼片段，該程式碼可用於新增公鑰到服務器上的 ~/.ssh/authorized_keys 文件並設定正確的權限。</string>
     <string name="transcript">副本</string>
     <string name="downloading_to">下載到 %s</string>
     <string name="sftp_download_complete">SFTP 下載完成</string>
@@ -515,7 +515,7 @@
     <string name="backspace_mode_default">預設 (sends DEL)</string>
     <string name="backspace_mode_legacy">傳統 (sends ^H)</string>
     <string name="unsupported_cpu_architecture">不支持的 CPU 架構。目前僅支持 ARM, x86 和 MIPS 的設備。</string>
-    <string name="binary_not_found">找不到創建連接所需的文件，請聯繫 support@sonelli.com</string>
+    <string name="binary_not_found">找不到創造連接所需的文件，請聯繫 support@sonelli.com</string>
     <string name="our_goal_has_always_been">我們的目標一直是創造 Android 上最好的免費 SSH 客戶端。我們提供了可選的升級功能，來表達我們對支持 JuiceSSH 發展的你的感激。</string>
     <string name="free">免費</string>
     <string name="pro">高級</string>
