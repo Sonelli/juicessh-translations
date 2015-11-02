@@ -382,7 +382,7 @@
     <string name="ssh">SSH</string>
     <string name="telnet">Telnet</string>
     <string name="type_colon">Тип:</string>
-    <string name="local_terminal">Локальный терминал</string>
+    <string name="local_terminal">Локальный Android-терминал</string>
     <string name="couldnt_open_a_mosh_session">Не удалось открыть mosh-сеанс.</string>
     <string name="host_key_rejected">Ключ хоста отклонен</string>
     <string name="private_key">Секретный ключ</string>
