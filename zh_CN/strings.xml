@@ -286,7 +286,7 @@
     <string name="verifying_purchase">验证购买中…</string>
     <string name="homescreen_shortcut">主屏快捷方式</string>
     <string name="homescreen_shortcut_created">已创建主屏快捷方式</string>
-    <string name="popup_keyboard_position">弹出键盘未知</string>
+    <string name="popup_keyboard_position">弹出键盘位置</string>
     <string name="theme_slash_colors">主题 / 颜色</string>
     <string name="tutorial">教程</string>
     <string name="use_the_volume">使用音量键调节字体大小</string>
