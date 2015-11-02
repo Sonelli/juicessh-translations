@@ -1,0 +1,42 @@
+Cliente terminal para Android tudo em um incluindo SSH, Shell local, Mosh e suporte Telnet.
+  
+Características:
+- Terminal Colorido / cliente ssh
+- Teclado Popup com todos aqueles caracteres difícies de se encontrar
+- Utilize as teclas de volume para alterar rapidamente o tamanho da fonte
+- Suporte a teclado externo
+- Gestos para irssi, weechat, tmux e tela
+- Plugins de comunidade e de terceiros
+- Suporte oficial para Mosh (http://mosh.mit.edu)
+- Suporte Telnet
+- Suporte terminal Android local
+- Temas coloridos Dark, Light, 80's hacker, Molokai, Solarized Dark e Solarized Light
+   Mais informações sobre o temas de cores e porque usar no terminal accesse http://ethanschoonover.com/solarized
+- Clique para abrir URLs em um navegador
+- Copiar e Colar dentro de sessões
+- Transcrições Salvar / Compartilhar SSH com Dropbox / Evernote / Email & cartão SD
+- Suporte UTF-8
+- Organize suas conexões por grupo
+- Manter várias sessões SSH rodando em segundo plano
+- Abre uma nova conexão SSH com apenas um clique
+- Acesso imediato quando você abre o app para suas conexões usadas com freqüência
+- Suporte IPv6
+- Password & suporte chave privada OpenSSH (ECDSA, RSA e DSA)
+- RSA gerador de chaves (criptografia suportado)
+- SSH encaminhamento de chave agente
+- Suporte para autenticação de dois fatores (por exemplo: Google Authenticator)
+- Identidades (usuários / / chaves de senha) são abstraídas de conexões. Em vez de atualizar a cada conexão quando você alterar sua senha - basta atualizar a identidade e quaisquer conexões ligadas a ele usará a senha / chave de novo.
+- Compressão zlib para melhorar sessões SSH em conexões de alta latência
+
+Características Pro (opcional compra in-app):
+- Para a frente da porta rápida e fácil que podem ser conectados a através do aplicativo ou widget e pode automaticamente abertos em um navegador, se necessário.
+- Direcionamentos rapido e fácil que podem se conectar pelo app ou pelo widget e pode abrir navegador automaticamente se quiser.
+- Integrar com a Amazon AWS / EC2, sincronizar automaticamente as conexões e os servidores de grupos baseados em seus grupos de classe ou de segurança.
+- Com firmeza manter tudo em sincronia entre vários dispositivos
+- Automated AES-256 backups criptografados de todas as suas conexões e configurações
+- Um widget bonito para acesso rápido a suas conexões tanto frequentemente utilizados, ou um grupo específico (Android 3.0+).
+- Colaboração de equipe. Compartilhe seus grupos de conexões com membros da equipe e começar a trabalhar juntos em vez de separadamente.
+- Biblioteca de trechos Handy para acesso rápido aos seus comandos usados ​​com freqüência
+- Trava de segurança para proteger automaticamente JuiceSSH após um período de inatividade
+
+Para uma descrição pormenorizada desta permissões de aplicativos e como cada um é usado em nosso cliente ssh consulte https://juicessh.com/permissions
