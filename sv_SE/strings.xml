@@ -318,9 +318,9 @@
     <string name="widget_will_update">Widget kommer att uppdateras %s</string>
     <string name="pro_feature">Pro Funktion</string>
     <string name="widgets_are_pro_only">Widgets är en del utav vår Pro Paket.\nTryck här för att läsa mer.</string>
-    <string name="port_forwards">Port Vidarebodringar</string>
-    <string name="no_port_forwards">Inga Port Vidarebodringar</string>
-    <string name="you_do_not_have_any_port_forwards">Du har inga port vidarebodringar konfigurerade</string>
+    <string name="port_forwards">Port Vidarebefodringar</string>
+    <string name="no_port_forwards">Inga Port Vidarebefodringar</string>
+    <string name="you_do_not_have_any_port_forwards">Du har inga port vidarebefodringar konfigurerade</string>
     <string name="disconnect">Koppla ner</string>
     <string name="socks_forward_description">Dynamisk SOCKS på port %s</string>
     <string name="new_port_forward">Ny Port Vidarebefodring</string>
