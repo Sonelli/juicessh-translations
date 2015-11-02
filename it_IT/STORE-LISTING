@@ -11,14 +11,14 @@ Funzionalità:
 - Supporto a Telnet
 - Supporto al terminale Android locale
 - Temi di colore per il terminale Scuro, Chiaro, hacker degli anni '80, Molokai, Solarized Dark e Solarized Light
-   Per una panoramica della combinazione di colori solarized e del perchè "spacca" per l'uso del terminale visita http://ethanschoonover.com/solarized
+   Per una panoramica della combinazione di colori solarized e del perché "spacca" per l'uso del terminale visita http://ethanschoonover.com/solarized
 - Clicca gli URL per aprirli nel browser
 - Copia e incolla all'interno delle sessioni
 - Salva / Condividi le trascrizioni di SSH su Dropbox/Evernote/Email & scheda SD 
 - Supporto ai caratteri UTF-8
 - Organizza facilmente le tue connessioni per gruppo
 - Mantiene sessioni multiple di SSH in esecuzione in background
-- Connssione senza interruzione attraverso altre connessioni SSH con un click
+- Connessione senza interruzione attraverso altre connessioni SSH con un click
 - Accesso immediato alle tue connessioni di uso più frequente quando si apre l'app
 - Supporto a IPv6
 - Supporto a password e chiave privata di OpenSSH (ECDSA, RSA e DSA)
@@ -31,13 +31,13 @@ Funzionalità:
 
 Funzionalità Pro (acquisto opzionale in-app):
 - Port forward facile e veloce che può essere connesso tramite l'applicazione o il widget e può essere automaticamente aperto in un browser se richiesto.
-- Integrazione con Amazon AWS / EC2, sincronizza le connssioni e raggruppa automaticamente i server in base alle loro classi o gruppo di sicurezza.
+- Integrazione con Amazon AWS / EC2, sincronizza le connessioni e raggruppa automaticamente i server in base alle loro classi o gruppo di sicurezza.
 - Mantenere tutto in sincronizzazione in modo sicuro tra più dispositivi
 - Backup automatici cifrati con AES-256 di tutte le tue connessioni e impostazioni
 - Un bellissimo widget per un veloce accesso alle connessioni di uso frequente oppure ad uno specifico gruppo (Android 3.0+).
 - Collaborazione in team. Condividi i tuoi gruppi di connessioni con i membri del team e iniziare a lavorare insieme invece che separatamente.
-- Handy snippets library for quick access to your frequently used commands
+- Libreria di snippet a portata di mano per l'accesso rapido ai comandi di uso frequente
 - Libreria di snippets a portata di mano per un veloce accesso ai tuoi comandi di uso frequente
 - Blocco di sicurezza per proteggere automaticamente JuiceSSH dopo un periodo di attività
 
-Per una panoramica dettagliata dei permessi di questa applicazione e di come ciascuno di essi viene utilizzato nel nostro client ssh perfavore visita https://juicessh.com/permissions
+Per una panoramica dettagliata dei permessi di questa applicazione e di come ciascuno di essi viene utilizzato nel nostro client ssh per favore visita https://juicessh.com/permissions
