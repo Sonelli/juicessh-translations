@@ -190,7 +190,7 @@
     <string name="password_changed_successfully">密碼修改成功</string>
     <string name="you_can_adjust_the_font">你也可以在 SSH 會話中按音量鍵調整字體大小</string>
     <string name="pro_users_only">僅限專業版使用者</string>
-    <string name="utf8_support">UTF-8 支援</string>
+    <string name="utf8_support">支援 UTF-8</string>
     <string name="copy">複製</string>
     <string name="make_a_selection">選擇文字</string>
     <string name="text_copied_to_clipboard">文字已複製到剪貼簿</string>
