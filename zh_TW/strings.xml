@@ -100,7 +100,7 @@
     <string name="form_address">地址：</string>
     <string name="form_port">通訊埠：</string>
     <string name="form_22">22</string>
-    <string name="form_connect_via">連接方式：</string>
+    <string name="form_connect_via">連接透過：</string>
     <string name="form_identity">認證：</string>
     <string name="accept">接受</string>
     <string name="reject">拒絕</string>
@@ -239,7 +239,7 @@
     <string name="filters">過濾器</string>
     <string name="form_aws_key">AWS Key: </string>
     <string name="form_aws_secret">AWS Secret: </string>
-    <string name="click_to_show">點擊查看</string>
+    <string name="click_to_show">點擊顯示</string>
     <string name="cleaning_old_items">正在清除舊項目</string>
     <string name="mapping">對應</string>
     <string name="sync_now">立即同步</string>
@@ -357,7 +357,7 @@
     <string name="interactive_authentication">互動式認證</string>
     <string name="server_message">伺服器訊息</string>
     <string name="update_or_clear">更新 / 清除</string>
-    <string name="port_forwarding_is_part_of_our_pro">通訊埠轉發是高級功能之一。\n點擊下面查看所有專業版包含的功能以及升級。</string>
+    <string name="port_forwarding_is_part_of_our_pro">通訊埠轉發是高級功能之一。\n點擊下面檢視所有專業版包含的功能以及升級。</string>
     <string name="local_forward_description_short">localhost:%1$s 到 %2$s:%3$s</string>
     <string name="remote_forward_description_short">%1$s:%2$s 到 %3$s:%4$s</string>
     <string name="invalid_connection">無效連接</string>
@@ -389,15 +389,15 @@
     <string name="about">關於</string>
     <string name="components_and_licenses">元件及授權</string>
     <string name="establishing_connection">建立連接中</string>
-    <string name="connect_via_only_supports_ssh_connections">\'連接通過\' 僅支持 SSH 連接</string>
-    <string name="component_name">組件：%s</string>
+    <string name="connect_via_only_supports_ssh_connections">\'連接透過\' 僅支援 SSH 連接</string>
+    <string name="component_name">元件：%s</string>
     <string name="component_author">作者：%s</string>
     <string name="component_url">URL: %s</string>
     <string name="component_description">描述：%s</string>
     <string name="license_name">授權：%s</string>
-    <string name="view_license">查看授權</string>
+    <string name="view_license">檢視授權</string>
     <string name="could_not_load_license">無法載入授權</string>
-    <string name="juicessh_uses_the_following_components">JuiceSSH 使用了以下開源組件，並符合其授權協議</string>
+    <string name="juicessh_uses_the_following_components">JuiceSSH 使用以下的開放原始碼元件，並符合其授權需求</string>
     <string name="quick_connect">快速連接</string>
     <string name="please_enter_your_encryption_password_to_proceed">請輸入你的加密密碼以繼續</string>
     <string name="error_occurred_while_trying_to_initiate_ssh_transport">創造 SSH 副本失敗</string>
@@ -454,9 +454,9 @@
     <string name="sftp">SFTP</string>
     <string name="run_snippet">運行程式碼片段：</string>
     <string name="choose_a_snippet">選擇程式碼片段</string>
-    <string name="juicessh_plugin_log_read_only">查看 JuiceSSH 插件審計日誌</string>
+    <string name="juicessh_plugin_log_read_only">檢視 JuiceSSH 插件審計日誌</string>
     <string name="an_error_has_occurred">發生錯誤</string>
-    <string name="view_documentation">查看文檔</string>
+    <string name="view_documentation">檢視文檔</string>
     <string name="basic_settings">基本設定</string>
     <string name="advanced_settings">進階設定</string>
     <string name="command">命令：</string>
@@ -506,7 +506,7 @@
     <string name="sftp_download_complete">SFTP 下載完成</string>
     <string name="sftp_download">SFTP 下載</string>
     <string name="help">幫助</string>
-    <string name="view_our_faq">查看常見問題 FAQ</string>
+    <string name="view_our_faq">檢視常見問題 FAQ</string>
     <string name="dash">-</string>
     <string name="open_sftp_sessions">打開 JuiceSSH SFTP 會話</string>
     <string name="cloudsync_required">需要雲端同步</string>
@@ -525,7 +525,7 @@
     <string name="official_mosh_support">正式的支持 mosh\nhttp://mosh.mit.edu</string>
     <string name="telnet_and_local_android_terminal">支持 Telnet 和 Android 本地 Shell</string>
     <string name="community_and_third_party_plugins">社區和第三方開發的插件</string>
-    <string name="seemlessly_connect_via">通過其他 SSH 連接代理連接</string>
+    <string name="seemlessly_connect_via">透過其他 SSH 連接代理連接</string>
     <string name="save_share_session_transcripts">儲存和分享 SSH 副本到 Dropbox/Evernote/Email 和 SD 卡</string>
     <string name="aes_encrypted_database">AES-256 加密的數據庫</string>
     <string name="rsa_key_authentication">RSA 密鑰認證（包括轉發代理）</string>
