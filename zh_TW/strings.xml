@@ -27,7 +27,7 @@
     <string name="new_identity">新增認證</string>
     <string name="update_identity">更新認證</string>
     <string name="new_group">新增連接群組</string>
-    <string name="pro_features">高級功能</string>
+    <string name="pro_features">Pro 功能</string>
     <string name="new_team">新團隊</string>
     <string name="name">名稱：</string>
     <string name="add_team_member">新增團隊成員</string>
@@ -169,7 +169,7 @@
     <string name="could_not_update_team_password">無法更新團隊密碼</string>
     <string name="account_disabled">帳戶已停用</string>
     <string name="do_you_want_to_retry">你想重試嗎？</string>
-    <string name="starting_backup">開始備份中…</string>
+    <string name="starting_backup">開始備份…</string>
     <string name="encrypting_items">加密中…</string>
     <string name="sending_items">傳送中…</string>
     <string name="receiving_items">接收中…</string>
@@ -189,7 +189,7 @@
     <string name="terminal">終端機</string>
     <string name="password_changed_successfully">密碼修改成功</string>
     <string name="you_can_adjust_the_font">你也可以在 SSH 會話中按音量鍵調整字體大小</string>
-    <string name="pro_users_only">僅限高級使用者</string>
+    <string name="pro_users_only">僅限 Pro 使用者</string>
     <string name="utf8_support">UTF-8 支援</string>
     <string name="copy">複製</string>
     <string name="make_a_selection">選擇文字</string>
@@ -279,13 +279,13 @@
     <string name="share_transcript">分享副本</string>
     <string name="select_application_to_share_with">選擇分享的應用程式：</string>
     <string name="no_capable_apps_found">未找到合適的應用程式</string>
-    <string name="unlock_pro_version">解鎖高級功能</string>
-    <string name="unlock_pro_version_capitals">解鎖高級功能</string>
-    <string name="click_to_find_out_more">詳細了解高級功能</string>
+    <string name="unlock_pro_version">解鎖 Pro 功能</string>
+    <string name="unlock_pro_version_capitals">解鎖 Pro 功能</string>
+    <string name="click_to_find_out_more">詳細了解 Pro 功能</string>
     <string name="please_try_again_later">請稍後重試</string>
     <string name="verifying_purchase">驗證購買中…</string>
-    <string name="homescreen_shortcut">主螢幕捷徑</string>
-    <string name="homescreen_shortcut_created">已創造主螢幕捷徑</string>
+    <string name="homescreen_shortcut">主畫面捷徑</string>
+    <string name="homescreen_shortcut_created">已在主畫面建立捷徑</string>
     <string name="popup_keyboard_position">彈出式鍵盤位置</string>
     <string name="theme_slash_colors">主題 / 顏色</string>
     <string name="tutorial">教學指南</string>
@@ -316,8 +316,8 @@
     <string name="connections_will_be_shown">%s 連接會顯示</string>
     <string name="update_frequency">更新頻率</string>
     <string name="widget_will_update">桌面小工具更新時間： %s</string>
-    <string name="pro_feature">高級功能</string>
-    <string name="widgets_are_pro_only">桌面小工具是功能之一。\n點擊此處了解更多</string>
+    <string name="pro_feature">Pro 功能</string>
+    <string name="widgets_are_pro_only">桌面小工具是 Pro 功能之一。\n點擊此處了解更多</string>
     <string name="port_forwards">通訊埠轉發</string>
     <string name="no_port_forwards">無通訊埠轉發</string>
     <string name="you_do_not_have_any_port_forwards">你還沒設定任何通訊埠轉發</string>
@@ -357,7 +357,7 @@
     <string name="interactive_authentication">互動式認證</string>
     <string name="server_message">伺服器訊息</string>
     <string name="update_or_clear">更新 / 清除</string>
-    <string name="port_forwarding_is_part_of_our_pro">通訊埠轉發是高級功能之一。\n點擊下面查看所有高級版本包含的功能以及升級。</string>
+    <string name="port_forwarding_is_part_of_our_pro">通訊埠轉發是高級功能之一。\n點擊下面查看所有 Pro 版本包含的功能以及升級。</string>
     <string name="local_forward_description_short">localhost:%1$s 到 %2$s:%3$s</string>
     <string name="remote_forward_description_short">%1$s:%2$s 到 %3$s:%4$s</string>
     <string name="invalid_connection">無效連接</string>
@@ -465,7 +465,7 @@
     <string name="connection_group">連接群組</string>
     <string name="team_members">團隊成員</string>
     <string name="plugins_description">插件用於擴展 JuiceSSH 的功能，是由社區使用我們的 SDK 開發。\n\n你對創造插件感興趣嗎？查閱我們的 SDK 和文檔來看看插件能做什麼，它是如何工作的，和開發插件是多麼的容易。</string>
-    <string name="plugins_require_pro">插件需要 JuiceSSH 高級版。但你仍可以查看可用插件。不過如果你想用任何插件都需要先購買高級版。</string>
+    <string name="plugins_require_pro">插件需要 JuiceSSH Pro 版。但你仍可以查看可用插件。不過如果你想用任何插件都需要先購買高級版。</string>
     <string name="dont_show_this_message_again">不再顯示</string>
     <string name="invalid_address">無效地址</string>
     <string name="custom">自定義</string>
@@ -500,7 +500,7 @@
     <string name="snippet_created_successfully">片段創造成功</string>
     <string name="invalid_filename">無效文件名</string>
     <string name="no_private_key_selected">沒有選擇私鑰</string>
-    <string name="pro_users_can_public_key_snippet">JuiceSSH 高級版用戶可以自動創造一個程式碼片段，該程式碼可用於新增公鑰到伺服器上的 ~/.ssh/authorized_keys 文件並設定正確的權限。</string>
+    <string name="pro_users_can_public_key_snippet">JuiceSSH Pro 版使用者可以自動創造一個程式碼片段，該程式碼可用於新增公鑰到伺服器上的 ~/.ssh/authorized_keys 文件並設定正確的權限。</string>
     <string name="transcript">副本</string>
     <string name="downloading_to">下載到 %s</string>
     <string name="sftp_download_complete">SFTP 下載完成</string>
@@ -518,7 +518,7 @@
     <string name="binary_not_found">找不到創造連接所需的文件，請聯繫 support@sonelli.com</string>
     <string name="our_goal_has_always_been">我們的目標一直是創造 Android 上最好的免費 SSH 客戶端。我們提供了可選的升級功能，來表達我們對支持 JuiceSSH 發展的你的感激。</string>
     <string name="free">免費</string>
-    <string name="pro">高級</string>
+    <string name="pro">Pro</string>
     <string name="full_colour_terminal">全色彩終端，並支持 xterm，ncurses，UTF-8 的 SSH 客戶端</string>
     <string name="popup_keyboard_with_special_characters">特殊字符的彈出式鍵盤（Ctrl，Alt，Tab 等等）</string>
     <string name="external_keyboard_support">支持外接鍵盤（藍牙 / USB-OTG)</string>
@@ -542,7 +542,7 @@
     <string name="sync_groups_of_connections_teamshare">通過團隊共享在組員之間同步連接群組（使用 AES-256 加密）</string>
     <string name="security_lock_to_automatically">安全鎖機制能自動在一段時間不使用後鎖定 JuiceSSH</string>
     <string name="auto_import_amazon_ec2_instances">自動匯入 Amazon EC2 實例並生成連接</string>
-    <string name="create_homescreen_shortcuts">通過主螢幕快捷方式便捷的打開連接或通訊埠轉發</string>
+    <string name="create_homescreen_shortcuts">通過主畫面快捷方式便捷的打開連接或通訊埠轉發</string>
     <string name="rate_juicessh">評價 JuiceSSH</string>
     <string name="manage_share">管理分享</string>
     <string name="new_ec2_profile">新 EC2 連接</string>
