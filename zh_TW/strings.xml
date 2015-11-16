@@ -9,7 +9,7 @@
     <string name="welcome">歡迎</string>
     <string name="menu_item_title">選單項標題</string>
     <string name="menu_item_subtitle">選單項子標題（可能非常長）</string>
-    <string name="icon">圖表</string>
+    <string name="icon">圖示</string>
     <string name="juicessh">JuiceSSH</string>
     <string name="signin">登入中…</string>
     <string name="new_connection">新增連接</string>
@@ -402,9 +402,9 @@
     <string name="please_enter_your_encryption_password_to_proceed">請輸入你的加密密碼以繼續</string>
     <string name="error_occurred_while_trying_to_initiate_ssh_transport">創造 SSH 副本失敗</string>
     <string name="could_not_find_mosh_installation">無法在目標主機上啟動 mosh 服務端。已經安裝了 mosh-server 並在預設 PATH 中嗎？你可以在連接設定中手動指定 mosh-server 的位置，或者在設定菜單中修改全局設定。</string>
-    <string name="could_not_detect_mosh_port_key">無法自動檢測 mosh 通訊埠和密鑰</string>
+    <string name="could_not_detect_mosh_port_key">無法自動偵測 mosh 通訊埠 / 金鑰</string>
     <string name="save_for_future_use">儲存連接以供以後使用</string>
-    <string name="mosh_server_timed_out">Mosh 服務端超時</string>
+    <string name="mosh_server_timed_out">Mosh 伺服器已逾時</string>
     <string name="the_requested_locale_is_not_installed_on_the_host">請求的 locale 未在伺服器上安裝。你可以在設定中修改 locale。</string>
     <string name="mosh_requires_a_utf8_locale">Mosh 需要使用 UTF-8 locale。你可以在設定中修改 locale。</string>
     <string name="mosh">Mosh</string>
