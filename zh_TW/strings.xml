@@ -89,8 +89,8 @@
     <string name="please_enter_the_password_for_team">請輸入 \'%s\' 團隊的密碼</string>
     <string name="please_enter_a_new_password_for_team">請輸入 \'%s\' 團隊的新密碼</string>
     <string name="authentication_failure">認證失敗</string>
-    <string name="incorrect_private_key_passphrase">私鑰密碼錯誤</string>
-    <string name="please_enter_your_private_key_passphrase">請輸入私鑰密碼：</string>
+    <string name="incorrect_private_key_passphrase">私鑰密語錯誤</string>
+    <string name="please_enter_your_private_key_passphrase">請輸入私鑰密語：</string>
     <string name="enter_password">請輸入你的密碼：</string>
     <string name="remember_password">記住密碼</string>
     <string name="show_password">顯示密碼</string>
@@ -367,7 +367,7 @@
     <string name="reconnect">重新連接</string>
     <string name="just_fetching_and_organising_your_port_forwards">正在取得通訊埠轉發。</string>
     <string name="via_connection_string">透過 %s</string>
-    <string name="please_enter_your_private_key_passphrase_for">請輸入私鑰 %s 的密碼：</string>
+    <string name="please_enter_your_private_key_passphrase_for">請輸入私鑰 %s 的密語：</string>
     <string name="enter_password_for">請輸入 %s 的密碼：</string>
     <string name="page_down">PgDn</string>
     <string name="page_up">PgUp</string>
@@ -428,7 +428,7 @@
     <string name="enabled">已啟用</string>
     <string name="cloudsync_is_enabled">雲端同步已啟用</string>
     <string name="open_juicessh_sessions">開啟並操作 JuiceSSH 會話</string>
-    <string name="cloudsync_long_description">雲端同步會在你的所有裝置上安全的備份或同步連接和設定。\n\n雲端同步使用強健的 AES-256 來保護你的所有信息。所有同步的信息都只能通過你設定的密碼來解密。\n\nguan不管是JuiceSSH 的雲端同步伺服器，還是 Google 或者其他不懷好意的人都無法竊取或解密你的信息。</string>
+    <string name="cloudsync_long_description">雲端同步會在你的所有裝置上安全的備份或同步連接和設定。\n\n雲端同步使用強健的 AES-256 來保護你的所有信息。所有同步的信息都只能通過你設定的密語來解密。\n\nguan不管是JuiceSSH 的雲端同步伺服器，還是 Google 或者其他不懷好意的人都無法竊取或解密你的信息。</string>
     <string name="cloudsync_is_disabled">雲端同步已停用</string>
     <string name="manage">管理</string>
     <string name="include_identities">包含認證信息</string>
@@ -481,7 +481,7 @@
     <string name="key_strength_1024">1024 位</string>
     <string name="key_strength_2048">2048 位</string>
     <string name="key_strength_4096">4096 位</string>
-    <string name="form_passphrase">密碼：</string>
+    <string name="form_passphrase">密語：</string>
     <string name="juicessh_will_automatically_push_keys">JuiceSSH 會自動在你使用此認證信息連接到伺服器時，將此公鑰放到你的 ~/.ssh/authorized_keys 。</string>
     <string name="you_can_export_key">一旦生成，你可以通過長按來匯出公鑰。你需要將其儲存到你伺服器上的 ~/.ssh/authorized_keys 文件中才能使用。</string>
     <string name="key_generation_failed">錯誤：密鑰生成失敗</string>
@@ -552,11 +552,11 @@
     <string name="use_this_to_enter_text">這個文本框提供自動補全功能。\n左滑返回彈出式鍵盤。</string>
     <string name="example_snippet"># Enter command or script to run\n# For example:\n\necho \'Hello world\';\nexit 0;\n</string>
     <string name="lock_juicessh_after">Lock app after 5min inactivity</string>
-    <string name="encryption_passphrase">Encryption Passphrase</string>
+    <string name="encryption_passphrase">加密密語</string>
     <string name="enter_your_pin_to_unlock">Please enter your PIN to unlock JuiceSSH</string>
     <string name="please_set_a_pin">Please set a PIN to enable security lock</string>
     <string name="cloudsync_passphrase_required">In order to encrypt your information during the synchronisation process an encryption passphrase is required.\n\nYou must use the same passphrase on all of your devices in order for CloudSync to function.</string>
-    <string name="update_passphrase">Update Passphrase</string>
+    <string name="update_passphrase">更改密語</string>
     <string name="app_security">App Security</string>
     <string name="security_lock_migrate_message">By popular demand, the security lock feature has now been updated to use a PIN instead of forcing you to type in an encryption passphrase.\n\nYou will be migrated to the new style the next time you enable the security lock feature in the JuiceSSH settings page.\n\nWould you like to go there now?</string>
     <string name="identity">Identity</string>
