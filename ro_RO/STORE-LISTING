@@ -1,0 +1,41 @@
+Clientul terminal tot-in-unul pentru Android include suport pentru SSH, Shell local, Mosh si Telnet.
+  
+Functionaliate:
+- Terminal complet color / client ssh
+- Tastatura popup cu toate caracterele greu de gasit in mod normal
+- Folositi tastele volum pentru a schimba rapid marimea fontului
+- Suport extins tastatura
+- Gesturi pentru irssi, weechat, tmux si screen
+- Plugin-uri din comunitatea si de la terti
+- Suport oficial Mosh (http://mosh.mit.edu)
+- Suport telnet
+- Suport terminal Android local
+- Teme terminal color Dark, Light, 80's hacker, Molokai, Solarized Dark and Solarized Light
+   Pentru o vedere generala a schemei solarized si de ce este asa de tare pentru terminale vizitati http://ethanschoonover.com/solarized 
+- Da click pe URL-uri pentru a deschide in browser
+- Copy si Paste intre sesiuni
+- Salvare / Partajare transcrieri SSH catre Dropbox/Evernote/Email si card SD
+- Suport caractere UTF-8
+- Organizati usor conexiunile in grupuri
+- Mentineti deschise in fundal sesiuni SSH multiple
+- Va conectati fara probleme 'via' alta conexiune SSH printr-un singur click
+- Acces imediat la conexiunile folosite frecvent cand deschideti aplicatia
+- Suport IPv6
+- Suport pentru parole si chei private OpenSSH (ECDSA, RSA si DSA)
+- Generator chei RSA (cu suport pentru criptare)
+- Forwarding agent cheie SSH
+- Suport pentru autentificare in doi pasi (eg: Google Authenticator)
+- Identitatile (utilizatori/parola/chei) sunt diferentiate de conexiuni. In loc sa actualizati toate conexiunile cand schimbati o parola actualizati doar identitatea si orice conexiune ce o foloseste va folosi noua parola/cheie.
+- Compresie zlib pentru a imbunatati sesiunile SSH ce folosesc conexiuni cu latenta mare
+
+Functionalitate Pro (achizitie in aplicatie optionala):
+- Forwardare porturi rapida si usoara ce se poate conecta din aplicatie sau widget si poate deschide automat in browser daca este nevoie.
+- Integrare cu Amazon AWS / EC2, sincronizare automata conexiuni si grupuri in functie de clasa si grup de securitate
+- Sincronizati totul sigur intre dispozitive multiple
+- Copii de siguranta automate criptate AES-256 pentru toate setarile si conexiunile
+- Un widget elegant pentru acces rapid la conexiunile folosite frecvent sau un grup specific (Android 3.0+).
+- Colaborare intre echipe. Partajati grupurile de conexiuni cu membrii echipei si lucrati impreuna in loc de a lucra separat.
+- Librarie de fragmente utile pentru acces rapid la comenzile utilizate frecvent
+- Blocare de securitate automata pentru a proteja JuiceSSH dupa o perioada de inactivitate
+
+Pentru o descriere detaliata a permisiunilor acestei aplicatii si cum este fiecare folosita de catre clientul nostru ssh va rugam vizitati https://juicessh.com/permissions
