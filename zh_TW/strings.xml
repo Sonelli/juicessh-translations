@@ -74,7 +74,7 @@
     <string name="you_must_set_a_password">您必須設定密碼</string>
     <string name="incorrect_decryption_password">解密密碼錯誤</string>
     <string name="incorrect_decryption_password_for_team">團隊解密密碼錯誤</string>
-    <string name="teamshare_password_explanation">此密碼會用於加密所有群組共享的連接。其他的團隊成員需要在加入團隊時輸入此密碼，才能在他們的設備上瀏覽這些資訊。</string>
+    <string name="teamshare_password_explanation">此密碼會用於加密所有群組共享的連接。其他的團隊成員需要在加入團隊時輸入此密碼，才能在他們的裝置上瀏覽這些資訊。</string>
     <string name="cloudsync">雲端同步</string>
     <string name="decryption_of_your_backups_failed">由於密碼錯誤，解密備份失敗</string>
     <string name="decyrption_of_items_for_team">解密團隊項目</string>
@@ -98,7 +98,7 @@
     <string name="form_nickname">暱稱：</string>
     <string name="form_optional">（可選）</string>
     <string name="form_address">主機：</string>
-    <string name="form_port"連結埠：</string>
+    <string name="form_port">連結埠：</string>
     <string name="form_22">22</string>
     <string name="form_connect_via">連接透過：</string>
     <string name="form_identity">身份：</string>
