@@ -98,7 +98,7 @@
     <string name="form_nickname">暱稱：</string>
     <string name="form_optional">（可選）</string>
     <string name="form_address">主機：</string>
-    <string name="form_port">連結埠：</string>
+    <string name="form_port">連接埠：</string>
     <string name="form_22">22</string>
     <string name="form_connect_via">連接透過：</string>
     <string name="form_identity">身份：</string>
