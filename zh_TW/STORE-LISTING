@@ -11,7 +11,7 @@
 - 支援 Telnet
 - 支援 Android 本地端 Shell
 - 支援暗色系，亮色系，80's hacker，Monokai，Solarized 暗色和 Solarized 亮色等終端配色
-   如想檢視 Solarized 的外觀，或想知道它為什麼適用於終端使用，請訪問 http://ethanschoonover.com/solarized
+   如想檢視 Solarized 的樣子，或想知道它為什麼適用於終端使用，請訪問 http://ethanschoonover.com/solarized
 - 點擊鏈接以在瀏覽器中打開
 - 在工作階段中複製和貼上
 - 儲存和分享 SSH 副本到 Dropbox/Evernote/Email 和 SD 卡
@@ -29,7 +29,7 @@
 - 支援 zlib 壓縮，藉此優化 SSH 工作階段在高延遲網路環境之順暢度
 
 
-高級功能（可通在應用內支付購買）：
+高級功能（可在應用程式內購買）：
 - 快速方便的透過應用或桌面插件連接埠轉發，還能自動打開瀏覽器。
 - 集成了對 Amazon AWS / EC2 的支援，自動根據分類和安全組來同步連接和群組。
 - 透過加密的方式安全地在多台設備之間同步
