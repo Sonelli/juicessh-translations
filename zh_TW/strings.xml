@@ -1,1 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
 
+    <!-- App Strings -->
+    <string name="app_name">JuiceSSH</string>
+    <string name="app_package_name">com.sonelli.juicessh</string>
+    <string name="app_website">https://juicessh.com</string>
+    <string name="menu_settings">設定</string>
+    <string name="welcome">歡迎</string>
+    <string name="menu_item_title">選單項目</string>
+    <string name="menu_item_subtitle">選單子選項(可能有夠長)</string>
+    <string name="icon">圖示</string>
+    <string name="juicessh">JuiceSSH</string>
+    <string name="signin">登入…</string>
+    <string name="new_connection">新連線</string>
+    <string name="save">儲存</string>
+    <string name="you_must_select_an_identity">您必須選用一個身分</string>
+    <string name="you_must_enter_an_address">您必須輸入一個位址</string>
+    <string name="choose_an_identity">選用身分</string>
+    <string name="edit">編輯</string>
+    <string name="share">共用</string>
+    <string name="remove">移除</string>
+    <string name="delete">刪除</string>
+    <string name="no_identity">無身分
