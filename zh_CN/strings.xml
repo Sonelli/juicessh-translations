@@ -574,5 +574,9 @@
     <string name="vibrate_device">振动设备</string>
     <string name="show_notification">显示通知</string> 
 
+    <string name="bookclub">Bookclub</string>
+    <string name="bookclub_description">书籍是一个伟大的信息来源，了解新技术。下面是一些来自JuiceSSH社区推荐的。你可以建议您的收藏夹与下面的按钮。</string>
+    <string name="suggest_more_books">推荐更多图书</string>
+    <string name="find_and_recommend_books">查找和推荐书</string>
 
 </resources>

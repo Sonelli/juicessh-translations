@@ -571,4 +571,10 @@
     <string name="alt_sends_esc">ALT envia ESC</string>
     <string name="vibrate_device">Vibrar dispositivo</string>
     <string name="show_notification">Mostrar notificação</string>
+
+    <string name="bookclub">Bookclub</string>
+    <string name="bookclub_description">Os livros são uma grande fonte de informação para aprender sobre novas tecnologias. Aqui estão alguns que vêm recomendados por parte da comunidade JuiceSSH. Você pode sugerir seus favoritos com o botão abaixo.</string>
+    <string name="suggest_more_books">Sugerir Mais Livros</string>
+    <string name="find_and_recommend_books">Encontre e recomendar livros</string>
+
 </resources>

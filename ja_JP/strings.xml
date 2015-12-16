@@ -574,4 +574,9 @@
     <string name="vibrate_device">端末を振動</string>
     <string name="show_notification">通知を表示</string>
 
+    <string name="bookclub">Bookclub</string>
+    <string name="bookclub_description">書籍新技術について学ぶために重要な情報源です。ここJuiceSSHコミュニティから推奨くるものもあります。あなたは下のボタンを押してお気に入りを提案することができます。</string>
+    <string name="suggest_more_books">提案詳細洋書</string>
+    <string name="find_and_recommend_books">本を見つけて、お勧めします</string>
+
 </resources>

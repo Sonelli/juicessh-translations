@@ -573,5 +573,9 @@
     <string name="vibrate_device">Fai vibrare il device</string>
     <string name="show_notification">Visualizza notifica</string> 
 
+    <string name="bookclub">Bookclub</string>
+    <string name="bookclub_description">I libri sono una grande fonte di informazioni per conoscere le nuove tecnologie. Qui ci sono alcuni che vengono raccomandato dalla comunità JuiceSSH. Puoi suggerire tuoi preferiti con il pulsante qui sotto.</string>
+    <string name="suggest_more_books">Suggerisci altri libri</string>
+    <string name="find_and_recommend_books">Trovare e raccomandare i libri</string>
 
 </resources>
