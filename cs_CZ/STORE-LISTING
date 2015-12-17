@@ -26,17 +26,18 @@ Přednosti:
 - Přesměrování agenta klíčů SSH
 - Podpora dvoufaktorového ověření (např. Google Authenticator)
 - Správa identit (uživatelé/hesla/klíče) je nezávislá na spojeních. Místo aktualizace každého spojení při změně hesla stačí pouze změnit záznam v dané identitě a všechna relevantní spojení začnou používat nové údaje.
-- Komprese zlib k zlepšení rychlosti na spojeních s vysokou latencí
+- Komprese zlib ke zlepšení rychlosti na spojeních s vysokou latencí
 
 
-Navíc Pro verzi (možnost nákupu v aplikaci):
+Navíc v Pro verzi (možnost nákupu v aplikaci):
 - Rychlé a jednoduché přesměrování portů, které lze provést v aplikaci nebo widgetu, v případě potřeby může být automaticky otevřeno v prohlížeči.
 - Integrace s Amazon AWS / EC2, synchronizace spojení a automatické seskupování serverů podle třídy nebo bezpečnostní skupiny.
 - Bezpečné synchronizování všech nastavení mezi více zařízeními
 - Automatické zálohy všech spojení a nastavení šifrované pomocí AES-256
 - Pěkný moderní widget pro rychlý přístup k často používaným spojením nebo k vybrané skupině (Android 3.0+).
-- Teamová spolupráce. Sdílejte své skupiny spojení s člený týmu a začněte pracovat společně místo odděleně.
+- Týmová spolupráce. Sdílejte své skupiny spojení s člený týmu a začněte pracovat společně místo odděleně.
 - Praktická knihovna pro rychlý přístup k často používaným příkazům
 - Bezpečnostní zámek k automatické ochraně JuiceSSH po určité době neaktivity
 
 Podrobnější popis potřebných oprávnění této aplikace a vysvětlení k čemu jsou nutná pro náš SSH klient prosím navštivte https://juicessh.com/permissions
+
