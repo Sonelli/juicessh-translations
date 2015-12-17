@@ -575,8 +575,8 @@
     <string name="show_notification">Benachrichtigung anzeigen</string> 
 
     <string name="bookclub">Bookclub</string>
-    <string name="bookclub_description">Bücher sind eine gute Quelle für Informationen über neue Technologien zu erlernen. Hier sind einige, die von der Gemeinschaft empfohlen JuiceSSH kommen. Sie können Ihr Lieblingsbuch mit der Schaltfläche unten vor.</string>
-    <string name="suggest_more_books">vorschlagen Weitere Bücher</string>
-    <string name="find_and_recommend_books">Finden und empfehlen Bücher</string>
+    <string name="bookclub_description">Bücher sind eine gute Informationsquelle um neue Technologien zu erlernen. Hier sind einige, die von der JuiceSSH Gemeinschaft empfohlen werden. Sie können Ihre Lieblingsbücher mit der Schaltfläche unten vorschlagen.</string>
+    <string name="suggest_more_books">Weitere Bücher vorschlagen</string>
+    <string name="find_and_recommend_books">Bücher finden und empfehlen</string>
 
 </resources>
