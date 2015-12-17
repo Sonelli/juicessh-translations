@@ -1,0 +1,42 @@
+The all in one terminal client for Android including SSH, Local Shell, Mosh and Telnet support.
+  
+Features: 
+- Terminal / client a tot color
+- Popup de teclat amb tots aquells caracters difícils de trobar
+- Utilitza les tecles de volum per canviar ràpidament el tamany de la font
+- Suport per a teclat extern
+- Gestos per a irssi, weechat, tmux i screen
+- Plugins de la comunitat i de tercers
+- Suport offical per a Mosh (http://mosh.mit.edu)
+- Suport per a Telnet
+- Suport per al terminal local de l'Android
+- Temes de color per el terminal, Obscur, Clar, 80's hacker, Molokai, Solarized Dark i Solarized Light
+   Per un resum de l'esquema de color "Solarized" i per què és idoni per fer-lo servir amb el terminal mira això: http://ethanschoonover.com/solarized
+- Clica a les URLs per obrir-les en un navegador
+- Copiar i Enganxar en les sessions
+- Guardar/ Compartir transcripcions SSH a Dropbox/evernote/Correu i a la targeta SD
+- Suport per a la codificació UTF-8
+- Organitza fàcilment les teves connexions per grups
+- Mantingues múltiples sessions SSH executant-se en segon pla
+- Connexió contínua 'via' altres connexions SSH amb un clic
+- Accès immediat quan obres la app a les teves connexions utilitzades freqüentment
+- Suport IPv6
+- Suport per a Contrasenya i clau privada SSH (ECDSA, RSA i DSA)
+- Generador de clau RSA (xifratge suportat)
+- Agent de direccionament de clau SSH
+- Suport per a la autentificació de dos factors (Ex: Google Authenticator)
+- Identitats (usuaris/contrasenyes/claus) s'abstrauen de les connexions. En comptes de actualitzar cada connexió quan canvies la contrasenya - només actualitza la identitat i qualsevol connexió lligada a aquesta farà servir la nova contrasenya/clau.
+- Compressió zlib per a millorar les sessions SSH en connexions d'alta latència
+
+
+Característiques Pro (compra opcional integrada a la app):
+- Direccionaments de port ràpids i senzills que es poden connectar mitjançant la app o el widget i es poden obrir automàticament en un navegador si es requereix.
+- Integració amb Amazon AWS / EC2, sincronitza connexions i agrupa servidors automàticament basats en la seva classe o grups de seguretat
+- Manté tot sincronitzat amb seguretat entre diversos dispositius
+- Còpies de seguretat automatitzades xifrades amb AES-256 de tites kes teves connexions i configuracions.
+- Un bonic widget per a accedir ràpidament a qualsevol de les teves connexions freqüentment utilitzades, o a un grup específic (Android 3.0+)
+- Col·laboració en equip. Comparteix els teus grups de connexions amb membres d'un equip i comença a treballar junts en comptes de per separat
+- Biblioteca de 'fragments' per a accedir ràpidament a les teves comandes freqüentment utilitzades
+- Bloqueix de seguretat per a protegir JuiceSSH automàticament desprès d'un període de inactivitat
+
+Per a un resum detallat dels permisos de aquesta aplicació i com s'utilitza cadascun en el nostre client ssh, si us plau mira https://juicessh.com/permissions
