@@ -1,42 +1,42 @@
-The all in one terminal client for Android including SSH, Local Shell, Mosh and Telnet support.
-  
-Features: 
-- Full colour terminal / ssh client
-- Popup keyboard with all those normally hard to find characters
-- Use the volume keys to quickly change font size
-- External keyboard support
-- Gestures for irssi, weechat, tmux and screen
-- Community and third party plugins
-- Official Mosh support (http://mosh.mit.edu)
-- Telnet support
-- Local Android terminal support
-- Dark, Light, 80's hacker, Molokai, Solarized Dark and Solarized Light terminal color themes
-   For an overview of solarized color scheme and why it rocks for terminal usage check out http://ethanschoonover.com/solarized
-- Click URLs to open in a browser
-- Copy & Paste within sessions
-- Save / Share SSH transcripts to Dropbox/Evernote/Email & SD card 
-- UTF-8 character support
-- Easily organise your connections by group
-- Keep multiple SSH sessions running in the background
-- Seamlessly connect 'via' other SSH connections with one click
-- Immediate access when you open the app to your frequently used connections
-- IPv6 support
-- Password & OpenSSH private key support (ECDSA, RSA and DSA)
-- RSA key generator (encryption supported)
-- SSH key agent forwarding
-- Support for two-factor authentication (eg: Google Authenticator)
-- Identities (users/password/keys) are abstracted from connections. Instead of updating every connection when you change your password - just update the identity and any connections linked to it will use the new password/key.
-- zlib compression to improve SSH sessions on high latency connections
+Універсальний термінальний клієнт для Android, в тому числі з SSH, Local Shell, Mosh та Telnet підтримкою.
+
+Можливості:
+- Повноколірний термінал / ssh-клієнт
+- Екранна клавіатура з усіма цими зазвичай важкодоступними символами
+- Використання клавіш гучності для швидкої зміни розміру шрифту
+- Підтримка зовнішньої клавіатури
+- Жести для irssi, weechat, tmux та екрану
+- Спільнота та сторонні плагіни
+- Офіційна підтримка Mosh (http://mosh.mit.edu)
+- Підтримка Telnet
+- Підтримка локального Android-терміналу
+- Dark, Light, 80's hacker, Molokai, Solarized Dark та Solarized Light колірні теми терміналу
+   Для огляду кольорової схеми Solarized і чому вона така крута для використання в терміналі перегляньте http://ethanschoonover.com/solarized
+- Відкриття URL-адрес у браузері
+- Копіювання та вставка під час сесії
+- Спільний доступ / Збереження транскріптів SSH-сесій на Dropbox/Evernote/Email та SD-карту
+- Підтримка UTF-8 кодування
+- Легке впорядкування ваших з'єднань по групах
+- Утримання декількох SSH сесій у фоновому режимі
+- Легко з'єднуйтесь 'через' інші SSH з'єднання одним клацанням
+- Негайний доступ до ваших найчастіше вживаних з'єднань одразу при відкритті додатка
+- Підтримка IPv6
+- Пароль та підтримка OpenSSH закритих ключів (ECDSA, RSA і DSA)
+- Генератор ключів RSA (підтримується шифрування)
+- Переспрямування SSH-ключа агенту
+- Підтримка двофакторної автентифікації (наприклад: Google Authenticator)
+- Ідентифікатори (імена користувачів/паролі/ключи) абстраговано від з'єднань. Замість оновлення кожного з'єднання, коли ви міняєте ваш пароль - просто оновлюйте ідентифікатор і кожне з'єднання, підключене до нього, буде використовувати новий пароль/ключ.
+- zlib стискання для покращення SSH-сесій при з'єднаннях з високою затримкою
 
 
-Pro Features (optional in-app purchase):
-- Quick and easy port forwards that can be connected to via the app or widget and can automatically open in a browser if required.
-- Integrate with Amazon AWS / EC2, synchronise connections and automatically group servers based on their class or security groups.
-- Securely keep everything in sync between multiple devices
-- Automated AES-256 encrypted backups of all of your connections and settings
-- A beautiful widget for fast access to either your frequently used connections, or a specific group (Android 3.0+).
-- Team collaboration. Share your groups of connections with team members and start working together instead of separately.
-- Handy snippets library for quick access to your frequently used commands
-- Security lock to automatically protect JuiceSSH after a period of inactivity
+Pro-можливості (опціонна покупка через додаток):
+- Швидкі та прості переспрямування портів, які можна з'єднати через додаток або віджет і можна автоматично відкривати у браузері, за потребою.
+- Інтеграція з Amazon AWS / EC2, синхронізація з'єднань і автоматичне групування серверів, основане на їх класі або групі безпеки.
+- Безпечно тримайте все синхронізованим між декількома пристроями
+- Автоматичне AES-256 шифроване резервне копіювання всіх ваших з'єднань та налаштувань
+- Гарний віджет для швидкого доступу до ваших найчастіше вживаних з'єднань або певної групи (Android 3.0+).
+- Командна співпраця. Діліться вашими групами з'єднань з учасниками команди і починайте працювати разом, замість нарізно.
+- Зручна бібліотека сніппетів для швидкого доступу до ваших найчастіше вживаних команд
+- Функція блокування, що автоматично блокує JuiceSSH після певного періоду бездіяльності
 
-For a detailed overview of this applications permissions and how each one is used in our ssh client please see https://juicessh.com/permissions
+Для детального огляду дозволів цього додатку і того, як кожен з них використовуються в нашому ssh клієнті, будь ласка, перегляньте https://juicessh.com/permissions
