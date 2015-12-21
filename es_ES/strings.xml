@@ -124,7 +124,7 @@
     <string name="are_you_sure_you_want_to_leave_team">¿Estás seguro de querer dejar el equipo \'%s\'?</string>
     <string name="teamshare_invite">Invitación TeamShare</string>
     <string name="do_you_want_to_join_team">¿Quieres unirte al equipo \'%s\'?</string>
-    <string name="youve_not_connected_yet">No te has conectado a ningún servidor aún.\Usa las Conexiones de arriba para comenzar.</string>
+    <string name="youve_not_connected_yet">No te has conectado a ningún servidor aún.\nUsa las Conexiones de arriba para comenzar.</string>
     <string name="clear_history">Borrar historial</string>
     <string name="sorry">¡Lo siento!</string>
     <string name="a_serious_error_occurred">Ha ocurrido un error grave y JuiceSSH se debe reiniciar</string>
@@ -199,7 +199,7 @@
     <string name="snippet">Snippet</string>
     <string name="snippet_saved">Snippet guardado</string>
     <string name="host_verification">Verificación de Host</string>
-    <string name="this_is_the_first_time_youve_connected">Parece que te has conectado por primera vez a %1$s.\n\Clave del host:\n%2$s\n\n¿Deseas aceptar la clave?</string>
+    <string name="this_is_the_first_time_youve_connected">Parece que te has conectado por primera vez a %1$s.\n\nClave del host:\n%2$s\n\n¿Deseas aceptar la clave?</string>
     <string name="host_key_changed">¡Aviso! La clave pública de %1$s ha cambiado. Esto es normal si has reemplazado el servidor sin embargo si no has cambiado nada puedes estar sufriendo un ataque Man-in-the-Middle.\n\nNueva clave: %2$s\n\n¿Quieres aceptar la nueva clave?</string>
     <string name="clear_snippets">Borrar Snippets</string>
     <string name="are_you_sure_you_want_to_clear_your_snippets">¿Estás seguro de querer eliminar tus snippets?</string>
