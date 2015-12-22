@@ -574,9 +574,4 @@
     <string name="vibrate_device">Povolit vibraci zařízení</string>
     <string name="show_notification">Povolit zobrazení notifikací</string> 
 
-    <string name="bookclub">Knižní klub</string>
-    <string name="bookclub_description">Knihy jsou skvělý zdroj informací k porozumění nových technologií. Zde jsou některé, které doporučuje komunita okolo JuiceSSH. Můžete doporučit vaše oblíbené knížky tlačítkem níže.</string>
-    <string name="suggest_more_books">Navrhnout více knih</string>
-    <string name="find_and_recommend_books">Nalézt doporučené knihy</string>
-
 </resources>

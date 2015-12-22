@@ -25,14 +25,14 @@
     <string name="update_connection">Aggiorna le connessioni</string>
     <string name="update_group">Aggiorna squadra</string>
     <string name="new_identity">Nuova Identità</string>
-    <string name="update_identity">Aggiorna l'identità</string>
+    <string name="update_identity">Aggiorna l\'identità</string>
     <string name="new_group">Nuova squadra</string>
     <string name="pro_features">Funzioni a pagamento</string>
     <string name="new_team">Nuova Squadra</string>
     <string name="name">Nome:</string>
     <string name="add_team_member">Aggiungi un membro nella squadra</string>
     <string name="invite_user">Invita nella squadra</string>
-    <string name="enter_users_email_address_to_invite">Perfavore immetti l'indirizzo mail della persona che vuoi invitare in questa squadra:</string>
+    <string name="enter_users_email_address_to_invite">Perfavore immetti l\'indirizzo mail della persona che vuoi invitare in questa squadra:</string>
     <string name="you_must_enter_a_team_name">Devi inserire un da assegnare alla squadra</string>
     <string name="not_set">Non impostato</string>
     <string name="password_colon">Password: </string>
@@ -67,7 +67,7 @@
     <string name="select_one">Selezionane un(a)</string>
     <string name="invited_capital_i">Invitato</string>
     <string name="connections_capital_c">Connessioni</string>
-    <string name="last_seen">Visto l'ultima volta:</string>
+    <string name="last_seen">Visto l\'ultima volta:</string>
     <string name="ok">OK</string>
     <string name="cancel">Cancella</string>
     <string name="you_must_set_a_password">Devi impostare una password</string>
@@ -93,7 +93,7 @@
     <string name="enter_password">Perfavore inserisci la tua password:</string>
     <string name="remember_password">Ricorda la password</string>
     <string name="show_password">Mostra la password</string>
-    <string name="unabled_to_connect_to_host">Impossibile connettersi all'host</string>
+    <string name="unabled_to_connect_to_host">Impossibile connettersi all\'host</string>
     <string name="form_nickname">Username: </string>
     <string name="form_optional">(Facoltativo)</string>
     <string name="form_address">Indirizzp: </string>
@@ -126,7 +126,7 @@
     <string name="youve_not_connected_yet">Non sei ancora connesso a nessun server.\nClicca il pulsante connessioni qui sotto per iniziare.</string>
     <string name="clear_history">Calnella la cronologia</string>
     <string name="sorry">Scusa!</string>
-    <string name="a_serious_error_occurred">'È stato riscontrato un grave errore e  JuiceSSH necessita di essere riavviato</string>
+    <string name="a_serious_error_occurred">\'È stato riscontrato un grave errore e  JuiceSSH necessita di essere riavviato</string>
     <string name="please_select_a_team_member_to_invite">Perfavore selezione un membro della squadra da invitare.</string>
     <string name="enter_new_team_name">Perfavore inserisci un nuovo nome per la squadra \'%s\'</string>
     <string name="are_you_sure_you_want_to_delete_team">Sei sicuro di voler eliminare la squadra \'%s\'?</string>
@@ -265,8 +265,8 @@
     <string name="ec2exception_uncaught_reason">Sconosciuto</string>
     <string name="ec2exception_api_certificate_error">Errore nel certificato delle API</string>
     <string name="ive_already_purchased">Già acquistato</string>
-    <string name="thanks_for_purchasing">Grazie per aver comprato JuiceSSH Pro.\nPerfavore seleziona l'account Google al quale vuoi associare il pagamento:</string>
-    <string name="select_associated_account">Perfavore seleziona l'account Google al quale hai associato il pagamento:</string>
+    <string name="thanks_for_purchasing">Grazie per aver comprato JuiceSSH Pro.\nPerfavore seleziona l\'account Google al quale vuoi associare il pagamento:</string>
+    <string name="select_associated_account">Perfavore seleziona l\'account Google al quale hai associato il pagamento:</string>
     <string name="rate_us">Recensiscici</string>
     <string name="it_really_helps">Mostra il tuo apprezzamento se ti piace l\'app!</string>
     <string name="website">Sito web</string>
@@ -276,7 +276,7 @@
     <string name="there_are_no_browsers_available">Non ci sono Browser disponibili al momento</string>
     <string name="create_snippet">Crea un frammento</string>
     <string name="share_transcript">Condividi la trascrizione</string>
-    <string name="select_application_to_share_with">Seleziona l'applicazione con la quale condividere:</string>
+    <string name="select_application_to_share_with">Seleziona l\'applicazione con la quale condividere:</string>
     <string name="no_capable_apps_found">Non ho trovatto nessuna applicazione che potesse soddisfare i requisiti</string>
     <string name="unlock_pro_version">Sblocca la versiona Pro!</string>
     <string name="unlock_pro_version_capitals">Sblocca le funzioni Pro</string>
@@ -290,7 +290,7 @@
     <string name="tutorial">Tutorial</string>
     <string name="use_the_volume">Utilizza il bilanciare del volume per modificare la dimensione dei caratteri al volo.</string>
     <string name="popup_keyboard">Mostra la tastiera</string>
-    <string name="tap_the_terminal">Tocca il terminale per mostrare una tastiera contentente tutti i caratteri normalmente diffici da trovare (Ctrl, freccie etc). Effettua un gesto verso destra per abilitare/disabilitare l'auto-completamento (utile per IRC etc).</string>
+    <string name="tap_the_terminal">Tocca il terminale per mostrare una tastiera contentente tutti i caratteri normalmente diffici da trovare (Ctrl, freccie etc). Effettua un gesto verso destra per abilitare/disabilitare l\'auto-completamento (utile per IRC etc).</string>
     <string name="copy_paste_share_save">Copia &amp; Incolla / Salva la trascrizione / Nascondi la tastiera</string>
     <string name="long_press_the_terminal">Mantieni premuto il terminale per &amp; incollare e condividere o salvare la trascrizione della tua sessione.</string>
     <string name="ok_i_got_it">OK - Ho capito!</string>
@@ -308,12 +308,12 @@
     <string name="purchase_not_found">Acquisto non trovato</string>
     <string name="clear_known_hosts">Elimina gli host conosciuti</string>
     <string name="removes_host_keys">Elimina le chiavi degli host</string>
-    <string name="are_you_sure_clear_known_hosts">Sei sicuro di voler pulire tutti gli host conosciuti?\n\nTi verrà domandato di accettare/rifiutare la chiave dell'host per connetterti a questi.</string>
+    <string name="are_you_sure_clear_known_hosts">Sei sicuro di voler pulire tutti gli host conosciuti?\n\nTi verrà domandato di accettare/rifiutare la chiave dell\'host per connetterti a questi.</string>
     <string name="known_hosts_cleared">Lista degli host pulita</string>
     <string name="refresh">Ricarica</string>
     <string name="configure_widget">Configura il widget</string>
     <string name="connections_will_be_shown">%s connessioni verranno interrotte</string>
-    <string name="update_frequency">Frequenza dell'aggiornamento</string>
+    <string name="update_frequency">Frequenza dell\'aggiornamento</string>
     <string name="widget_will_update">Widget aggiornerà %s</string>
     <string name="pro_feature">Funzioni Pro</string>
     <string name="widgets_are_pro_only">Questi widget fanno parte del pacchetto Pro.\Premi qui per saperne di più.</string>
@@ -347,7 +347,7 @@
     <string name="localhost">127.0.0.1</string>
     <string name="application_version">Versione</string>
     <string name="unknown_version">JuiceSSH (Versione Sconosciuta)</string>
-    <string name="log_viewer">Visualizza il log/string>
+    <string name="log_viewer">Visualizza il log</string>
     <string name="email_logs">Visualizza il log delle mail</string>
     <string name="support_email_address">support@sonelli.com</string>
     <string name="exit">Esci</string>
@@ -487,7 +487,7 @@
     <string name="generating_key">Generando la chiave…</string>
     <string name="export_public_key">Esporta la chiave pubblica</string>
     <string name="export_private_key">Esporta la chiave privata</string>
-    <string name="identity_has_no_key_to_export">L'identità non ha chiavi da esportare</string>
+    <string name="identity_has_no_key_to_export">L\'identità non ha chiavi da esportare</string>
     <string name="unable_to_export_key">Errore: impossbile trovare la chiave da esportare</string>
     <string name="share_using">Condividi usando:</string>
     <string name="juicessh_public_key">JuiceSSH: Chiave pubblica</string>
@@ -564,7 +564,7 @@
     <string name="form_key_format">Key Format:</string>
     <string name="above_terminal">Above Terminal</string>
     <string name="below_terminal">Below Terminal</string>
-    <string name="hourly"orario</string>
+    <string name="hourly">orario</string>
     <string name="daily">giornaliero</string>
     <string name="weekly">settimanale</string>
     <string name="monthly">mensile</string>
@@ -572,10 +572,5 @@
     <string name="alt_sends_esc">ALT invia ESC</string>
     <string name="vibrate_device">Fai vibrare il device</string>
     <string name="show_notification">Visualizza notifica</string> 
-
-    <string name="bookclub">Bookclub</string>
-    <string name="bookclub_description">I libri sono una grande fonte di informazioni per conoscere le nuove tecnologie. Qui ci sono alcuni che vengono raccomandato dalla comunità JuiceSSH. Puoi suggerire tuoi preferiti con il pulsante qui sotto.</string>
-    <string name="suggest_more_books">Suggerisci altri libri</string>
-    <string name="find_and_recommend_books">Trovare e raccomandare i libri</string>
 
 </resources>
