@@ -203,7 +203,7 @@
     <string name="host_key_changed">警告！%1$s 的公钥已变更。如果你更换了服务器的话，这是正常现象。否则你可能遭受到中间人攻击。\n\n新的密钥指纹：%2$s\n\n你想接受这个密钥吗？</string>
     <string name="clear_snippets">清除代码片段</string>
     <string name="are_you_sure_you_want_to_clear_your_snippets">你确定要清除你的代码片段吗？</string>
-    <string name="nothing_to_clear">没有要清除的东西</string>
+    <string name="nothing_to_clear">没有可清除的项目</string>
     <string name="ssh_session_transcript">SSH 会话副本</string>
     <string name="host">主机</string>
     <string name="date">日期</string>
@@ -257,7 +257,7 @@
     <string name="items_synced_on">%1$d 个项目已同步 %2$s 于 %3$s</string>
     <string name="item_synced_on">%1$d 个项目已同步 %2$s 于 %3$s</string>
     <string name="contacting_amazon_api">正在连接 Amazon API…</string>
-    <string name="processing_items">正在处理项目…</string>
+    <string name="processing_items">正在处理项目列表…</string>
     <string name="ec2exception_couldnt_fetch_mappings">无法获取映射</string>
     <string name="ec2exception_couldnt_find_mappings">找不到任何映射</string>
     <string name="ec2exception_bad_credentials">错误的凭证</string>
@@ -269,13 +269,13 @@
     <string name="thanks_for_purchasing">感谢购买 JuiceSSH Pro。\n请选择你想关联高级版的 Google 帐号：</string>
     <string name="select_associated_account">请选择你想关联高级版的 Google 帐号：</string>
     <string name="rate_us">给我们评价</string>
-    <string name="it_really_helps">如果你喜欢这个应用，请展示你的欣赏之情!</string>
+    <string name="it_really_helps">如果你喜欢这个应用，给我们个好评吧!</string>
     <string name="website">网站</string>
     <string name="website_address">https://juicessh.com</string>
     <string name="about_us">关于我们</string>
     <string name="select_browser">选择浏览器：</string>
     <string name="there_are_no_browsers_available">没有浏览器可用</string>
-    <string name="create_snippet">创建片段</string>
+    <string name="create_snippet">创建代码片段</string>
     <string name="share_transcript">分享副本</string>
     <string name="select_application_to_share_with">选择分享的应用：</string>
     <string name="no_capable_apps_found">未找到合适的应用</string>
@@ -283,15 +283,15 @@
     <string name="unlock_pro_version_capitals">解锁高级版功能</string>
     <string name="click_to_find_out_more">详细了解高级版功能</string>
     <string name="please_try_again_later">请稍后重试</string>
-    <string name="verifying_purchase">正在验证购买…</string>
+    <string name="verifying_purchase">正在验证付款…</string>
     <string name="homescreen_shortcut">主屏快捷方式</string>
     <string name="homescreen_shortcut_created">已创建主屏快捷方式</string>
-    <string name="popup_keyboard_position">键盘弹出位置</string>
-    <string name="theme_slash_colors">主题 / 颜色</string>
+    <string name="popup_keyboard_position">弹出键盘的位置</string>
+    <string name="theme_slash_colors">主题 / 配色</string>
     <string name="tutorial">教程</string>
     <string name="use_the_volume">使用音量键调节字体大小</string>
     <string name="popup_keyboard">弹出键盘</string>
-    <string name="tap_the_terminal">点击终端以显示弹出键盘，该键盘拥有所有常用而又难以找到的字符（比如 Ctrl、方向键等）。向右滑动切换自动补全状态（在 IRC 中比较有用）。</string>
+    <string name="tap_the_terminal">点击终端以显示弹出键盘，该键盘拥有常用的特殊按键（比如 Ctrl、方向键等）。向右滑动来启用/禁用自动补全（在 IRC 中比较有用）。</string>
     <string name="copy_paste_share_save">复制与粘帖/保存副本/隐藏键盘</string>
     <string name="long_press_the_terminal">在终端中长按便可以复制，粘帖，分享或保存会话副本。</string>
     <string name="ok_i_got_it">好的，知道了！</string>
@@ -372,7 +372,7 @@
     <string name="page_down">PgDn</string>
     <string name="page_up">PgUp</string>
     <string name="invalid_private_key">无效的私钥</string>
-    <string name="port_forwarding">端口转发中</string>
+    <string name="port_forwarding">端口转发</string>
     <string name="open_address">打开 %s</string>
     <string name="email_person">发送邮件给 %s</string>
     <string name="dial_number">拨打 %s</string>
@@ -506,17 +506,17 @@
     <string name="sftp_download_complete">SFTP 下载完成</string>
     <string name="sftp_download">SFTP 下载</string>
     <string name="help">帮助</string>
-    <string name="view_our_faq">查看常见问题 FAQ</string>
+    <string name="view_our_faq">查看常见问题（FAQ）</string>
     <string name="dash">-</string>
     <string name="open_sftp_sessions">打开 JuiceSSH SFTP 会话</string>
     <string name="cloudsync_required">需要云同步</string>
     <string name="teamshare_requires_cloudsync">团队共享需要启用云同步。别担心，认证信息（用户名、密码和密钥）并不会分享给团队成员。\n\n你想现在就启用云同步吗？</string>
     <string name="backspace_mode">Backspace 模式:</string>
-    <string name="backspace_mode_default">默认 (发送 DEL)</string>
-    <string name="backspace_mode_legacy">传统 (发送 ^H)</string>
-    <string name="unsupported_cpu_architecture">不支持的 CPU 架构。目前仅支持 ARM, x86 和 MIPS 的设备。</string>
+    <string name="backspace_mode_default">默认发送（DEL）</string>
+    <string name="backspace_mode_legacy">传统（发送 ^H）</string>
+    <string name="unsupported_cpu_architecture">不支持该 CPU 架构。目前仅支持 ARM, x86 和 MIPS 的设备。</string>
     <string name="binary_not_found">找不到创建连接所需的文件，请联系 support@sonelli.com</string>
-    <string name="our_goal_has_always_been">我们的目标一直是创造 Android 上最好的免费 SSH 客户端。为了支持 JuiceSSH 的发展，我们提供了可选升级的高级功能，感谢所有 JuiceSSH 的付费用户。</string>
+    <string name="our_goal_has_always_been">我们一贯的目标是创造 Android 上最好的免费 SSH 客户端。为了支持 JuiceSSH 的发展，我们提供了可选升级的高级功能，感谢所有 JuiceSSH 的付费用户。</string>
     <string name="free">免费</string>
     <string name="pro">高级</string>
     <string name="full_colour_terminal">全色彩终端，支持 xterm，ncurses，UTF-8 的 SSH 客户端</string>
@@ -574,9 +574,9 @@
     <string name="vibrate_device">振动设备</string>
     <string name="show_notification">显示通知</string> 
 
-    <string name="bookclub">Bookclub</string>
-    <string name="bookclub_description">书籍是一个伟大的信息来源，了解新技术。下面是一些来自JuiceSSH社区推荐的。你可以建议您的收藏夹与下面的按钮。</string>
+    <string name="bookclub">书籍俱乐部</string>
+    <string name="bookclub_description">书籍是了解一门新技术的重要信息来源。下面是一些 JuiceSSH 社区的推荐。你也可以用下面的按钮来推荐你喜欢的书。</string>
     <string name="suggest_more_books">推荐更多图书</string>
-    <string name="find_and_recommend_books">查找和推荐书</string>
+    <string name="find_and_recommend_books">查找和推荐技术书籍</string>
 
 </resources>
