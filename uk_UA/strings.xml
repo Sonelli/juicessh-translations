@@ -574,4 +574,12 @@
     <string name="vibrate_device">Вібрація пристрою</string>
     <string name="show_notification">Показати сповіщення</string> 
 
+    <string name="bookclub">Технічна бібліотека</string>
+    <string name="suggest_more_books">Запропонувати більше книжок</string>
+    <string name="find_and_recommend_books">Відкрийте для себе книги та підтримайте JuiceSSH</string>
+    <string name="remove_bookclub">Прибрати Технічну бібліотеку</string>
+    <string name="bookclub_description">Технічна бібліотека JuiceSSH - це список технічних книг, що підтримується спільнотою, які інші користувачі JuiceSSH знайшли корисними та доречними. Всі придбані книги допомагають поточній розробці JuiceSSH. Ми заробляємо невеличку кількість грошей з кожної зробленої купівлі.\n\nЯкщо ви нещодавно прочитали добру технічну книгу, використайте кнопку нижче, щоб порекомендувати її JuiceSSH спільноті.</string>
+    <string name="remove_bookclub_text">Не хочете рекомендацій книг від JuiceSSH спільноти? Немає проблем - більш ніж вітається сховати цю функцію назавжди.\n\nТільки-но вимкнуто, вам буде необхідно перевстановити JuiceSSH, щоб повернути її назад.</string>
+    <string name="never_show_bookclub_again">Вимкнути Технічну бібліотеку JuiceSSH</string>
+    
 </resources>
