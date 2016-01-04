@@ -563,9 +563,4 @@
     <string name="warning">Varning</string>
     <string name="form_key_format">Nyckel typ:</string>
 
-    <string name="bookclub">Bookclub</string>
-    <string name="bookclub_description">Böcker är en stor källa till information för att lära sig om den nya tekniken. Här är några som kommer rekommenderas från JuiceSSH samhället. Du kan föreslå dina favoriter med knappen nedan.</string>
-    <string name="suggest_more_books">Föreslå fler böcker</string>
-    <string name="find_and_recommend_books">Hitta och rekommenderar böcker</string>
-
 </resources>

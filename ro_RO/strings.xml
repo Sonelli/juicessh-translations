@@ -574,9 +574,4 @@
     <string name="vibrate_device">Vibreaza dispozitivul</string>
     <string name="show_notification">Afiseaza notificare</string>
 
-    <string name="bookclub">Bookclub</string>
-    <string name="bookclub_description">Cărțile sunt o mare sursă de informații pentru a afla despre noile tehnologii. Aici sunt unele care vin recomandat de comunitatea JuiceSSH. Puteți sugera favorite cu butonul de mai jos.</string>
-    <string name="suggest_more_books">Sugerează Mai multe cărți</string>
-    <string name="find_and_recommend_books">Găsiți și recomandă cărți</string>
-
 </resources>

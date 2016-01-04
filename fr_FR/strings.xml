@@ -72,12 +72,12 @@
     <string name="ok">OK</string>
     <string name="cancel">Annuler</string>
     <string name="you_must_set_a_password">Vous devez définir un mot de passe</string>
-    <string name="incorrect_decryption_password">Mot de passe de déchiffrage incorrect</string>
-    <string name="incorrect_decryption_password_for_team">Mot de passe de déchiffrage d\'équipe incorrect</string>
+    <string name="incorrect_decryption_password">Mot de passe de déchiffrement incorrect</string>
+    <string name="incorrect_decryption_password_for_team">Mot de passe de déchiffrement d\'équipe incorrect</string>
     <string name="teamshare_password_explanation">Ce mot de passe sera utilisé pour chiffrer toutes les connexions qui seront partagées avec l\'équipe. Les autres membres devront utiliser ce même mot de passe au moment de rejoindre l\'équipe.</string>
     <string name="cloudsync">Sauvegarde dans le nuage</string>
-    <string name="decryption_of_your_backups_failed">Le déchiffrage de vos sauvegardes a échoué à cause d\'un mot de passe incorrect.</string>
-    <string name="decyrption_of_items_for_team">Le déchiffrage des éléments de l\'équipe</string>
+    <string name="decryption_of_your_backups_failed">Le déchiffrement de vos sauvegardes a échoué à cause d\'un mot de passe incorrect.</string>
+    <string name="decyrption_of_items_for_team">Le déchiffrement des éléments de l\'équipe</string>
     <string name="failed_due_to_incorrect_password">a échoué à cause d\'un mot de passe d\'équipe incorrect</string>
     <string name="bad_password">Mauvais mot de passe</string>
     <string name="file_path">Chemin</string>
@@ -105,11 +105,11 @@
     <string name="accept">Accepter</string>
     <string name="reject">Rejeter</string>
     <string name="has_joined_team">%1$s a rejoint l\'équipe %2$s</string>
-    <string name="restored_x_items_from_backup">%d élément(s) restauré du nuage</string>
+    <string name="restored_x_items_from_backup">%d élément(s) restauré(s) du nuage</string>
     <string name="X">X</string>
     <string name="you_do_not_have_any_connections">Vous n\'avez aucune connexion configurée. Utilisez le bouton ci-dessous pour commencer.</string>
     <string name="no_connections">Aucune connexion</string>
-    <string name="you_do_not_have_any_identities">Vous n\'avez aucune identité configurée. Les identités sont des jeux de noms d\'utilisateurs, mots de passe et/ou clé privées qui peuvent être utilisés pour les connexions.</string>
+    <string name="you_do_not_have_any_identities">Vous n\'avez aucune identité configurée. Les identités sont des jeux de noms d\'utilisateurs, mots de passe et/ou clés privées qui peuvent être utilisés pour les connexions.</string>
     <string name="no_identities">Aucune identité</string>
     <string name="leave_team">Quitter l\'équipe</string>
     <string name="rename_team">Renommer l\'équipe</string>
@@ -156,7 +156,7 @@
     <string name="identities">Identités</string>
     <string name="all">Tout</string>
     <string name="manage_your_connections">Gérer vos connexions</string>
-    <string name="frequently_used">Connections fréquentes</string>
+    <string name="frequently_used">Connexions fréquentes</string>
     <string name="share_your_connections">Partagez vos connexions</string>
     <string name="never_syncronised">Jamais Synchronisé</string>
     <string name="settings">Paramètres</string>
@@ -332,7 +332,7 @@
     <string name="remote">Distant</string>
     <string name="dynamic_socks">Dynamic (SOCKS)</string>
     <string name="port_from">Port (de):</string>
-    <string name="port_to">Port (a):</string>
+    <string name="port_to">Port (vers):</string>
     <string name="destination">Destination:</string>
     <string name="open_in_browser">Ouvrir dans le navigateur automatiquement</string>
     <string name="you_must_enter_a_name">Vous devrez entrer un nom</string>
@@ -574,9 +574,4 @@
     <string name="vibrate_device">Vibrer</string>
     <string name="show_notification">Afficher la notification</string> 
 
-    <string name="bookclub">Bookclub</string>
-    <string name="bookclub_description">Livres sont une excellente source d'information pour en apprendre davantage sur les nouvelles technologies. Voici quelques-uns qui viennent recommandé de la communauté JuiceSSH. Vous pouvez proposer vos favoris avec le bouton ci-dessous.</string>
-    <string name="suggest_more_books">Proposer Catalogue</string>
-    <string name="find_and_recommend_books">Trouver et recommander des livres</string>
-
-</resources>
+    </resources>

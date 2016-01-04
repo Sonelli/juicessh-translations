@@ -6,7 +6,7 @@
     <string name="app_package_name">com.sonelli.juicessh</string>
     <string name="app_website">https://juicessh.com</string>
     <string name="menu_settings">Настройки</string>
-    <string name="welcome">Добро пожаловть</string>
+    <string name="welcome">Добро пожаловать</string>
     <string name="menu_item_title">Пункт меню: Название</string>
     <string name="menu_item_subtitle">Пункт меню: Субтитры (будет довольно объемным)</string>
     <string name="icon">Иконка</string>
@@ -57,7 +57,7 @@
     <string name="used_by">Используют</string>
     <string name="connection">подключение</string>
     <string name="connections_lowercase">подключений</string>
-    <string name="not_used">Не испоьзуется</string>
+    <string name="not_used">Не используется</string>
     <string name="set_private_key">Импорт секретного ключа</string>
     <string name="import_">Импортировать</string>
     <string name="paste">Вставить</string>
@@ -74,7 +74,7 @@
     <string name="you_must_set_a_password">Необходимо ввести пароль</string>
     <string name="incorrect_decryption_password">Неправильный пароль</string>
     <string name="incorrect_decryption_password_for_team">Неправильный общий пароль</string>
-    <string name="teamshare_password_explanation">Этот пароль будет использоваться для шифрования всех общих подключений, которые доступны команде. Будущие участники команды должны будут ввести этот пароль, когда они присоединиться к команде для того, чтобы получить доступ ко всем подключениям.</string>
+    <string name="teamshare_password_explanation">Этот пароль будет использоваться для шифрования всех общих подключений, которые доступны команде. Будущие участники команды должны будут ввести этот пароль, когда они присоединятся к команде, чтобы получить доступ ко всем подключениям.</string>
     <string name="cloudsync">CloudSync</string>
     <string name="decryption_of_your_backups_failed">Расшифровка резервных копий не удалось из-за неправильного пароля</string>
     <string name="decyrption_of_items_for_team">Расшифровка общих данных команды</string>
@@ -428,7 +428,7 @@
     <string name="enabled">Синхронизация</string>
     <string name="cloudsync_is_enabled">CloudSync включен</string>
     <string name="open_juicessh_sessions">Взаимодействие с JuiceSSH сеансами</string>
-    <string name="cloudsync_long_description">CloudSync поддерживает и синхронизирует ваши подключения и настройки между всеми вашими устройствами.\n\nCloudSync имеет поддержку AES-256 шифрования, чтобы защитить все ваши данные. В результате чего, любая синхронизируемая информация может быть расшифрована только с помощью пароль, который вы установили.\n\nНи серверы JuiceSSH CloudSync, ни Google, ни любой другой потенциальный злоумышленник, никак не сможет узнать или расшифровать информацию.</string>
+    <string name="cloudsync_long_description">CloudSync поддерживает и синхронизирует ваши подключения и настройки между всеми вашими устройствами.\n\nCloudSync имеет поддержку AES-256 шифрования, чтобы защитить все ваши данные. В результате чего, любая синхронизируемая информация может быть расшифрована только с помощью пароля, который вы установили.\n\nНи серверы JuiceSSH CloudSync, ни Google, ни любой другой потенциальный злоумышленник, никак не сможет узнать или расшифровать информацию.</string>
     <string name="cloudsync_is_disabled">CloudSync отключен</string>
     <string name="manage">Управление</string>
     <string name="include_identities">Идентификаторы</string>
@@ -465,7 +465,7 @@
     <string name="connection_group">Группа подключений</string>
     <string name="team_members">Участники команды</string>
     <string name="plugins_description">Плагины являются расширениями функционала JuiceSSH, и написаны сообществом, используя нашу SDK.\n\nВы заинтересованы в создании плагина JuiceSSH? Ознакомьтесь с нашим SDK и документацией, чтобы увидеть, что именно они могут сделать, как они работают и как легко их можно написать.</string>
-    <string name="plugins_require_pro">Плагины требуют наличия ПРО-лицензии JuiceSSH. Но вы все равно можете просматривать хранилище плагинов, дабы быть в курсе, какие из них уже доступны, однако вы должны будете обновиться, если захотите использовать любой из них.</string>
+    <string name="plugins_require_pro">Плагины требуют наличия ПРО-лицензии JuiceSSH. Но вы все равно можете просматривать хранилище плагинов, чтобы быть в курсе, какие из них уже доступны. Однако вы должны будете обновиться, если захотите использовать любой из них.</string>
     <string name="dont_show_this_message_again">Не показывать это сообщение снова</string>
     <string name="invalid_address">Неверный адрес</string>
     <string name="custom">Вручную</string>
@@ -573,10 +573,5 @@
     <string name="alt_sends_esc">ALT отправляет нажатие ESC</string>
     <string name="vibrate_device">Вибрация устройства</string>
     <string name="show_notification">Показать уведомление</string> 
-
-    <string name="bookclub">Bookclub</string>
-    <string name="bookclub_description">Книги являются отличным источником информации, чтобы узнать о новых технологиях. Вот некоторые, которые приходят рекомендуется из сообщества JuiceSSH. Вы можете предложить своим избранным с кнопкой ниже.</string>
-    <string name="suggest_more_books">Предложить Другие книги</string>
-    <string name="find_and_recommend_books">Найти и рекомендовать книги</string>
 
 </resources>

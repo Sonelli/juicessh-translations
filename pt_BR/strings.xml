@@ -115,7 +115,7 @@
     <string name="delete_team">Apagar Equipe</string>
     <string name="change_team_password">Alterar senha da Equipe</string>
     <string name="no_invites">Sem convites</string>
-    <string name="you_do_not_have_any_invites">Se outras pessoas convidá-lo a uma equipe do convite aparecerá aqui. Alternativamente, você pode usar o botão add abaixo para iniciar a sua própria equipa! \ N \ nUma vez que você \ 've estabelecido sua equipe, você será capaz de compartilhar grupos de ligações com eles. Para fazer isso, basta ir à sua lista de ligação e prima o grupo de conexão que você deseja compartilhar.</string>
+    <string name="you_do_not_have_any_invites">Se outras pessoas convidá-lo a uma equipe do convite aparecerá aqui. Alternativamente, você pode usar o botão add abaixo para iniciar a sua própria equipa! \n\nUma vez que você\'ve estabelecido sua equipe, você será capaz de compartilhar grupos de ligações com eles. Para fazer isso, basta ir à sua lista de ligação e prima o grupo de conexão que você deseja compartilhar.</string>
     <string name="no_members">Esta equipa não tem membros.</string>
     <string name="this_team_has_no_members">Esta equipa não tem membros.\nUse os botões abaixo para convidar as pessoas para a equipe.\n</string>
     <string name="yes">Sim</string>
@@ -246,7 +246,7 @@
     <string name="cant_modify_ec2_connection">Não é possível modificar diretamente uma conexão EC2. \nPor favor, modificar o mapeamento EC2 pai em vez.</string>
     <string name="cant_duplicate_ec2_connection">Não é possível duplicar uma conexão EC2.</string>
     <string name="there_was_a_problem_deleting_this_item">Houve um problema apagar este item. Nós vamos analisar a questão em breve.</string>
-    <string name="unrecognized_failure">Desculpas. Ocorreu uma falha de \ não reconhecido nTente novamente em um minuto.</string>
+    <string name="unrecognized_failure">Desculpas. Ocorreu uma falha de \ não reconhecido \nTente novamente em um minuto.</string>
     <string name="update_region_list">Lista de região de atualização</string>
     <string name="updated_regions">Regiões atualizado com sucesso</string>
     <string name="please_enter_a_profile_name">Por favor, indique um nome de perfil</string>
@@ -342,7 +342,7 @@
     <string name="alt">Alt</string>
     <string name="toggle_keyboard">Alternar teclado</string>
     <string name="locked_out">Destravar</string>
-    <string name="too_many_incorrect_security_lock_attempts">Muitas tentativas de bloqueio de segurança incorretas \ nTente novamente em %s</string>
+    <string name="too_many_incorrect_security_lock_attempts">Muitas tentativas de bloqueio de segurança incorretas \nTente novamente em %s</string>
     <string name="set_as_browser_proxy">Definir proxy como</string>
     <string name="localhost">127.0.0.1</string>
     <string name="application_version">Versão</string>
@@ -360,7 +360,7 @@
     <string name="local_forward_description_short">localhost:%1$s para %2$s:%3$s</string>
     <string name="remote_forward_description_short">%1$s:%2$s para %3$s:%4$s</string>
     <string name="invalid_connection">Conexão invalida</string>
-    <string name="for_a_limited_time_only">apenas por um tempo limitado obter uma JuiceSSH Pro licença por apenas %s! \ licensa é válida para todos os seus dispositivos.</string>
+    <string name="for_a_limited_time_only">apenas por um tempo limitado obter uma JuiceSSH Pro licença por apenas %s! \n licensa é válida para todos os seus dispositivos.</string>
     <string name="special_offer">Oferta Especial</string>
     <string name="pick_one">(Escolha uma)</string>
     <string name="reconnect">Reconectar</string>
@@ -509,7 +509,7 @@
     <string name="dash">-</string>
     <string name="open_sftp_sessions">Abrir sessões JuiceSSH SFTP</string>
     <string name="cloudsync_required">CloudSync Obrigatorio</string>
-    <string name="teamshare_requires_cloudsync">TeamShare exige que CloudSync está habilitado para compartilhar conexões com suas equipes. Don \ 't preocupação, identidades (usernames / senhas / chaves) nunca são compartilhadas entre os membros da equipe. \n\nDeseja permitir CloudSync agora?</string>
+    <string name="teamshare_requires_cloudsync">TeamShare exige que CloudSync está habilitado para compartilhar conexões com suas equipes. Don\'t preocupação, identidades (usernames / senhas / chaves) nunca são compartilhadas entre os membros da equipe. \n\nDeseja permitir CloudSync agora?</string>
     <string name="backspace_mode">Backspace:</string>
     <string name="backspace_mode_default">Default (envia DEL)</string>
     <string name="backspace_mode_legacy">Legacy (envia ^H)</string>
@@ -571,10 +571,5 @@
     <string name="alt_sends_esc">ALT envia ESC</string>
     <string name="vibrate_device">Vibrar dispositivo</string>
     <string name="show_notification">Mostrar notificação</string>
-
-    <string name="bookclub">Bookclub</string>
-    <string name="bookclub_description">Os livros são uma grande fonte de informação para aprender sobre novas tecnologias. Aqui estão alguns que vêm recomendados por parte da comunidade JuiceSSH. Você pode sugerir seus favoritos com o botão abaixo.</string>
-    <string name="suggest_more_books">Sugerir Mais Livros</string>
-    <string name="find_and_recommend_books">Encontre e recomendar livros</string>
 
 </resources>

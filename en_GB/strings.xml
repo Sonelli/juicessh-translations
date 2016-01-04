@@ -572,11 +572,14 @@
     <string name="alt_mode_default">Default</string>
     <string name="alt_sends_esc">ALT sends ESC</string>
     <string name="vibrate_device">Vibrate Device</string>
-    <string name="show_notification">Show Notification</string> 
+    <string name="show_notification">Show Notification</string>
 
-    <string name="bookclub">Bookclub</string>
-    <string name="bookclub_description">Books are a great source of information to learn about new technologies. Here are some that come recommended from the JuiceSSH community. You can suggest your favorites with the button below.</string>
+    <string name="bookclub">Tech Library</string>
     <string name="suggest_more_books">Suggest More Books</string>
-    <string name="find_and_recommend_books">Find and recommend books</string>
+    <string name="find_and_recommend_books">Discover books and support JuiceSSH</string>
+    <string name="remove_bookclub">Disable Tech Library</string>
+    <string name="bookclub_description">The JuiceSSH Tech Library is a community curated list of technical books that other JuiceSSH users have found helpful and relevant. All books purchased help support the ongoing development of JuiceSSH. We make a small amount of money for each purchase made.\n\nIf you\'ve read a good technical book recently, use the button below to recommend it to the JuiceSSH community.</string>
+    <string name="remove_bookclub_text">Don\'t want book recommendations from the JuiceSSH community? No problem, you\'re more than welcome to hide this feature for good.\n\nOnce disabled, you\'ll need to reinstall JuiceSSH in order to get it back.</string>
+    <string name="never_show_bookclub_again">Disable JuiceSSH Tech Library</string>
 
 </resources>
