@@ -8,7 +8,7 @@
     <string name="menu_settings">Impostazioni</string>
     <string name="welcome">Benvenuto</string>
     <string name="menu_item_title">Titolo Menù Nomi</string>
-    <string name="menu_item_subtitle">Sottotitolo Menù Nomi (può essere un pò lungo)</string>
+    <string name="menu_item_subtitle">Sottotitolo Menù Nomi (può essere un po\' lungo)</string>
     <string name="icon">Icona</string>
     <string name="juicessh">JuiceSSH</string>
     <string name="signin">Iscriviti...</string>
@@ -317,13 +317,13 @@
     <string name="widget_will_update">Widget aggiornerà %s</string>
     <string name="pro_feature">Funzioni Pro</string>
     <string name="widgets_are_pro_only">Questi widget fanno parte del pacchetto Pro.\Premi qui per saperne di più.</string>
-    <string name="port_forwards">Apertura porte</string>
-    <string name="no_port_forwards">Nessuna porta aperta</string>
-    <string name="you_do_not_have_any_port_forwards">Non hai nessuna porta configurata</string>
+    <string name="port_forwards">Inoltro porte</string>
+    <string name="no_port_forwards">Nessuna porta inoltrata</string>
+    <string name="you_do_not_have_any_port_forwards">Non hai nessuna regola di inoltro configurata</string>
     <string name="disconnect">Disconnesso</string>
-    <string name="socks_forward_description">SOCK dinamici sulla porta %s</string>
-    <string name="new_port_forward">Nuova aprtura porta</string>
-    <string name="update_port_forward">Aggiorna le regole delle porte</string>
+    <string name="socks_forward_description">Inolti SOCK dinamici sulla porta %s</string>
+    <string name="new_port_forward">Nuova regola di inoltro porta</string>
+    <string name="update_port_forward">Aggiorna le regole di inoltro porte</string>
     <string name="group_name_colon">Nome del gruppo:</string>
     <string name="mode_colon">Modalità:</string>
     <string name="connection_colon">Connessioni:</string>
@@ -338,7 +338,7 @@
     <string name="you_must_pick_a_connection">Devi selezionare una connessione</string>
     <string name="you_must_enter_a_local_port">Devi inserire una porta locale</string>
     <string name="you_must_enter_a_remote_port">Devi inserire una porta remota</string>
-    <string name="manage_port_forward">Gestisci l\'apertura delle porte</string>
+    <string name="manage_port_forward">Gestisci l\'inoltro delle porte</string>
     <string name="alt">Alt</string>
     <string name="toggle_keyboard">Tasti utili</string>
     <string name="locked_out">Bloccato</string>
@@ -356,7 +356,7 @@
     <string name="interactive_authentication">Autenticazione interattiva</string>
     <string name="server_message">Messaggio del server</string>
     <string name="update_or_clear">Aggiorna / Pulisci</string>
-    <string name="port_forwarding_is_part_of_our_pro">La funzione di port forwarding fa parte del pacchetto Pro.\nClicca sotto per una lista completa di tutte le funzioni incluse nel nostro pacchetto pro e come effettuare l\'aggiornamento.</string>
+    <string name="port_forwarding_is_part_of_our_pro">La funzione di inoltro porte fa parte del pacchetto Pro.\nClicca sotto per una lista completa di tutte le funzioni incluse nel nostro pacchetto pro e come effettuare l\'aggiornamento.</string>
     <string name="local_forward_description_short">localhost:%1$s a %2$s:%3$s</string>
     <string name="remote_forward_description_short">%1$s:%2$s a %3$s:%4$s</string>
     <string name="invalid_connection">Connessione non valida</string>
@@ -364,7 +364,7 @@
     <string name="special_offer">Offerta speciale</string>
     <string name="pick_one">(Selezionane una)</string>
     <string name="reconnect">Riconnettiti</string>
-    <string name="just_fetching_and_organising_your_port_forwards">È sufficiente ed organizzare il port foward.</string>
+    <string name="just_fetching_and_organising_your_port_forwards">Organizzando l'inoltro delle porte.</string>
     <string name="via_connection_string">attraverso %s</string>
     <string name="please_enter_your_private_key_passphrase_for">Perfavore immetti la tua chiave privata per %s:</string>
     <string name="enter_password_for">Please enter the password for %s:</string>
@@ -418,7 +418,7 @@
     <string name="juicessh_connections_read_write">Moddifica le connessioni di JuiceSSH</string>
     <string name="juicessh_snippets_read_only">Lista degli snippets di JuiceSSH</string>
     <string name="juicessh_snippets_read_write">Modifica degli snippets di JuiceSSH</string>
-    <string name="connection_or_forward_not_found">Connessione o avanti non trovata</string>
+    <string name="connection_or_forward_not_found">Connessione o inoltro non trovata</string>
     <string name="snippet_not_found">Snippet non trovato</string>
     <string name="no_command_or_snippet">Nessun comando o Snippet trovato</string>
     <string name="plugins">Plugin</string>
@@ -440,8 +440,8 @@
     <string name="could_not_contact_cloudsync_service">Non posso contattare il servizio di cloud.</string>
     <string name="wipe_cloudsync">Formatta i backup</string>
     <string name="are_you_sure_wipe_cloudsync">Sei sicuro di voler rimuovere tutti i tuoi backup salvati nel cloud? Questo non avrà effetto su nessuna tua connessione o impostazione locale..</string>
-    <string name="juicessh_port_forwards_read_only">Lista delle porte aperte di JuiceSSH</string>
-    <string name="juicessh_port_forwards_read_write">Modifica le porte di JuiceSSH</string>
+    <string name="juicessh_port_forwards_read_only">Lista degli inoltro porte di JuiceSSH</string>
+    <string name="juicessh_port_forwards_read_write">Modifica degli inoltro porte di JuiceSSH</string>
     <string name="Plugins">Plugin</string>
     <string name="install">Installa</string>
     <string name="more_information">Più informazioni</string>
@@ -470,7 +470,7 @@
     <string name="custom">Personalizzato</string>
     <string name="please_select_a_region">Perfavore inserisci una regione</string>
     <string name="custom_endpoint">Endpoint personalizzato:</string>
-    <string name="socks_description">Please note that due to Android security restrictions JuiceSSH is not able to automatically route your traffic through this dynamic forward.\n\nYou can find more information on how to make use of SOCKS forwarding within Android at http://juicessh.com/socks</string>
+   <string name="socks_description">Nota bene che a causa delle restrizioni di sicurezza di Android, JuiceSSH non può automaticamente instradare il tuo traffico attraverso questo inoltro dinamico.\nPuoi trovaare ulteriori informazioni sull\'uso dell\'inoltro SOCKS per android all\'indirizzo: http://juicessh.com/socks</string>
     <string name="open">Apri</string>
     <string name="error_plugin_not_installed">Errore: Plugin non installato</string>
     <string name="clear_private_key">Clear Private Key</string>
@@ -531,8 +531,8 @@
     <string name="key_import_export_generation">Key import, export and generation</string>
     <string name="two_factor_authentication">Two-factor authentication (eg Google Authenticator and other OTP systems)</string>
     <string name="zlib_compression_on_ssh_sessions">ZLib compression on SSH sessions</string>
-    <string name="beautiful_widget_for_quick_access">Beautiful widget for quick access to your connections and port forwards</string>
-    <string name="local_remote_and_dynamic_port_forwards">Local, remote and dynamic (SOCKS) port forwarding</string>
+    <string name="beautiful_widget_for_quick_access">Utili widget per l\'accesso rapido alle tue connessioni ed inoltro porte</string>
+    <string name="local_remote_and_dynamic_port_forwards">Inoltri porte (SOCKS) locali, remoti e dinamici</string>
     <string name="store_commands_as_snippets">Store commands and scripts as \'Snippets\', ready to be quickly accessed and used within sessions</string>
     <string name="automatically_run_a_snippet">Automatically run a snippet when connecting to a host</string>
     <string name="additional_terminal_color_schemes">Additional terminal colour schemes including dark, light, molokai and solarized themes</string>
@@ -541,7 +541,7 @@
     <string name="sync_groups_of_connections_teamshare">Synchronise groups of connections between teams of people with TeamShare (AES-256 encrypted)</string>
     <string name="security_lock_to_automatically">Security Lock to automatically lock JuiceSSH after a period of inactivity</string>
     <string name="auto_import_amazon_ec2_instances">Automatically import Amazon EC2 instances to your connection list with EC2Link</string>
-    <string name="create_homescreen_shortcuts">Create homescreen/launcher shortcuts to connections and port forwards</string>
+    <string name="create_homescreen_shortcuts">Crea un collegamento alle connessioni ed inoltro porte sulla schermata home</string>
     <string name="rate_juicessh">Rate JuiceSSH</string>
     <string name="manage_share">Manage Share</string>
     <string name="new_ec2_profile">New EC2 Profile</string>
