@@ -37,8 +37,8 @@
     <string name="not_set">Non impostato</string>
     <string name="password_colon">Password: </string>
     <string name="private_key_colon">Chiave Privata: </string>
-    <string name="nickname_colon">Nome utente: </string>
-    <string name="nickname">Nome utente</string>
+    <string name="nickname_colon">Nome: </string>
+    <string name="nickname">Nome:</string>
     <string name="username_colon">Nome utente: </string>
     <string name="optional">(Facoltativo)</string>
     <string name="manage_password">Gestisci le password</string>
