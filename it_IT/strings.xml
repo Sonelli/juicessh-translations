@@ -204,7 +204,7 @@
     <string name="clear_snippets">Pulisci i frammenti</string>
     <string name="are_you_sure_you_want_to_clear_your_snippets">Sei sicuo di voler eliminare i frammenti?</string>
     <string name="nothing_to_clear">Niente da eliminare</string>
-    <string name="ssh_session_transcript">Trasrizione della sessione SSH</string>
+    <string name="ssh_session_transcript">Trascrizione della sessione SSH</string>
     <string name="host">Host</string>
     <string name="date">Data</string>
     <string name="this_transcript_has_been_sent_from_my_android_device_with">Questo script è stato inviato dal mio dispositivo Android utilizzando </string>
@@ -253,7 +253,7 @@
     <string name="please_enter_a_profile_name">Per favore inserisci un nome per il profilo</string>
     <string name="please_enter_an_aws_access_key">Per favore,inserisci una chiave di accesso AWS</string>
     <string name="please_enter_an_aws_access_secret">Per favore,inscerisci un segreto di accesso per AWS</string>
-    <string name="amazon_ec2_link">Link all\'Amazon EC2</string>
+    <string name="amazon_ec2_link">Collegamento all\'Amazon EC2</string>
     <string name="items_synced_on">%1$d elementi sincronizzati %2$s alle %3$s</string>
     <string name="item_synced_on">%1$d elementi sincronizzati %2$s il %3$s</string>
     <string name="contacting_amazon_api">Contattando le API di Amazon...</string>
@@ -368,10 +368,10 @@
     <string name="just_fetching_and_organising_your_port_forwards">Organizzando l'inoltro delle porte.</string>
     <string name="via_connection_string">attraverso %s</string>
     <string name="please_enter_your_private_key_passphrase_for">Per favore immetti la tua chiave privata per %s:</string>
-    <string name="enter_password_for">Please enter the password for %s:</string>
+    <string name="enter_password_for">Inserisci la password per %s:</string>
     <string name="page_down">PagGiù</string>
     <string name="page_up">PagSu</string>
-    <string name="invalid_private_key">Chiave privata invalida</string>
+    <string name="invalid_private_key">Chiave privata non valida</string>
     <string name="port_forwarding">Port Forwarding</string>
     <string name="open_address">Apri %s</string>
     <string name="email_person">Email %s</string>
@@ -428,7 +428,7 @@
     <string name="enabled">Abilitato</string>
     <string name="cloudsync_is_enabled">La sincronizzazione cloud è abilitata</string>
     <string name="open_juicessh_sessions">Apri ed interagisci con le sessioni di JuiceSSH</string>
-    <string name="cloudsync_long_description">CloudSync securely backs up and synchronises your connections and settings between all of your devices.\n\nCloudSync is backed by strong AES-256 encryption to protect all of your information. The result is that any synchronised information can only be decrypted with the passphrase you\'ve set.\n\nNeither JuiceSSH CloudSync servers, Google or any other potential attacker will ever have the ability to eavesdrop or decrypt your information.</string>
+    <string name="cloudsync_long_description">CloudSync salva e sincronizza in modo sicuro le tue connessioni ed impostazioni tra tutti i tuoi dispositivi.\n\nCloudSync utilizza una robusta cifratura AES-256 per proteggere tutte le tue informazioni. Come risultato le informazioni sincronizzate possono essere decifrate solo con la passphrase che tu hai scelto.\n\nNe i server di JuiceSSH, Google o altri attaccanti potranno sbirciare o decifrare le tue informazioni</string>
     <string name="cloudsync_is_disabled">La sincronizzazione cloud è disabilitata</string>
     <string name="manage">Gestisci</string>
     <string name="include_identities">Includi Identità</string>
@@ -498,7 +498,7 @@
     <string name="no_private_keys_found">Non sono state trovate chiavi private nel tuo sistema. Accertarsi che la chiave sia in formato OpenSSH e non Putty PPK.\n\nPer maggiori informazioni leggere:\n\nhttp://juicessh.com/keys</string>
     <string name="snippet_updated_successfully">Frammento aggiornato con successo</string>
     <string name="snippet_created_successfully">Frammento creato con successo</string>
-    <string name="invalid_filename">Nome del file invalido</string>
+    <string name="invalid_filename">Nome del file non valido</string>
     <string name="no_private_key_selected">Nessuna chiave privata selezionata</string>
     <string name="pro_users_can_public_key_snippet">Gli utenti JuiceSSH Pro possono usufruire di un frammento generato automaticamente per aggiungere le chiavi pubbliche ad un file ~/.ssh/authorized_keys sul server ed impostare i permessi corretti</string>
     <string name="transcript">Trascrivi</string>
