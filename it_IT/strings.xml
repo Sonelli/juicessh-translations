@@ -262,7 +262,7 @@
     <string name="ec2exception_bad_credentials">Credenziali errate</string>
     <string name="ec2exception_couldnt_fetch_filters">Non posso recuperare nessun filtro dal DB</string>
     <string name="ec2exception_bad_connection">Connessione errata</string>
-    <string name="ec2exception_uncaught_reason">Sconosciuto</string>
+    <string name="ec2exception_uncaught_reason">Errore sconosciuto</string>
     <string name="ec2exception_api_certificate_error">Errore nel certificato delle API</string>
     <string name="ive_already_purchased">Già acquistato</string>
     <string name="thanks_for_purchasing">Grazie per aver comprato JuiceSSH Pro.\nPer favore seleziona l\'account Google al quale vuoi associare il pagamento:</string>
