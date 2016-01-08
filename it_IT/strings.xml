@@ -14,9 +14,9 @@
     <string name="signin">Iscriviti...</string>
     <string name="new_connection">Nuova Connessione</string>
     <string name="save">Salva</string>
-    <string name="you_must_select_an_identity">Devi selezionare un identità</string>
+    <string name="you_must_select_an_identity">Devi selezionare un\'identità</string>
     <string name="you_must_enter_an_address">Devi immettere un indirizzo</string>
-    <string name="choose_an_identity">Seleziona un identità</string>
+    <string name="choose_an_identity">Seleziona un\'identità</string>
     <string name="edit">Modifica</string>
     <string name="share">Condividi</string>
     <string name="remove">Rimuovi</string>
@@ -32,7 +32,7 @@
     <string name="name">Nome:</string>
     <string name="add_team_member">Aggiungi un membro nella squadra</string>
     <string name="invite_user">Invita nella squadra</string>
-    <string name="enter_users_email_address_to_invite">Perfavore immetti l\'indirizzo mail della persona che vuoi invitare in questa squadra:</string>
+    <string name="enter_users_email_address_to_invite">Per favore immetti l\'indirizzo mail della persona che vuoi invitare in questa squadra:</string>
     <string name="you_must_enter_a_team_name">Devi inserire un nome da assegnare alla squadra</string>
     <string name="not_set">Non impostato</string>
     <string name="password_colon">Password: </string>
@@ -52,7 +52,7 @@
     <string name="invites">Inviti</string>
     <string name="team">Squadra</string>
     <string name="updated">Aggiornato</string>
-    <string name="please_enter_a_new_password">Perfavore inserisci una nuova password:</string>
+    <string name="please_enter_a_new_password">Per favore inserisci una nuova password:</string>
     <string name="new_password">Nuova Password</string>
     <string name="used_by">Usato da</string>
     <string name="connection">connessione</string>
@@ -85,8 +85,8 @@
     <string name="this_is_a_loading_indicator">Questo è un indicatore del caricamento</string>
     <string name="searching">Cercando...</string>
     <string name="team_password">Password della squadra</string>
-    <string name="please_enter_the_password_for_team">Perfavore inserisci la password relativa alla squadra \'%s\'</string>
-    <string name="please_enter_a_new_password_for_team">Perfavore inserisci una nuova password per la squadra \'%s\'</string>
+    <string name="please_enter_the_password_for_team">Per favore inserisci la password relativa alla squadra \'%s\'</string>
+    <string name="please_enter_a_new_password_for_team">Per favore inserisci una nuova password per la squadra \'%s\'</string>
     <string name="authentication_failure">Autenticazione Fallita</string>
     <string name="incorrect_private_key_passphrase">Chiave privata errata</string>
     <string name="please_enter_your_private_key_passphrase">Per favore inserisci la tua chiave privata:</string>
@@ -127,13 +127,13 @@
     <string name="clear_history">Calnella la cronologia</string>
     <string name="sorry">Scusa!</string>
     <string name="a_serious_error_occurred">È stato riscontrato un grave errore e  JuiceSSH necessita di essere riavviato</string>
-    <string name="please_select_a_team_member_to_invite">Perfavore selezione un membro della squadra da invitare.</string>
-    <string name="enter_new_team_name">Perfavore inserisci un nuovo nome per la squadra \'%s\'</string>
+    <string name="please_select_a_team_member_to_invite">Per favore selezione un membro della squadra da invitare.</string>
+    <string name="enter_new_team_name">Per favore inserisci un nuovo nome per la squadra \'%s\'</string>
     <string name="are_you_sure_you_want_to_delete_team">Sei sicuro di voler eliminare la squadra \'%s\'?</string>
     <string name="team_member">Membro della squadra</string>
     <string name="password_must_be_over_x_chars">La password deve essere di almeno %d caratteri</string>
     <string name="choose_identity">Seleziona l\'identità</string>
-    <string name="please_choose_an_identity_to_use_for">Perfavore seleziona un identità da usare per %s</string>
+    <string name="please_choose_an_identity_to_use_for">Per favore seleziona un\'identità da usare per %s</string>
     <string name="manage_group">Gestisci i Gruppi</string>
     <string name="manage_connection">Gestisci le connessioni</string>
     <string name="you_must_enter_a_group_name">Devi inserire il nome di un gruppo</string>
@@ -295,7 +295,7 @@
     <string name="long_press_the_terminal">Mantieni premuto il terminale per &amp; incollare e condividere o salvare la trascrizione della tua sessione.</string>
     <string name="ok_i_got_it">OK - Ho capito!</string>
     <string name="group_name">Nome del gruppo</string>
-    <string name="please_enter_a_name_for_this_group">Perfavore, immetti un nome per questo gruppo!</string>
+    <string name="please_enter_a_name_for_this_group">Per favore, immetti un nome per questo gruppo!</string>
     <string name="invalid_group_name">Nome del gruppo non valido</string>
     <string name="unknown_problem_making_group">Problema sconosciuto riscontrato creando il gruppo</string>
     <string name="purchasing_is_disabled">Il pagamento è stato disabilitato per questo dispositivo.</string>
