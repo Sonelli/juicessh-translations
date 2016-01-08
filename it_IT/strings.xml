@@ -409,9 +409,9 @@
     <string name="mosh">Mosh</string>
     <string name="server_command">Comando del server</string>
     <string name="failed_to_verify_purchase_with_api">Fallimento nella verifica del pagamento mediante le API - Per favore ritenta in seguito</string>
-    <string name="terminal_bell">Terminal Bell</string>
-    <string name="x_terminal_bells">%d terminal bells</string>
-    <string name="terminal_bell_received">Terminal bell received!</string>
+    <string name="terminal_bell">Campanella di sistema</string>
+    <string name="x_terminal_bells">%d campanelle di sistema</string>
+    <string name="terminal_bell_received">Campanella di sistema ricevuta!</string>
     <string name="duplicate">Duplica</string>
     <string name="copy_of">Copia di %s</string>
     <string name="juicessh_connections_read_only">Lista connessioni di JuiceSSH</string>
