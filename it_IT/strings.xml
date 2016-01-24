@@ -180,7 +180,7 @@
     <string name="forgotten_password_warning">ATTENZIONE: Creare una nuova password di criptaggio rimuoverà permanentemente tutte le tue connessioni ed impostazioni!\n\nSe vuoi impostare una nuova password di criptaggio, inseriscila qui sotto, altrimenti premi annulla.</string>
     <string name="connecting">Connessione in corso...</string>
     <string name="connected">Connesso</string>
-    <string name="connection_failed">Connssione fallita</string>
+    <string name="connection_failed">Connessione fallita</string>
     <string name="new_dot_dot_dot">Nuova...</string>
     <string name="background_session">Desideri che la sessione rimanga attiva?</string>
     <string name="emulator_type">Tipo di emulatore</string>
