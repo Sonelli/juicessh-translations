@@ -386,7 +386,7 @@
     <string name="couldnt_open_a_mosh_session">Nelze otevřít sezení Mosh.</string>
     <string name="host_key_rejected">Klíč hosta odmítnut</string>
     <string name="private_key">Privátní klíč</string>
-    <string name="about">O</string>
+    <string name="about">O aplikaci</string>
     <string name="components_and_licenses">Komponenty a licence</string>
     <string name="establishing_connection">Vytváření spojení</string>
     <string name="connect_via_only_supports_ssh_connections">\'Připojit přes\' podporuje pouze SSH spojení</string>
@@ -423,7 +423,7 @@
     <string name="snippet_not_found">Úryvek nenalezen</string>
     <string name="no_command_or_snippet">Žádný příkaz ani úryvek nenalezen</string>
     <string name="plugins">Doplňky</string>
-    <string name="extend_juicessh_with_third_party_extensions">Rozšířit JuiceSSH dopňky třetích stran</string>
+    <string name="extend_juicessh_with_third_party_extensions">Rozšířit JuiceSSH o doplňky třetích stran</string>
     <string name="quick_access_to_your_frequent_connections">Vaše nejpoužívanější spojení</string>
     <string name="enabled">Povoleno</string>
     <string name="cloudsync_is_enabled">CloudSync je povoleno</string>
@@ -531,12 +531,12 @@
     <string name="rsa_key_authentication">Autentizace pomocí RSA klíče (včetně přesměrování agenta)</string>
     <string name="key_import_export_generation">Generování, import a export klíče</string>
     <string name="two_factor_authentication">Dvoufázové ověření (např. Google Authenticator a jiné OTP systémy)</string>
-    <string name="zlib_compression_on_ssh_sessions">Komprese zlib sezení SSH</string>
+    <string name="zlib_compression_on_ssh_sessions">Komprese sezení SSH pomocí zlib</string>
     <string name="beautiful_widget_for_quick_access">Pěkný moderní widget pro rychlý přístup k často používaným spojením nebo k přesměrování portů</string>
     <string name="local_remote_and_dynamic_port_forwards">Lokální, vzdálené a dynamické (SOCKS) přesměrování portů</string>
     <string name="store_commands_as_snippets">Ukládání příkazů a skriptů jako \'Úryvky\', připravené k rychlému přístupu a použití v rámci sezení</string>
-    <string name="automatically_run_a_snippet">Automaticky spustit úryvků při připojení k vzdálenému serveru</string>
-    <string name="additional_terminal_color_schemes">Doplňující barvy terminálu včetně tmavého, světlého, molokai a motivů solarized</string>
+    <string name="automatically_run_a_snippet">Automatické spuštění úryvků při připojení k vzdálenému serveru</string>
+    <string name="additional_terminal_color_schemes">Doplňující barvy terminálu zahrnující motivy tmavý, světlý, molokai a solarized</string>
     <string name="sync_all_of_your_connections">Synchronizace všech spojení a nastavení přes CloudSync (šifrováno AES-256)</string>
     <string name="backup_all_of_your_connections">Automatické zálohování vašich spojení a nastavení přes CloudSync (šifrováno AES-256)</string>
     <string name="sync_groups_of_connections_teamshare">Synchronizace skupin spojení mezi lidmi v týmu přes TeamShare (šifrováno AES-256)</string>
