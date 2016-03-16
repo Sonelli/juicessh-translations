@@ -75,7 +75,7 @@
     <string name="incorrect_decryption_password_for_team">Password di decriptazione della squadra errata</string>
     <string name="teamshare_password_explanation">Questa password verrà usata per criptare tutte le connessioni che condividi con la squadra. Gli altri membri della squadra necessiteranno di inserire la password quando entreranno nel gruppo per decriptare le informazioni.</string>
     <string name="cloudsync">Sincronizzazione con il cloud</string>
-    <string name="decryption_of_your_backups_failed">La password inserita per decriptare il backup è risultata errata. La decriptazione del backup è falita</string>
+    <string name="decryption_of_your_backups_failed">La password inserita per decriptare il backup è risultata errata. La decriptazione del backup è fallita</string>
     <string name="decyrption_of_items_for_team">Decriptazione degli elementi per la squadra</string>
     <string name="decryption_of_items_for_team">Decriptazione degli elementi per la squadra</string>
     <string name="failed_due_to_incorrect_password">fallito a causa di una password di gruppo errata</string>
@@ -125,7 +125,7 @@
     <string name="teamshare_invite">Inviti di condivisione di squadra</string>
     <string name="do_you_want_to_join_team">Vuoi entrare nella squadra \'%s\'?</string>
     <string name="youve_not_connected_yet">Non sei ancora connesso a nessun server.\nClicca il pulsante connessioni qui sotto per iniziare.</string>
-    <string name="clear_history">Calnella la cronologia</string>
+    <string name="clear_history">Cancella la cronologia</string>
     <string name="sorry">Scusa!</string>
     <string name="a_serious_error_occurred">È stato riscontrato un grave errore e  JuiceSSH necessita di essere riavviato</string>
     <string name="please_select_a_team_member_to_invite">Per favore selezione un membro della squadra da invitare.</string>
@@ -172,7 +172,7 @@
     <string name="starting_backup">Inizio il backup...</string>
     <string name="encrypting_items">Criptaggio in corso...</string>
     <string name="sending_items">Invio in corso...</string>
-    <string name="receiving_items">Sto ricecevendo...</string>
+    <string name="receiving_items">Sto ricevendo...</string>
     <string name="decrypting_items">Decriptaggio in corso...</string>
     <string name="importing_items">Sto importando...</string>
     <string name="Caps_sync_failed">Sincronizzazione fallita</string>
@@ -202,7 +202,7 @@
     <string name="this_is_the_first_time_youve_connected">Questa sembra essere la prima volta che ti connetti a %1$s.\n\nChiave dell\'host:\n%2$s\n\nDesideri accettare la chiave?</string>
     <string name="host_key_changed">Attenzione! La chiave pubblica per %1$s è cambiata. Questo è normale se hai sostituito il server, tuttavia se tu non hai modificato nulla portesti essere oggetto di un attacco "Man-in-the-Middle".\n\nNuova chiave: %2$s\n\nDesideri accettare la chiave?</string>
     <string name="clear_snippets">Pulisci i frammenti</string>
-    <string name="are_you_sure_you_want_to_clear_your_snippets">Sei sicuo di voler eliminare i frammenti?</string>
+    <string name="are_you_sure_you_want_to_clear_your_snippets">Sei sicuro di voler eliminare i frammenti?</string>
     <string name="nothing_to_clear">Niente da eliminare</string>
     <string name="ssh_session_transcript">Trascrizione della sessione SSH</string>
     <string name="host">Host</string>
@@ -216,13 +216,13 @@
     <string name="edit_snippet">Modifica Frammento</string>
     <string name="manage_snippets">Gestisci i frammenti</string>
     <string name="no_snippets">Nessun Frammento</string>
-    <string name="you_do_not_have_any_snippets">Non disponi attualmente di nessun frammento.\nUtilizza il pulsante sottostante o premi a lungo in una sesione per iniziare a salvare questi "liners".\n\nPuoi utilizzare i frammenti in qualsiasi momento durante una sessione di JuiceSSH tenendo premuta la finestra di terminale.</string>
+    <string name="you_do_not_have_any_snippets">Non disponi attualmente di nessun frammento.\nUtilizza il pulsante sottostante o premi a lungo in una sessione per iniziare a salvare questi "liners".\n\nPuoi utilizzare i frammenti in qualsiasi momento durante una sessione di JuiceSSH tenendo premuta la finestra di terminale.</string>
     <string name="loading_dot_dot_dot">Caricamento...</string>
     <string name="just_fetching_and_organising_your_connections">È sufficiente caricare ed organizzare le tue connessioni.</string>
     <string name="ec2_sync_profiles">Amazon EC2 Link</string>
     <string name="ec2_sync_profile">Profilo Amazon EC2 Link</string>
     <string name="no_profiles">Nessun profilo</string>
-    <string name="you_do_not_have_any_ec2_sync_profiles">Non disponi ancora di nessun profilo Amazon EC2.\nUtilizza il bottone sottostante per creare un nuovo profilo che popolerà automaticamente JuiceSSH con delle instanze EC2.</string>
+    <string name="you_do_not_have_any_ec2_sync_profiles">Non disponi ancora di nessun profilo Amazon EC2.\nUtilizza il bottone sottostante per creare un nuovo profilo che popolerà automaticamente JuiceSSH con delle istanze EC2.</string>
     <string name="last_sync">Ultima sincronizzazione il %1$s alle %2$s</string>
     <string name="sync_failed">Sincronizzazione fallita: %s</string>
     <string name="disabled">Disabilitato</string>
@@ -252,7 +252,7 @@
     <string name="updated_regions">Regioni aggiornate con successo</string>
     <string name="please_enter_a_profile_name">Per favore inserisci un nome per il profilo</string>
     <string name="please_enter_an_aws_access_key">Per favore,inserisci una chiave di accesso AWS</string>
-    <string name="please_enter_an_aws_access_secret">Per favore,inscerisci un segreto di accesso per AWS</string>
+    <string name="please_enter_an_aws_access_secret">Per favore,inserisci un segreto di accesso per AWS</string>
     <string name="amazon_ec2_link">Collegamento all\'Amazon EC2</string>
     <string name="items_synced_on">%1$d elementi sincronizzati %2$s alle %3$s</string>
     <string name="item_synced_on">%1$d elementi sincronizzati %2$s il %3$s</string>
@@ -278,11 +278,11 @@
     <string name="create_snippet">Crea un frammento</string>
     <string name="share_transcript">Condividi la trascrizione</string>
     <string name="select_application_to_share_with">Seleziona l\'applicazione con la quale condividere:</string>
-    <string name="no_capable_apps_found">Non ho trovatto nessuna applicazione che potesse soddisfare i requisiti</string>
+    <string name="no_capable_apps_found">Non ho trovato nessuna applicazione che potesse soddisfare i requisiti</string>
     <string name="unlock_pro_version">Sblocca la versione Pro!</string>
     <string name="unlock_pro_version_capitals">Sblocca le funzioni Pro</string>
     <string name="click_to_find_out_more">Conosci altre informazioni riguardanti le funzioni Pro</string>
-    <string name="please_try_again_later">Per favore prova in seguto</string>
+    <string name="please_try_again_later">Per favore prova in seguito</string>
     <string name="verifying_purchase">Verificando il pagamento...</string>
     <string name="homescreen_shortcut">Scorciatoia alla schermata home</string>
     <string name="homescreen_shortcut_created">Scorciatoia alla schermata home creata</string>
@@ -291,7 +291,7 @@
     <string name="tutorial">Tutorial</string>
     <string name="use_the_volume">Utilizza il bilanciere del volume per modificare la dimensione dei caratteri al volo.</string>
     <string name="popup_keyboard">Mostra la tastiera</string>
-    <string name="tap_the_terminal">Tocca il terminale per mostrare una tastiera contentente tutti i caratteri normalmente difficili da trovare (Ctrl, frecce etc). Effettua un gesto verso destra per abilitare/disabilitare l\'auto-completamento (utile per IRC etc).</string>
+    <string name="tap_the_terminal">Tocca il terminale per mostrare una tastiera contenente tutti i caratteri normalmente difficili da trovare (Ctrl, frecce etc). Effettua un gesto verso destra per abilitare/disabilitare l\'auto-completamento (utile per IRC etc).</string>
     <string name="copy_paste_share_save">Copia &amp; Incolla / Salva la trascrizione / Nascondi la tastiera</string>
     <string name="long_press_the_terminal">Mantieni premuto il terminale per &amp; incollare e condividere o salvare la trascrizione della tua sessione.</string>
     <string name="ok_i_got_it">OK - Ho capito!</string>
@@ -322,7 +322,7 @@
     <string name="no_port_forwards">Nessuna porta inoltrata</string>
     <string name="you_do_not_have_any_port_forwards">Non hai nessuna regola di inoltro configurata</string>
     <string name="disconnect">Disconnesso</string>
-    <string name="socks_forward_description">Inolti SOCK dinamici sulla porta %s</string>
+    <string name="socks_forward_description">Inoltra SOCK dinamici sulla porta %s</string>
     <string name="new_port_forward">Nuova regola di inoltro porta</string>
     <string name="update_port_forward">Aggiorna le regole di inoltro porte</string>
     <string name="group_name_colon">Nome del gruppo:</string>
@@ -417,7 +417,7 @@
     <string name="copy_of">Copia di %s</string>
     <string name="juicessh_connections_read_only">Lista connessioni di JuiceSSH</string>
     <string name="juicessh_connections_read_write">Modifica le connessioni di JuiceSSH</string>
-    <string name="juicessh_snippets_read_only">Lista degi frammenti di JuiceSSH</string>
+    <string name="juicessh_snippets_read_only">Lista dei frammenti di JuiceSSH</string>
     <string name="juicessh_snippets_read_write">Modifica dei frammenti di JuiceSSH</string>
     <string name="connection_or_forward_not_found">Connessione o inoltro non trovata</string>
     <string name="snippet_not_found">Frammento non trovato</string>
@@ -483,13 +483,13 @@
     <string name="key_strength_4096">4096 bits</string>
     <string name="form_passphrase">Parola chiave:</string>
     <string name="juicessh_will_automatically_push_keys">JuiceSSH si offrirà automaticamente di aggiungere la chiave pubblica al tuo file ~/.ssh/authorized_keys quando ti connetterai ad un server con questa identità.</string>
-    <string name="you_can_export_key">Una volta generata potrai esportare la chiave pubblica premendo a lungo l\'identià nella lista. Dovrai aggiungerla nel file ~/.ssh/authorized_keys del tuo server </string>
+    <string name="you_can_export_key">Una volta generata potrai esportare la chiave pubblica premendo a lungo l\'identità nella lista. Dovrai aggiungerla nel file ~/.ssh/authorized_keys del tuo server </string>
     <string name="key_generation_failed">Errore: generazione della chiave fallita</string>
     <string name="generating_key">Generando la chiave...</string>
     <string name="export_public_key">Esporta la chiave pubblica</string>
     <string name="export_private_key">Esporta la chiave privata</string>
     <string name="identity_has_no_key_to_export">L\'identità non ha chiavi da esportare</string>
-    <string name="unable_to_export_key">Errore: impossbile trovare la chiave da esportare</string>
+    <string name="unable_to_export_key">Errore: impossibile trovare la chiave da esportare</string>
     <string name="share_using">Condividi usando:</string>
     <string name="juicessh_public_key">JuiceSSH: Chiave pubblica</string>
     <string name="juicessh_private_key">JuiceSSH: Chiave privata</string>
@@ -516,7 +516,7 @@
     <string name="backspace_mode_legacy">Compatibile (invia ^H)</string>
     <string name="unsupported_cpu_architecture">Architettura della CPU non supportata. Sono supportate solo architetture ARM, x86 e MIPS.</string>
     <string name="binary_not_found">Un file binario richiesto per lanciare questa connessione è mancante o non può essere trovato sul tuo dispositivo. Per favore contattare support@sonelli.com</string>
-    <string name="our_goal_has_always_been">Il nostro obiettivo è sempre stato di create il miglior client SSH per Android. Per aiutare lo sviluppo di JuiceSSH offriamo anche un upgrade opzionale con alcune caratteristiche avanzate che i più smalizziati apprezzeranno</string>
+    <string name="our_goal_has_always_been">Il nostro obiettivo è sempre stato di create il miglior client SSH per Android. Per aiutare lo sviluppo di JuiceSSH offriamo anche un upgrade opzionale con alcune caratteristiche avanzate che i più smaliziati apprezzeranno</string>
     <string name="free">Gratis</string>
     <string name="pro">Pro</string>
     <string name="full_colour_terminal">Terminale a colori / client SSH con xterm, ncurses e supporto UTF-8</string>
@@ -534,7 +534,7 @@
     <string name="zlib_compression_on_ssh_sessions">Compressione ZLib per le sessioni SSH</string>
     <string name="beautiful_widget_for_quick_access">Utili widget per l\'accesso rapido alle tue connessioni ed inoltro porte</string>
     <string name="local_remote_and_dynamic_port_forwards">Inoltri porte (SOCKS) locali, remoti e dinamici</string>
-    <string name="store_commands_as_snippets">Salva comandi e script come \'frammenti\', pronti per essere rapidamenti usati nelle sessioni</string>
+    <string name="store_commands_as_snippets">Salva comandi e script come \'frammenti\', pronti per essere rapidamente usati nelle sessioni</string>
     <string name="automatically_run_a_snippet">Esegui automaticamente un frammento quando ti colleghi con un host</string>
     <string name="additional_terminal_color_schemes">Schemi di colori aggiuntivi inclusi temi dark, light, molokai e solarized</string>
     <string name="sync_all_of_your_connections">Sincronizza le tue connessioni ed impostazioni tra più dispositivi con CloudSync (cifrati con AES-256)</string>
@@ -547,7 +547,7 @@
     <string name="manage_share">Gestisci Condivisioni</string>
     <string name="new_ec2_profile">Nuovo Profilo EC2</string>
     <string name="horizontal_swipe">Scorrimento orizzontale</string>
-    <string name="keep_screen_on">Tieni lo schermo azzeso</string>
+    <string name="keep_screen_on">Tieni lo schermo acceso</string>
     <string name="screen_on_warning">Lo schermo verrà mantenuto acceso fino ache la sessione non sarà chiusa o mandata in secondo piano. Questo può diminuire la durata della batteria.</string>
     <string name="use_this_to_enter_text">Usa questa casella per inserire testo autocompletante.\nScorri a sinistra per tornare alla tastiera</string>
     <string name="example_snippet"># Inserisci comandi o script da eseguire\n# Per esempio:\n\necho \'Hello world\';\nexit 0;\n</string>
