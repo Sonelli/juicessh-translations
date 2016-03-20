@@ -8,7 +8,7 @@
     <string name="menu_settings">Setari</string>
     <string name="welcome">Bine ati venit</string>
     <string name="menu_item_title">Titlu element meniu</string>
-    <string name="menu_item_subtitle">Subtitlu element meniu (poate fi mai lung)</string>
+    <string name="menu_item_subtitle">Subtitlu element meniu (poate fi destul de lung)</string>
     <string name="icon">Iconita</string>
     <string name="juicessh">JuiceSSH</string>
     <string name="signin">Se conecteaza…</string>
@@ -52,16 +52,16 @@
     <string name="invites">Invitatii</string>
     <string name="team">Echipa</string>
     <string name="updated">Actualizat</string>
-    <string name="please_enter_a_new_password">Va rugam introduceti o noua parola:</string>
+    <string name="please_enter_a_new_password">Va rugam introduceti o parola noua:</string>
     <string name="new_password">Parola noua</string>
     <string name="used_by">Folosit de</string>
     <string name="connection">conexiune</string>
     <string name="connections_lowercase">conexiuni</string>
     <string name="not_used">Nefolosit</string>
-    <string name="set_private_key">Import cheie privata</string>
-    <string name="import_">Import</string>
-    <string name="paste">Paste</string>
-    <string name="clear">Clear</string>
+    <string name="set_private_key">Importa cheie privata</string>
+    <string name="import_">Importa</string>
+    <string name="paste">Lipeste</string>
+    <string name="clear">Sterge</string>
     <string name="respond">Raspunde</string>
     <string name="invited_you_to">Te-a invitat sa</string>
     <string name="_new">Nou</string>
@@ -177,7 +177,7 @@
     <string name="importing_items">Importare…</string>
     <string name="Caps_sync_failed">Sincronizare esuata</string>
     <string name="forgotten">Uitat</string>
-    <string name="forgotten_password_warning">ATENTIE: Daca setati o noua parola de criptare va sterge permanent toate conexiunile si setarile!\n\nDaca doriti sa setati o noua parola de criptare atunci introduceti-o mai jos, altfel apasati anulare.</string>
+    <string name="forgotten_password_warning">ATENTIE: Setarea unei noi parole de criptare va sterge permanent toate conexiunile si setarile!\n\nDaca doriti sa setati o noua parola de criptare atunci introduceti-o mai jos, altfel apasati anulare.</string>
     <string name="connecting">Conectare…</string>
     <string name="connected">Conectat</string>
     <string name="connection_failed">Conectare esuata</string>
@@ -292,8 +292,8 @@
     <string name="use_the_volume">Folositi butoanele de volum ale dispozitivului dvs. sa ajustati pe loc dimensiunea fontului.</string>
     <string name="popup_keyboard">Tastatura popup</string>
     <string name="tap_the_terminal">Apasati pe terminal pentru a afisa tastatura popupcu toate caracterele greu de gasit (ctrl, sageti etc). Swipe la dreapta pentru a activa/dezactiva completarea automata (util pentru IRC etc).</string>
-    <string name="copy_paste_share_save">Copy &amp; Paste / Salvare transcriere / Ascunde tastatura</string>
-    <string name="long_press_the_terminal">Apasati lung pe terminal pentru copy &amp; paste si pentru a partaja sau salva transcrierea sesiunii.</string>
+    <string name="copy_paste_share_save">Copiaza &amp; Lipeste / Salvare transcriere / Ascunde tastatura</string>
+    <string name="long_press_the_terminal">Apasati lung pe terminal pentru copiere &amp; lipire si pentru a partaja sau salva transcrierea sesiunii.</string>
     <string name="ok_i_got_it">OK - Am inteles!</string>
     <string name="group_name">Nume grup</string>
     <string name="please_enter_a_name_for_this_group">Va rugam introduceti un nume pentru acest grup</string>
@@ -361,7 +361,7 @@
     <string name="local_forward_description_short">localhost:%1$s la %2$s:%3$s</string>
     <string name="remote_forward_description_short">%1$s:%2$s la %3$s:%4$s</string>
     <string name="invalid_connection">Conexiune invalida</string>
-    <string name="for_a_limited_time_only">Doar pentr o perioada limitata obtineiti o licenta pe viata JuiceSSH Pro pentru doar %s!\nO licenta este valabila pe toate dispozitivele dvs.</string>
+    <string name="for_a_limited_time_only">Doar pentru o perioada limitata obtineti o licenta pe viata JuiceSSH Pro pentru doar %s!\nO licenta este valabila pe toate dispozitivele dvs.</string>
     <string name="special_offer">Oferta speciala</string>
     <string name="pick_one">(Alegeti una)</string>
     <string name="reconnect">Reconectare</string>
@@ -427,7 +427,7 @@
     <string name="quick_access_to_your_frequent_connections">Conexiunile cele mai folosite</string>
     <string name="enabled">Activat</string>
     <string name="cloudsync_is_enabled">CloudSync este activat</string>
-    <string name="open_juicessh_sessions">Open and interact with JuiceSSH sessions</string>
+    <string name="open_juicessh_sessions">Deschide si interactioneaza cu sesiuni JuiceSSH</string>
     <string name="cloudsync_long_description">CloudSync arhiveaza si sincronizeaza in siguranta conexiunile si setarile intre toate dispozitivle dvs.\n\nCloudSync este sprijinit de criptare puternica AES-256 pentru a proteja informatiile dvs. Rezultatul este ca orice informatie sincronizata poate fi decriptata doar cu parola ce ati setat-o.\n\nNici serverele JuiceSSH CloudSync, Google sau orice alt potential atacator nu va putea intercepta sau descifra aceste informatii.</string>
     <string name="cloudsync_is_disabled">CloudSync este dezactivat</string>
     <string name="manage">Gestionare</string>
@@ -471,7 +471,7 @@
     <string name="custom">Personalizat</string>
     <string name="please_select_a_region">Va rugam selectati o regiune</string>
     <string name="custom_endpoint">Punct terminal personalizat:</string>
-    <string name="socks_description">Va rugam retineti ca datorita restrictiilor din Android JuiceSSH nu poate ruta automat traficul prin acest forward dinamic.\n\nGasiti mai multe informatii descpre cum sa folositi forwardarea SOCKS cu Android la http://juicessh.com/socks</string>
+    <string name="socks_description">Va rugam retineti ca datorita restrictiilor din Android JuiceSSH nu poate ruta automat traficul prin acest forward dinamic.\n\nGasiti mai multe informatii despre cum sa folositi forwardarea SOCKS cu Android la http://juicessh.com/socks</string>
     <string name="open">Deschide</string>
     <string name="error_plugin_not_installed">Eroare: plugin-ul nu este instalat</string>
     <string name="clear_private_key">Elimina cheia privata</string>
@@ -534,7 +534,7 @@
     <string name="zlib_compression_on_ssh_sessions">Compresie ZLib pentru sesiunile SSH</string>
     <string name="beautiful_widget_for_quick_access">Widget superb pentru acces rapid la conexiuni si forwardare porturi</string>
     <string name="local_remote_and_dynamic_port_forwards">Forwardare porturi local, remote si dinamic (SOCKS)</string>
-    <string name="store_commands_as_snippets">Stocati comenzi si scripturi ca \'Fragmente\', gata de a fi rapid accesate si folosite in cadrul sessions</string>
+    <string name="store_commands_as_snippets">Stocati comenzi si scripturi ca \'Fragmente\', gata de a fi rapid accesate si folosite in cadrul sesiunilor</string>
     <string name="automatically_run_a_snippet">Rulati automat un fragment cand va conectati la un host</string>
     <string name="additional_terminal_color_schemes">Scheme de culori suplimentare inclusiv dark, light, molokai si teme solarized</string>
     <string name="sync_all_of_your_connections">Sincronizati toate conexiunile si setarile dvs. intre dispozitive cu CloudSync (criptat AES-256)</string>
@@ -558,7 +558,7 @@
     <string name="cloudsync_passphrase_required">Pentru a cripta informatiile dvs. in timpul procesului de sincronizare trebuie introdusa o parola de criptare.\n\nTrebuie sa folositi aceasta parola pe toate dispozitivele pentru ca functia CloudSync sa functioneze.</string>
     <string name="update_passphrase">Actualizeaza parola</string>
     <string name="app_security">Securitate applicatie</string>
-    <string name="security_lock_migrate_message">Din dorinta utilizatorilor functia de blocare de securitate foloseste acum un cod PIN in loc de introducerea unei parole de criptare. \n\nVeti fi migrat la noul stil data viitoare cand activati functia de blocare de securitate in pagina de setari JuiceSSH.\n\nDorit sa mergeti acolo acum?</string>
+    <string name="security_lock_migrate_message">Din dorinta utilizatorilor functia de blocare de securitate foloseste acum un cod PIN in loc de introducerea unei parole de criptare. \n\nVeti fi migrat la noul stil data viitoare cand activati functia de blocare de securitate in pagina de setari JuiceSSH.\n\nDoriti sa mergeti acolo acum?</string>
     <string name="identity">Identitate</string>
     <string name="warning">Atentie</string>
 
