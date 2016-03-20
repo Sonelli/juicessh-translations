@@ -21,7 +21,7 @@
     <string name="share">分享</string>
     <string name="remove">移除</string>
     <string name="delete">刪除</string>
-    <string name="no_identity">尚未建立任何身份</string>
+    <string name="no_identity">未選擇身份</string>
     <string name="update_connection">更新連線</string>
     <string name="update_group">更新連線群組</string>
     <string name="new_identity">新增身份</string>
@@ -213,9 +213,9 @@
     <string name="could_not_save_file">無法儲存檔案</string>
     <string name="new_snippet">新指令片段</string>
     <string name="cant_save_an_empty_snippet">無法儲存空白的指令片段</string>
-    <string name="edit_snippet">編輯程式碼片段</string>
-    <string name="manage_snippets">管理程式碼片段</string>
-    <string name="no_snippets">無程式碼片段</string>
+    <string name="edit_snippet">編輯指令片段</string>
+    <string name="manage_snippets">管理指令片段</string>
+    <string name="no_snippets">無指令片段</string>
     <string name="you_do_not_have_any_snippets">您目前沒有任何指令片段。\n輕觸下面的按鈕，或者在工作階段中按住畫面來建立指令片段。\n\n您可以隨時在工作階段中按住來使用指令片段</string>
     <string name="loading_dot_dot_dot">載入中…</string>
     <string name="just_fetching_and_organising_your_connections">正在取得您的連線。</string>
@@ -266,7 +266,7 @@
     <string name="ec2exception_uncaught_reason">未知</string>
     <string name="ec2exception_api_certificate_error">API 憑證錯誤</string>
     <string name="ive_already_purchased">我已經購買過了</string>
-    <string name="thanks_for_purchasing">感謝購買 JuiceSSH 專業版。\n請選擇您想用來購買的 Google 帳戶：</string>
+    <string name="thanks_for_purchasing">感謝您購買 JuiceSSH 專業版。\n請選擇購買的 Google 帳戶：</string>
     <string name="select_associated_account">請選擇您想用來購買的 Google 帳戶：</string>
     <string name="rate_us">給我們評價</string>
     <string name="it_really_helps">如果您喜歡這個應用程式，請給我們支持與鼓勵！</string>
@@ -281,7 +281,7 @@
     <string name="no_capable_apps_found">未找到合適的應用程式</string>
     <string name="unlock_pro_version">解鎖專業版功能</string>
     <string name="unlock_pro_version_capitals">解鎖專業版功能</string>
-    <string name="click_to_find_out_more">詳細了解專業版功能</string>
+    <string name="click_to_find_out_more">了解專業版功能</string>
     <string name="please_try_again_later">請稍後重試</string>
     <string name="verifying_purchase">驗證購買中…</string>
     <string name="homescreen_shortcut">主畫面捷徑</string>
@@ -291,7 +291,7 @@
     <string name="tutorial">教學指南</string>
     <string name="use_the_volume">使用音量鍵隨手調整字體大小</string>
     <string name="popup_keyboard">彈出式鍵盤</string>
-    <string name="tap_the_terminal">輕觸終端機以顯示彈出式鍵盤，該鍵盤擁有所有常用而又難以找到的字元（比如 Ctrl, 方向鍵等）。向右滑動切換自動補全狀態（在 IRC 中比較有用）。</string>
+    <string name="tap_the_terminal">輕觸終端機畫面以顯示彈出式鍵盤，該鍵盤包含常用而又難以找到的字元（比如 Ctrl, 方向鍵等）。向左滑動即可輸入中文。</string>
     <string name="copy_paste_share_save">複製和貼上 / 儲存副本 / 隱藏鍵盤</string>
     <string name="long_press_the_terminal">在終端機中按住便可以複製和貼上，分享或儲存工作階段副本。</string>
     <string name="ok_i_got_it">好，我懂了！</string>
@@ -306,7 +306,7 @@
     <string name="pin_required">需要密碼</string>
     <string name="show">顯示</string>
     <string name="incorrect_pin_attempt_x_remaining">驗證失敗\n 剩餘 %d 次機會。</string>
-    <string name="purchase_not_found">未找到購買內容</string>
+    <string name="purchase_not_found">未找到購買紀錄</string>
     <string name="clear_known_hosts">清除已知主機</string>
     <string name="removes_host_keys">清除之前記錄的主機金鑰 / 金鑰指紋</string>
     <string name="are_you_sure_clear_known_hosts">您確定要清除所有已知主機嗎？\n\n下次連線時您可能會被詢問是否接受主機金鑰指紋。</string>
@@ -337,9 +337,9 @@
     <string name="open_in_browser">連線後在瀏覽器開啟</string>
     <string name="you_must_enter_a_name">您必須輸入名稱</string>
     <string name="you_must_pick_a_connection">您必須選擇連線</string>
-    <string name="you_must_enter_a_local_port">您必須輸入本地通訊埠</string>
-    <string name="you_must_enter_a_remote_port">您必須輸入遠端通訊埠</string>
-    <string name="manage_port_forward">管理通訊埠轉發</string>
+    <string name="you_must_enter_a_local_port">您必須輸入本地連接埠</string>
+    <string name="you_must_enter_a_remote_port">您必須輸入遠端連接埠</string>
+    <string name="manage_port_forward">管理連接埠轉發</string>
     <string name="alt">Alt</string>
     <string name="toggle_keyboard">切換鍵盤</string>
     <string name="locked_out">鎖定</string>
@@ -483,7 +483,7 @@
     <string name="key_strength_4096">4096 位元</string>
     <string name="form_passphrase">密碼：</string>
     <string name="juicessh_will_automatically_push_keys">JuiceSSH 會自動在您使用此身份連線到伺服器時，將此公鑰放到您的 ~/.ssh/authorized_keys 。</string>
-    <string name="you_can_export_key">一旦產生，您可以透過按住來匯出公鑰。您需要將其儲存到您伺服器上的 ~/.ssh/authorized_keys 文件中才能使用。</string>
+    <string name="you_can_export_key">產生後，您可以輕觸並按住以匯出公鑰。您必須將其儲存到您伺服器上的 ~/.ssh/authorized_keys 文件中才能使用。</string>
     <string name="key_generation_failed">錯誤：金鑰產生失敗</string>
     <string name="generating_key">產生金鑰中…</string>
     <string name="export_public_key">匯出公鑰</string>

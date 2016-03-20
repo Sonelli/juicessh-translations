@@ -1,42 +1,42 @@
-這是一個為 Android 打造的全功能終端應用，支援 SSH，本地端 Shell，mosh 和 Telnet。
+這是一個為 Android 打造的全功能終端應用，支援 SSH, Local Shell，mosh 和 Telnet。
 
 功能：
-- 全彩的終端 / SSH 客戶端
-- 內建之彈出式鍵盤上有著多種有用而又難找的字元
+- 支援全彩
+- 內建彈出式鍵盤上有多種有用而又難找的字元
 - 可使用音量鍵快速調整字體大小
 - 支援外接鍵盤
 - 支援在 irssi，weechat，tmux 和 screen 中使用手勢來切換分頁
-- 社區和第三方開發的插件
+- 參與 JuiceSSH 社群和使用第三方開發的插件
 - mosh 官方支援 (http://mosh.mit.edu)
 - 支援 Telnet
 - 支援 Android 本地端 Shell
-- 支援暗色系，亮色系，80's hacker，Monokai，Solarized 暗色和 Solarized 亮色等終端配色
-   如想檢視 Solarized 的樣子，或想知道它為什麼適用於終端使用，請訪問 http://ethanschoonover.com/solarized
-- 點擊鏈接以在瀏覽器中打開
+- 支援暗色系，亮色系，80's hacker，Monokai，Solarized 暗色和 Solarized 亮色等配色
+    Solarized 是什麼？ 了解更多，請造訪 http://ethanschoonover.com/solarized
+- 可直接開啟終端機中的連結，不必再複製貼上
 - 在工作階段中複製和貼上
-- 儲存和分享 SSH 副本到 Dropbox/Evernote/Email 和 SD 卡
+- 儲存並分享 SSH 設定檔到 Dropbox/Evernote/Email 和 SD 卡
 - 支援 UTF-8
-- 透過群組來便捷地管理連接
-- 在背景同時開啟多個 SSH 工作階段的連接
-- 支援以其他 SSH 連接作為代理連接，藉此連線到該伺服器
-- 開啟本應用程式便能快速訪問常用的連接
+- 可使用群組管理連接
+- 在背景同時開啟多個 SSH 連線
+- 支援在連線時以其他 SSH 連線作為 Proxy
+- 開啟 App 就能快速連線到常用的伺服器
 - 支援 IPv6
-- 支援密碼和 OpenSSH 私鑰（ECDSA，RSA 和 DSA）
-- RSA 金鑰生成器（支援加密）
+- 支援密碼和 OpenSSH 金鑰（ECDSA，RSA 和 DSA）
+- RSA 金鑰生成器（支援 passphrase）
 - SSH 金鑰轉發代理
 - 支援兩步驟認證（例如：Google Authenticator）
 - 獨立於連接的身份管理（使用者名稱/密碼/金鑰)。不必在修改密碼時更新每個連接，直接更新身份即可，任何使用該身份的連接都會使用新的密碼和金鑰。
-- 支援 zlib 壓縮，藉此優化 SSH 工作階段在高延遲網路環境之順暢度
+- 支援 zlib 壓縮，藉此優化 SSH 連線在高延遲網路環境下的順暢度
 
 
-高級功能（可在應用程式內購買）：
-- 快速方便的透過應用或桌面插件連接埠轉發，還能自動打開瀏覽器。
+專業版功能（可在應用程式內購買）：
+- 快速且方便的進行連接埠轉發，還能自動打開瀏覽器。
 - 集成了對 Amazon AWS / EC2 的支援，自動根據分類和安全組來同步連接和群組。
 - 透過加密的方式安全地在多台設備之間同步
-- 自動地備份連接與設定，並使用 AES-256 來加密
-- 通過美觀的桌面插件快速訪問常用的連接，或者是某組連接（Android 3.0+）。
-- 團隊合作。與你的團隊成員共享某組連接，開始一起工作而不是各自為戰。
+- 自動的備份連接與設定，並使用 AES-256 來加密
+- 透過桌面 Widget 快速連線至常用的伺服器，或連線群組（Android 3.0+）。
+- 團隊合作。與團員共用連線與身份，一起工作而不是各自奮鬥。
 - 透過指令片段庫來便捷的使用常用指令
-- 安全鎖機制能自動在一段時間不使用後鎖定 JuiceSSH
+- 自動在一段時間不使用後鎖定 JuiceSSH
 
-想查看詳細的應用權限，並知道每個權限如何使用，請造訪 https://juicessh.com/permissions
+想了解 App 權限的用途，請造訪 https://juicessh.com/permissions
