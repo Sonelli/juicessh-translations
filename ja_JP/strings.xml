@@ -225,8 +225,8 @@
     <string name="you_do_not_have_any_ec2_sync_profiles">まだ Amazon EC2 プロファイルがありません。\n以下のボタンで JuiceSSH を EC2 のインスタンスに自動接続する新しいプロファイルを作成してください。</string>
     <string name="last_sync">Last sync %1$s at %2$s</string>
     <string name="sync_failed">同期失敗: %s</string>
-    <string name="disabled">使用不可能</string>
-    <string name="form_enabled">使用可能: </string>
+    <string name="disabled">無効</string>
+    <string name="form_enabled">有効: </string>
     <string name="form_region">リージョン: </string>
     <string name="form_private_ips">プライベートIPを使用: </string>
     <string name="form_name">名前: </string>
@@ -265,9 +265,9 @@
     <string name="ec2exception_bad_connection">Bad connection</string>
     <string name="ec2exception_uncaught_reason">不明</string>
     <string name="ec2exception_api_certificate_error">API 証明書エラー</string>
-    <string name="ive_already_purchased">Already Purchased</string>
-    <string name="thanks_for_purchasing">Thanks for purchasing JuiceSSH Pro.\nPlease select which google account you would like to associate the purchase with:</string>
-    <string name="select_associated_account">Please select the google account you associated the purchase with:</string>
+    <string name="ive_already_purchased">購入済み</string>
+    <string name="thanks_for_purchasing">JuiceSSH Pro をご購入ありがとうございます.\n購入情報を関連付ける Google アカウントを選択してください:</string>
+    <string name="select_associated_account">購入情報を関連付けた Google アカウントを選択してください:</string>
     <string name="rate_us">評価してください</string>
     <string name="it_really_helps">アプリを気に入ったなら感謝を示してください!</string>
     <string name="website">ウェブサイト</string>
@@ -475,7 +475,7 @@
     <string name="open">開く</string>
     <string name="error_plugin_not_installed">エラー: プラグインがインストールされていません</string>
     <string name="clear_private_key">プライベートキーを消去</string>
-    <string name="are_you_sure_clear_private_key">This will remove the private key associated with this identity.\n\nAre you sure you want to continue?</string>
+    <string name="are_you_sure_clear_private_key">認証情報に関連付けられた秘密鍵を削除します.\n\nよろしいですか?</string>
     <string name="generate">生成</string>
     <string name="form_key_strength">キー強度:</string>
     <string name="key_strength_1024">1024 bits</string>
