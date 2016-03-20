@@ -365,7 +365,7 @@
     <string name="special_offer">Offerta speciale</string>
     <string name="pick_one">(Selezionane una)</string>
     <string name="reconnect">Riconnettiti</string>
-    <string name="just_fetching_and_organising_your_port_forwards">Organizzando l'inoltro delle porte.</string>
+    <string name="just_fetching_and_organising_your_port_forwards">Organizzando l\'inoltro delle porte.</string>
     <string name="via_connection_string">attraverso %s</string>
     <string name="please_enter_your_private_key_passphrase_for">Per favore immetti la tua chiave privata per %s:</string>
     <string name="enter_password_for">Inserisci la password per %s:</string>
