@@ -1,0 +1,42 @@
+De alles in 1 terminal client voor Android, inclusief SSH, lokale shell, Mosh en Telnet ondersteuning.
+  
+Eigenschappen: 
+- Full colour terminal / ssh client
+- Popup toetsenbord met alle karakters
+- Gebruik de volume knop om snel de tekstgrootte aan te passen
+- Ondersteuning voor een extern toetsenbord
+- Gebaren voor irssi, weechat, tmux en screen
+- Officiele en third party plugins
+- Officieel Mosh ondersteuning (http://mosh.mit.edu)
+- Telnet ondersteuning
+- Ondersteuning voor lokale Android terminal
+- Dark, Light, 80's hacker, Molokai, Solarized Dark and Solarized Light terminal kleuren thema's
+   Bekijk de volgende website voor een overzicht van het solarized color thema en waarom het geweldig is voor terminal gebruik; http://ethanschoonover.com/solarized
+- Klik URLs om ze te openen in de browser
+- Kopieer en plak tussen sessies
+- Sla op / deel SSH logs naar Dropbox/Evernote/Email & SD kaart 
+- UTF-8 karakter ondersteuning
+- Organiseer je verbindingen makkelijk per groep
+- Hou meerdere SSH sessies draaiende op de achtergrond
+- Verbind moeiteloos via andere SSH verbindingen met 1 klik
+- Directe toegang als je de app opent naar je meest gebruikte verbindingen
+- IPv6 ondersteuning
+- Wachtwoord & OpenSSH private key ondersteuning (ECDSA, RSA and DSA)
+- RSA key generator (encryptie ondersteuning)
+- SSH key agent forwarding
+- Ondersteuning voor tweestapsauthenticatie (zoals: Google Authenticator)
+- Identiteiten (gebruikers/wachtwoorden/sleutels) staan los van verbindingen. In plaats van elke verbinding te veranderen bij een verandering van je wachtwoord, kan je gewoon de identiteit updaten en alle gerelateerde verbindingen zullen het nieuwe wachtwoord of sleutel gebruiken
+- zlib compressie om SSH verbindingen op trage verbindingen te verbeteren
+
+
+Pro Eigenschappen (optionele in-app aankoop):
+- Makkelijke poort forwards, waar via de app of widget mee verbonden kan worden en die automatisch in de browser geopend kunnen worden zo nodig
+- Integratie met Amazon AWS / EC2, synchroniseren van verbindingen en automatisch groeperen van servers gebaseerd op hun klasse of veiligheidsgroep
+- Veilige synchronisatie van alle data tussen meerdere apparaten
+- Geautomatiseerde encryptie van backups met AES-256 van alle verbindingen en instellingen
+- Een mooie widget voor snelle toegang tot vaak gebruikte verbindingen, of een specifieke groep (Android 3.0+)
+- Team samenwerking. Deel je verbindingsgroepen met teamleden en werk samen in plaats van apart
+- Handig woordenboek voor snelle toegang tot frequent gebruikte commando's
+- Beveiligingsblokkade om automatisch JuiceSSH te vergrendelen na een periode van inactiviteit
+
+Voor een gedetailleerd overzicht van de applicatie bevoegdheden en hoe deze gebruikt worden, kijk op https://juicessh.com/permissions
