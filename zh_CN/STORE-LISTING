@@ -5,12 +5,12 @@
 - 弹出式键盘上有着所有有用而又难以找到的字符
 - 使用音量键快速调整字体大小
 - 支持使用外接键盘
-- 支持在 irssi，weechat，tmux 和 screen 中使用手势
+- 支持在 irssi，weechat，tmux 和 screen 中使用手势。
 - 社区和第三方开发的插件
 - 官方支持 mosh (http://mosh.mit.edu)
 - 支持 Telnet
 - 支持 Android 本地 Shell
-- 支持暗色，亮色，80's hacker，Monokai，Solarized 暗色 和 Solarized 亮色 等终端配色
+- 支持暗色，亮色，80's hacker，Monokai，Solarized 暗色 和 Solarized 亮色 等终端配色。
    如需了解 Solarized 配色方案，以及它为什么适用于终端，请访问 http://ethanschoonover.com/solarized
 - 点击链接以在浏览器中打开
 - 在会话中复制和粘帖
@@ -26,7 +26,7 @@
 - SSH 密钥转发代理
 - 支持二次认证（例如：Google Authenticator）
 - 独立于连接的认证管理（用户/密码/密钥)。不必在修改密码时更新每个连接，直接更新认证信息即可，任何使用该认证的连接都会使用新的密码和密钥。
-- 支持 zlib 压缩，从而优化 SSH 会话在高延迟时的表现
+- 支持 zlib 压缩，从而优化 SSH 会话在高延迟时的表现。
 
 
 高级版功能（可通过应用内支付购买）：
