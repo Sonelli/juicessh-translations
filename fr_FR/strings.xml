@@ -193,7 +193,7 @@
     <string name="utf8_support">Support UTF-8</string>
     <string name="copy">Copier</string>
     <string name="make_a_selection">Sélectionner</string>
-    <string name="text_copied_to_clipboard">Texte copier dans le presse-papier</string>
+    <string name="text_copied_to_clipboard">Texte copié dans le presse-papier</string>
     <string name="save_transcript">Journal</string>
     <string name="snippets">Extraits</string>
     <string name="snippet">Extrait</string>
