@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
 <!-- App Strings -->
@@ -573,5 +573,9 @@
     <string name="alt_sends_esc">ALT 键发送 ESC</string>
     <string name="vibrate_device">振动设备</string>
     <string name="show_notification">显示通知</string> 
-
+    <string name="bookclub">技术库</string>
+    <string name="suggest_more_books">推荐更多书目</string>
+    <string name="find_and_recommend_books">发现书目并支持JuiceSSH</string>
+    <string name="remove_bookclub">禁用技术库</string>
+    <string name="never_show_bookclub_again">禁用JuiceSSH技术库</string>
 </resources>
