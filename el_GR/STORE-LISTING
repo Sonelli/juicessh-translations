@@ -1,15 +1,15 @@
-The all in one terminal client for Android including SSH, Local Shell, Mosh and Telnet support.
+Το πρόγραμμα-πελάτης για Android που τα συνδυάζει όλα συμπεριλαμβανομένων των SSH, τοπικού κελύφους, mosh και telnet.
   
-Features: 
-- Full colour terminal / ssh client
-- Popup keyboard with all those normally hard to find characters
-- Use the volume keys to quickly change font size
-- External keyboard support
-- Gestures for irssi, weechat, tmux and screen
-- Community and third party plugins
-- Official Mosh support (http://mosh.mit.edu)
-- Telnet support
-- Local Android terminal support
+Χαρακτηριστικά: 
+- Έγχρωμο τερματικό / πελάτης ssh
+- Αναδυόμενο πληκτρολόγιο με όλους τους χαρακτήρες που είναι πάντα δυσεύρετοι
+- Χρήση πλήκτρων έντασης ήχου για γρήγορη εναλλαγή μεγέθους γραμματοσειράς
+- Υποστήριξη εξωτερικού πληκτρολογίου
+- Κινήσεις για irssi, weechat, tmux και screen
+- Πρόσθετα κοινότητας και τρίτων
+- Επίσημη υποστήριξη Mosh (http://mosh.mit.edu)
+- Υποστήριξη telnet
+- Υποστήριξη τοπικού τερματικού Android
 - Dark, Light, 80's hacker, Molokai, Solarized Dark and Solarized Light terminal color themes
    For an overview of solarized color scheme and why it rocks for terminal usage check out http://ethanschoonover.com/solarized
 - Click URLs to open in a browser
