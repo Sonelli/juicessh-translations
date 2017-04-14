@@ -12,18 +12,18 @@
 - Υποστήριξη τοπικού τερματικού Android
 - Dark, Light, 80's hacker, Molokai, Solarized Dark and Solarized Light terminal color themes
    For an overview of solarized color scheme and why it rocks for terminal usage check out http://ethanschoonover.com/solarized
-- Click URLs to open in a browser
-- Copy & Paste within sessions
-- Save / Share SSH transcripts to Dropbox/Evernote/Email & SD card 
-- UTF-8 character support
-- Easily organise your connections by group
-- Keep multiple SSH sessions running in the background
-- Seamlessly connect 'via' other SSH connections with one click
-- Immediate access when you open the app to your frequently used connections
-- IPv6 support
-- Password & OpenSSH private key support (ECDSA, RSA and DSA)
-- RSA key generator (encryption supported)
-- SSH key agent forwarding
+- Κλικ σε URLs για να ανοίξουν στον περιηγητή
+- Αντιγραφή & Επικόλληση μέσα στις συνεδρίες
+- Αποθήκευση / Κοινοποίηση συνεδριών SSH σε Dropbox/Evernote/Email & κάρτα SD
+- Υποστήριξη χαρακτήρων UTF-8
+- Εύκολη οργάνωση των συνδέσεών σου ανά ομάδα
+- Διατήρηση πολλαπλών συνεδριών SSH εκτελούμενων στο παρασκήνιο
+- Συνδεθείτε απρόσκοπτα 'μέσω' άλλων συνδέσεων SSH με ένα κλικ
+- Άμεση πρόσβαση στις συχνότερα χρησιμοποιούμενες συνδέσεις σαςκατά το άνοιγμα της εφαρμογής
+- Υποστήριξη IPv6
+- Υποστήριξη κωδικού & ιδιωτικού κλειδιού OpenSSH (ECDSA, RSA και DSA)
+- Γεννήτρια κλειδιού RSA (υποστήριξη κρυπτογράφησης)
+- Προώθηση SSH key agent
 - Support for two-factor authentication (eg: Google Authenticator)
 - Identities (users/password/keys) are abstracted from connections. Instead of updating every connection when you change your password - just update the identity and any connections linked to it will use the new password/key.
 - zlib compression to improve SSH sessions on high latency connections
