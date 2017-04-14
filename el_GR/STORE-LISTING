@@ -1,0 +1,42 @@
+Το πρόγραμμα-πελάτης για Android που τα συνδυάζει όλα συμπεριλαμβανομένων των SSH, τοπικού κελύφους, mosh και telnet.
+  
+Χαρακτηριστικά: 
+- Έγχρωμο τερματικό / πελάτης ssh
+- Αναδυόμενο πληκτρολόγιο με όλους τους χαρακτήρες που είναι πάντα δυσεύρετοι
+- Χρήση πλήκτρων έντασης ήχου για γρήγορη εναλλαγή μεγέθους γραμματοσειράς
+- Υποστήριξη εξωτερικού πληκτρολογίου
+- Κινήσεις για irssi, weechat, tmux και screen
+- Πρόσθετα κοινότητας και τρίτων
+- Επίσημη υποστήριξη Mosh (http://mosh.mit.edu)
+- Υποστήριξη telnet
+- Υποστήριξη τοπικού τερματικού Android
+- Dark, Light, 80's hacker, Molokai, Solarized Dark and Solarized Light terminal color themes
+   For an overview of solarized color scheme and why it rocks for terminal usage check out http://ethanschoonover.com/solarized
+- Κλικ σε URLs για να ανοίξουν στον περιηγητή
+- Αντιγραφή & Επικόλληση μέσα στις συνεδρίες
+- Αποθήκευση / Κοινοποίηση συνεδριών SSH σε Dropbox/Evernote/Email & κάρτα SD
+- Υποστήριξη χαρακτήρων UTF-8
+- Εύκολη οργάνωση των συνδέσεών σου ανά ομάδα
+- Διατήρηση πολλαπλών συνεδριών SSH εκτελούμενων στο παρασκήνιο
+- Συνδεθείτε απρόσκοπτα 'μέσω' άλλων συνδέσεων SSH με ένα κλικ
+- Άμεση πρόσβαση στις συχνότερα χρησιμοποιούμενες συνδέσεις σαςκατά το άνοιγμα της εφαρμογής
+- Υποστήριξη IPv6
+- Υποστήριξη κωδικού & ιδιωτικού κλειδιού OpenSSH (ECDSA, RSA και DSA)
+- Γεννήτρια κλειδιού RSA (υποστήριξη κρυπτογράφησης)
+- Προώθηση SSH key agent
+- Support for two-factor authentication (eg: Google Authenticator)
+- Identities (users/password/keys) are abstracted from connections. Instead of updating every connection when you change your password - just update the identity and any connections linked to it will use the new password/key.
+- zlib compression to improve SSH sessions on high latency connections
+
+
+Pro Features (optional in-app purchase):
+- Quick and easy port forwards that can be connected to via the app or widget and can automatically open in a browser if required.
+- Integrate with Amazon AWS / EC2, synchronise connections and automatically group servers based on their class or security groups.
+- Securely keep everything in sync between multiple devices
+- Automated AES-256 encrypted backups of all of your connections and settings
+- A beautiful widget for fast access to either your frequently used connections, or a specific group (Android 3.0+).
+- Team collaboration. Share your groups of connections with team members and start working together instead of separately.
+- Handy snippets library for quick access to your frequently used commands
+- Security lock to automatically protect JuiceSSH after a period of inactivity
+
+For a detailed overview of this applications permissions and how each one is used in our ssh client please see https://juicessh.com/permissions
