@@ -574,4 +574,12 @@
     <string name="vibrate_device">Vibrar Dispositivo</string>
     <string name="show_notification">Mostrar Notificación</string> 
 
+    <string name="bookclub">Biblioteca técnica</string>
+    <string name="suggest_more_books">Sugerir más libros</string>
+    <string name="find_and_recommend_books">Descubre libros y apoya JuiceSSH</string>
+    <string name="remove_bookclub">Desactivar biblioteca técnica</string>
+    <string name="bookclub_description">La biblioteca técnica de JuiceSSH es una lista de libros técnicos que otros usuarios de JuiceSSH han encontrado útiles y relevantes. Todos los libros comprados ayudan a respaldar el desarrollo continuo de JuiceSSH. Ganamos una pequeña cantidad de dinero por cada compra realizada. \ n\nSi recientemente has leído un buen libro técnico, use el siguiente botón para recomendarlo a la comunidad de JuiceSSH.</string>
+    <string name="remove_bookclub_text">¿No quieres recomendaciones de libros de la comunidad JuiceSSH? No hay problema, es más que bienvenido para ocultar esta característica para siempre.\n\nUna vez deshabilitada, necesitará reinstalar JuiceSSH para recuperarla.</string>
+    <string name="never_show_bookclub_again">Deshabilitar la biblioteca técnica de JuiceSSH</string>
+
     </resources>
