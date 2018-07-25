@@ -321,7 +321,7 @@
     <string name="port_forwards">Inoltro porte</string>
     <string name="no_port_forwards">Nessuna porta inoltrata</string>
     <string name="you_do_not_have_any_port_forwards">Non hai nessuna regola di inoltro configurata</string>
-    <string name="disconnect">Disconnesso</string>
+    <string name="disconnect">Disconnetti</string>
     <string name="socks_forward_description">Inoltra SOCK dinamici sulla porta %s</string>
     <string name="new_port_forward">Nuova regola di inoltro porta</string>
     <string name="update_port_forward">Aggiorna le regole di inoltro porte</string>
