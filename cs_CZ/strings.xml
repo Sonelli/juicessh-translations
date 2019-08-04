@@ -321,7 +321,7 @@
     <string name="port_forwards">Přesměrování portů</string>
     <string name="no_port_forwards">Žádná přesměrování portů</string>
     <string name="you_do_not_have_any_port_forwards">Nemáte nakonfigurována žádná přesměrování portů</string>
-    <string name="disconnect">Odpojeno</string>
+    <string name="disconnect">Odpojit</string>
     <string name="socks_forward_description">Dynamické SOCKS na portu %s</string>
     <string name="new_port_forward">Nové přesměrování portů</string>
     <string name="update_port_forward">Aktualizovat přesměrování portů</string>
