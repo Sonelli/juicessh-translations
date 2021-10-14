@@ -1,8 +1,8 @@
 Allt-i-allo terminalen för Android inklusive SSH, lokalt Shell, Mosh och Telnet stöd.
   
 Funktioner: 
-- Full färg terminal / ssh klient
-- Pop-up tangentbord med alla de tecken som annars är svåra att hitta
+- Terminal i fullfärg / ssh klient
+- Pop-up tangentbord med tecken som annars är svåra att hitta
 - Använd volym knapparna för att snabbt ändra teckenstorlek
 - Stöd för externt tangentbord
 - Gester för irssi, weechat, tmux och screen
@@ -11,32 +11,32 @@ Funktioner:
 - Telnet stöd
 - Stöd för Lokal Android terminal
 - Mörk, Ljus, 80-tals hacker, Molokai, Exponerad Mörk och Exponerad Ljus terminal färg teman
-   För en överblick av exponerat färg schema och varför det rockar för terminal användning, kika här http://ethanschoonover.com/solarized
+   För en överblick av exponerat färgschema och dess fördelar vid terminalanvändning, kika här http://ethanschoonover.com/solarized
 - Klicka på URLer för att öppna i webbläsaren
 - Kopiera & Klistra in i sessioner
 - Spara / Dela SSH transkript till Dropbox/Evernote/Email & SD kort 
 - Stöd för UTF-8 tecken
 - Organisera enkelt dina anslutningar i grupper
-- Håll multipla SSH anslutningar igång i bakgrunden
-- Anslut sömnlöst via andra SSH anslutningar med bara ett klick
+- Håll multipla SSH anslutningar levande i bakgrunden
+- Anslut sömlöst via andra SSH anslutningar med bara ett klick
 - Omedelbar tillgång till dina mest använda anslutningar när du öppnar appen
 - IPv6 stöd
 - Stöd för Lösenord & OpenSSH privata nycklar (ECDSA, RSA and DSA)
-- RSA nyckel genererare (kryptering stöds)
-- SSH nyckel agent vidarebefordran
-- Stöd för två-faktors autentisering (ex: Google Authenticator)
-- Identiteter (användare/lösenord/nycklar) är separata från anslutningarna. Istället för att uppdatera varje anslutning när du byter lösenord - uppdatera bara identiteten och varje anslutning länkad till den kommer att börja använda det nya lösenordet/nyckeln.
+- RSA nyckelgenerering (kryptering stöds)
+- SSH nyckelagent vidarebefordran
+- Stöd för två-faktorautentisering (ex: Google Authenticator)
+- Identiteter (användare/lösenord/nycklar) kan delas av flera anslutingar - uppdatera identitet och alla kopplade anslutningar i ett svep. 
 - zlib kompression för att förbättra SSH sessioner på långsamma uppkopplingar
 
 
 Pro Funktioner (valfri köp-inuti-app):
-- Snabb och enkel vidarebefordran utav portar som kan kopplas upp via appen eller widgeten och kan automatiskt öppna webbläsaren om det behövs.
-- Integrera med Amazon AWS / EC2, synkronisera anslutningar och gruppera automatiskt servrar baserad på deras klass eller säkerhetsgrupp.
+- Snabb och enkel vidarebefordran av portar som kan kopplas upp via appen eller widgeten och kan automatiskt öppna webbläsaren om det behövs.
+- Integrera med Amazon AWS / EC2, synkronisera anslutningar och gruppera automatiskt servrar baserat på deras klass eller säkerhetsgrupp.
 - Håll allt synkroniserat säkert mellan många enheter
 - Automatiska AES-256 krypterade backuper av alla dina anslutningar och inställningar
 - En snygg widget  för snabb tillgång till dina mest använda anslutningar, eller en specifik grupp (Android 3.0+).
-- Lag samarbete. Dela dina anslutnings grupper mellan lagmedlemmar och börja arbeta tillsammans istället för att arbeta separat.
-- Praktiska kodavsnitt bibliotek för snabb tillgång till dina mest använda kommandon
+- Teamwork. Dela dina anslutningar mellan lagmedlemmar och börja arbeta tillsammans.
+- Praktiska kodavsnitt för snabb tillgång till dina mest använda kommandon
 - Säkerhetslås som automatiskt skyddar JuiceSSH efter en stund av inaktivitet
 
-För en detaljerad överblick av denna appens tillåtelse och hur dom används i vår ssh klient, besök https://juicessh.com/permissions
+För en detaljerad överblick av appens behörigheter och hur de används i juicessh, besök https://juicessh.com/permissions
