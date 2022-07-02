@@ -1,16 +1,16 @@
-這是一個為 Android 打造的全功能終端應用，支援 SSH, Local Shell，mosh 和 Telnet。
+這是一個為 Android 打造的全功能終端機應用程式，支援 SSH、本機 Shell、Mosh 和 Telnet。
 
 功能：
-- 支援全彩
-- 內建彈出式鍵盤上有多種有用而又難找的字元
+- 支援全彩終端機
+- 內建的彈出式鍵盤上包含許多平時常用卻不容易找到的字元
 - 可使用音量鍵快速調整字體大小
 - 支援外接鍵盤
-- 支援在 irssi，weechat，tmux 和 screen 中使用手勢來切換分頁
-- 參與 JuiceSSH 社群和使用第三方開發的插件
-- mosh 官方支援 (http://mosh.mit.edu)
+- 支援在 irssi、weechat、tmux 和 screen 中使用手勢來切換分頁
+- 由 JuiceSSH 社群與第三方開發的外掛程式
+- Mosh 官方支援 (http://mosh.mit.edu)
 - 支援 Telnet
-- 支援 Android 本地端 Shell
-- 支援暗色系，亮色系，80's hacker，Monokai，Solarized 暗色和 Solarized 亮色等配色
+- 支援 Android 本機 Shell
+- 支援暗色、亮色系、80's hacker、Monokai、Solarized 暗色和 Solarized 亮色等配色
     Solarized 是什麼？ 了解更多，請造訪 http://ethanschoonover.com/solarized
 - 可直接開啟終端機中的連結，不必再複製貼上
 - 在工作階段中複製和貼上
@@ -18,24 +18,24 @@
 - 支援 UTF-8
 - 可使用群組管理連接
 - 在背景同時開啟多個 SSH 連線
-- 支援在連線時以其他 SSH 連線作為 Proxy
+- 支援在連線時以其他 SSH 連線作為代理伺服器
 - 開啟 App 就能快速連線到常用的伺服器
 - 支援 IPv6
-- 支援密碼和 OpenSSH 金鑰（ECDSA，RSA 和 DSA）
-- RSA 金鑰生成器（支援 passphrase）
+- 支援密碼和 OpenSSH 金鑰（ECDSA、RSA 和 DSA）
+- RSA 金鑰產生器（可使用 passphrase 加密金鑰）
 - SSH 金鑰轉發代理
-- 支援兩步驟認證（例如：Google Authenticator）
+- 支援雙因素驗證（例如：Google Authenticator）
 - 獨立於連接的身份管理（使用者名稱/密碼/金鑰)。不必在修改密碼時更新每個連接，直接更新身份即可，任何使用該身份的連接都會使用新的密碼和金鑰。
 - 支援 zlib 壓縮，藉此優化 SSH 連線在高延遲網路環境下的順暢度
 
 
 專業版功能（可在應用程式內購買）：
-- 快速且方便的進行連接埠轉發，還能自動打開瀏覽器。
-- 集成了對 Amazon AWS / EC2 的支援，自動根據分類和安全組來同步連接和群組。
-- 透過加密的方式安全地在多台設備之間同步
-- 自動的備份連接與設定，並使用 AES-256 來加密
-- 透過桌面 Widget 快速連線至常用的伺服器，或連線群組（Android 3.0+）。
-- 團隊合作。與團員共用連線與身份，一起工作而不是各自奮鬥。
+- 透過應用程式或小工具快速且方便地進行連接埠轉發，還能自動打開瀏覽器。
+- 整合對 Amazon AWS / EC2 的支援，自動根據類別和安全群組來同步連線資訊與群組。
+- 透過加密的格式安全地在多台設備之間同步
+- 自動備份連線資訊與選項，並使用 AES-256 來加密
+- 透過桌面小工具快速連線至常用的伺服器或連線群組（Android 3.0+）。
+- 團隊合作。與團員共用連線與身份資料，一起工作而不是各自奮鬥。
 - 透過指令片段庫來便捷的使用常用指令
 - 自動在一段時間不使用後鎖定 JuiceSSH
 
